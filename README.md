@@ -28,3 +28,4 @@ O portal foi projetado para motoristas e passageiros que trafegam diariamente na
 - 🌐 **Otimização de SEO (White Hat)**: Inclusão de meta tags estruturadas, tags Open Graph (OG) e dados estruturados JSON-LD.
 - 💵 **Monetização Ativa**: Slots de anúncios estruturados e acessíveis destinados ao Google AdSense e AdMob.
 - 🤖 **Script de Automação**: Criação de script Python em `atualizar_br324.py` na raiz do projeto para processar notícias de trânsito em lote.
+- 🔧 **Responsividade do Mapa**: Correção do bug de renderização do iframe do Waze no mobile através de altura fixa de 420px em telas menores, evitando a sobreposição do botão de expansão.
