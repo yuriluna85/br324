@@ -560,6 +560,132 @@
       color: var(--teal);
     }
 
+    /* TABS */
+    .tab-bar {
+      display: flex;
+      gap: 15px;
+      margin-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border-glass);
+      padding-bottom: 0.3rem;
+    }
+    
+    .tab-btn {
+      padding: 10px 20px;
+      border: none;
+      background: none;
+      color: var(--text-muted);
+      font-family: inherit;
+      font-size: 0.95rem;
+      font-weight: 750;
+      cursor: pointer;
+      transition: var(--transition-smooth);
+      position: relative;
+    }
+    
+    .tab-btn.active {
+      color: #fff;
+    }
+    
+    .tab-btn.active::after {
+      content: '';
+      position: absolute;
+      bottom: -0.45rem;
+      left: 0;
+      width: 100%;
+      height: 3px;
+      background: var(--primary);
+      border-radius: 2px;
+    }
+    
+    .tab-content {
+      display: none;
+    }
+    
+    .tab-content.active {
+      display: block;
+      animation: fadeIn 0.4s ease;
+    }
+    
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(5px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    /* METRICAS */
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1rem;
+    }
+    
+    .metric-card {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid var(--border-glass);
+      border-radius: 12px;
+      padding: 1.2rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    
+    .metric-icon {
+      font-size: 1.8rem;
+    }
+    
+    .metric-val {
+      font-size: 1.4rem;
+      font-weight: 800;
+      color: #fff;
+      font-family: 'Outfit', sans-serif;
+    }
+    
+    .metric-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      font-weight: 600;
+      margin-top: 2px;
+    }
+    
+    .stats-box {
+      background: rgba(255, 255, 255, 0.01);
+      border: 1px solid var(--border-glass);
+      border-radius: 12px;
+      padding: 1.2rem;
+    }
+    
+    .dist-label-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.8rem;
+      font-weight: 700;
+      margin-bottom: 0.4rem;
+    }
+    
+    .dist-bar-bg {
+      height: 8px;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    
+    .dist-bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      transition: width 1s ease-in-out;
+    }
+    
+    .dist-bar-fill.fluido {
+      background: var(--status-fluido);
+    }
+    
+    .dist-bar-fill.atencao {
+      background: var(--status-atencao);
+    }
+    
+    .dist-bar-fill.lento {
+      background: var(--status-lento);
+    }
+
     /* RESPONSIVIDADE */
     @media (max-width: 968px) {
       .main-container {
@@ -646,73 +772,175 @@
     
     <main role="main">
       
-      <!-- SELEÇÃO DE SENTIDO DE ROTA -->
-      <section class="glass-card" aria-label="Seleção do Sentido de Tráfego" style="padding: 1.2rem;">
-        <h2 style="font-family: 'Outfit', sans-serif; font-size: 0.85rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-bottom: 0.8rem; display: flex; align-items: center; gap: 6px;">
-          🧭 Sentido do Percurso
-        </h2>
-        <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-          <button id="btn-route-fsa-ssa" onclick="mudarSentido('FSA-SSA')" style="flex: 1; min-width: 140px; padding: 0.75rem; border-radius: 12px; border: 1.5px solid var(--primary); background: rgba(13, 110, 253, 0.15); color: #fff; font-family: inherit; font-weight: 700; cursor: pointer; transition: var(--transition-smooth); display: flex; align-items: center; justify-content: center; gap: 8px;">
-            🚗 Feira (FSA) ➔ Salvador (SSA)
-          </button>
-          <button id="btn-route-ssa-fsa" onclick="mudarSentido('SSA-FSA')" style="flex: 1; min-width: 140px; padding: 0.75rem; border-radius: 12px; border: 1.5px solid var(--border-glass); background: rgba(255, 255, 255, 0.02); color: var(--text-muted); font-family: inherit; font-weight: 700; cursor: pointer; transition: var(--transition-smooth); display: flex; align-items: center; justify-content: center; gap: 8px;">
-            🚗 Salvador (SSA) ➔ Feira (FSA)
-          </button>
-        </div>
-        <!-- Link rápido para GPS externo -->
-        <div style="margin-top: 0.8rem; text-align: right;">
-          <a id="link-gps-externo" href="https://waze.com/ul?ll=-12.9777,-38.5016&navigate=yes" target="_blank" rel="noopener noreferrer" style="color: var(--teal); font-size: 0.75rem; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 4px;">
-            🚀 Iniciar Viagem no Waze GPS ➔
-          </a>
-        </div>
-      </section>
+      <!-- BARRA DE ABAS (TABS) -->
+      <div class="tab-bar" role="tablist">
+        <button id="btn-tab-realtime" class="tab-btn active" role="tab" aria-selected="true" aria-controls="tab-realtime" onclick="alternarAba('realtime')">
+          🚗 Status em Tempo Real
+        </button>
+        <button id="btn-tab-metrics" class="tab-btn" role="tab" aria-selected="false" aria-controls="tab-metrics" onclick="alternarAba('metrics')">
+          📊 Métricas & Estatísticas
+        </button>
+      </div>
 
-      <!-- STATUS RÁPIDO -->
-      <section class="glass-card" aria-labelledby="status-section-title">
-        <h2 id="status-section-title" style="display: none;">Resumo do Status da Rodovia</h2>
-        <div class="status-panel">
-          <div class="status-main">
-            <div class="status-dot" id="status-via-dot" style="color: var(--status-atencao);"></div>
-            <div>
-              <div class="status-title">Tráfego Geral</div>
-              <div class="status-value" id="status-via-texto">Carregando...</div>
+      <!-- ABA 1: STATUS EM TEMPO REAL -->
+      <div id="tab-realtime" class="tab-content active" role="tabpanel" aria-labelledby="btn-tab-realtime">
+        <!-- SEÇÃO DE SENTIDO DE ROTA -->
+        <section class="glass-card" aria-label="Seleção do Sentido de Tráfego" style="padding: 1.2rem;">
+          <h2 style="font-family: 'Outfit', sans-serif; font-size: 0.85rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-bottom: 0.8rem; display: flex; align-items: center; gap: 6px;">
+            🧭 Sentido do Percurso
+          </h2>
+          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+            <button id="btn-route-fsa-ssa" onclick="mudarSentido('FSA-SSA')" style="flex: 1; min-width: 140px; padding: 0.75rem; border-radius: 12px; border: 1.5px solid var(--primary); background: rgba(13, 110, 253, 0.15); color: #fff; font-family: inherit; font-weight: 700; cursor: pointer; transition: var(--transition-smooth); display: flex; align-items: center; justify-content: center; gap: 8px;">
+              🚗 Feira (FSA) ➔ Salvador (SSA)
+            </button>
+            <button id="btn-route-ssa-fsa" onclick="mudarSentido('SSA-FSA')" style="flex: 1; min-width: 140px; padding: 0.75rem; border-radius: 12px; border: 1.5px solid var(--border-glass); background: rgba(255, 255, 255, 0.02); color: var(--text-muted); font-family: inherit; font-weight: 700; cursor: pointer; transition: var(--transition-smooth); display: flex; align-items: center; justify-content: center; gap: 8px;">
+              🚗 Salvador (SSA) ➔ Feira (FSA)
+            </button>
+          </div>
+          <!-- Link rápido para GPS externo -->
+          <div style="margin-top: 0.8rem; text-align: right;">
+            <a id="link-gps-externo" href="https://waze.com/ul?ll=-12.9777,-38.5016&navigate=yes" target="_blank" rel="noopener noreferrer" style="color: var(--teal); font-size: 0.75rem; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 4px;">
+              🚀 Iniciar Viagem no Waze GPS ➔
+            </a>
+          </div>
+        </section>
+
+        <!-- STATUS RÁPIDO -->
+        <section class="glass-card" aria-labelledby="status-section-title">
+          <h2 id="status-section-title" style="display: none;">Resumo do Status da Rodovia</h2>
+          <div class="status-panel">
+            <div class="status-main">
+              <div class="status-dot" id="status-via-dot" style="color: var(--status-atencao);"></div>
+              <div>
+                <div class="status-title">Tráfego Geral</div>
+                <div class="status-value" id="status-via-texto">Carregando...</div>
+              </div>
+            </div>
+            
+            <div class="tempo-viagem">
+              <div class="tempo-box">
+                <div class="tempo-val" id="tempo-estimado">-- min</div>
+                <div class="tempo-label" id="tempo-estimado-label">Feira ➔ Salvador</div>
+              </div>
+              <div class="tempo-box">
+                <div class="tempo-val" id="tempo-normal">-- min</div>
+                <div class="tempo-label">Tempo Normal</div>
+              </div>
             </div>
           </div>
+        </section>
+
+        <!-- MAPA INTERATIVO (WAZE LIVE EMBED) -->
+        <section class="glass-card" aria-label="Mapa de Tráfego Interativo">
+          <div class="map-container">
+            <iframe 
+              src="https://embed.waze.com/pt-BR/iframe?zoom=10&lat=-12.62&lon=-38.75&ct=iframe" 
+              title="Mapa de Trânsito em tempo real da BR-324 pelo Waze"
+              allowfullscreen>
+            </iframe>
+          </div>
+        </section>
+
+        <!-- COMPILAÇÃO DE NOTÍCIAS -->
+        <section class="glass-card" aria-labelledby="news-section-title">
+          <h2 id="news-section-title" class="section-head">📰 Ocorrências e Notícias do Dia</h2>
+          <div class="news-grid" id="container-noticias">
+            <div style="text-align: center; padding: 2rem; color: var(--text-muted);">
+              Buscando notícias e boletins de trânsito...
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <!-- ABA 2: ESTATÍSTICAS E MÉTRICAS -->
+      <div id="tab-metrics" class="tab-content" role="tabpanel" aria-labelledby="btn-tab-metrics">
+        <section class="glass-card" aria-labelledby="metrics-panel-title">
+          <h2 id="metrics-panel-title" class="section-head" style="margin-bottom: 1.5rem;">📊 Observatório de Mobilidade BR-324</h2>
           
-          <div class="tempo-viagem">
-            <div class="tempo-box">
-              <div class="tempo-val" id="tempo-estimado">-- min</div>
-              <div class="tempo-label" id="tempo-estimado-label">Feira ➔ Salvador</div>
+          <div class="metrics-grid">
+            <div class="metric-card">
+              <div class="metric-icon" aria-hidden="true">🔄</div>
+              <div class="metric-info">
+                <div class="metric-val" id="m-total-registros">--</div>
+                <div class="metric-label">Varreduras</div>
+              </div>
             </div>
-            <div class="tempo-box">
-              <div class="tempo-val" id="tempo-normal">-- min</div>
-              <div class="tempo-label">Tempo Normal</div>
+            
+            <div class="metric-card">
+              <div class="metric-icon" aria-hidden="true">⏱️</div>
+              <div class="metric-info">
+                <div class="metric-val" id="m-tempo-medio">-- min</div>
+                <div class="metric-label">Tempo Médio</div>
+              </div>
+            </div>
+
+            <div class="metric-card">
+              <div class="metric-icon" aria-hidden="true">⚠️</div>
+              <div class="metric-info">
+                <div class="metric-val" id="m-causa-principal" style="font-size: 1.15rem; word-break: break-all;">--</div>
+                <div class="metric-label">Causa Principal</div>
+              </div>
             </div>
           </div>
-        </div>
-      </section>
 
-      <!-- MAPA INTERATIVO (WAZE LIVE EMBED) -->
-      <section class="glass-card" aria-label="Mapa de Tráfego Interativo">
-        <div class="map-container">
-          <!-- Waze Live Map centralizado na BR-324 Bahia -->
-          <iframe 
-            src="https://embed.waze.com/pt-BR/iframe?zoom=10&lat=-12.62&lon=-38.75&ct=iframe" 
-            title="Mapa de Trânsito em tempo real da BR-324 pelo Waze"
-            allowfullscreen>
-          </iframe>
-        </div>
-      </section>
+          <div class="stats-box" style="margin-top: 1.5rem;">
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 0.95rem; font-weight: 750; color: #fff; margin-bottom: 1.2rem; display: flex; align-items: center; gap: 8px;">
+              📊 Distribuição Geral do Estado do Tráfego
+            </h3>
+            <div class="distribution-bars">
+              <div class="dist-bar-item">
+                <div class="dist-label-row">
+                  <span>🟢 Tráfego Fluido</span>
+                  <span id="p-fluido">--%</span>
+                </div>
+                <div class="dist-bar-bg">
+                  <div class="dist-bar-fill fluido" id="b-fluido" style="width: 0%;"></div>
+                </div>
+              </div>
+              
+              <div class="dist-bar-item" style="margin-top: 1rem;">
+                <div class="dist-label-row">
+                  <span>🟡 Atenção Reduzida</span>
+                  <span id="p-atencao">--%</span>
+                </div>
+                <div class="dist-bar-bg">
+                  <div class="dist-bar-fill atencao" id="b-atencao" style="width: 0%;"></div>
+                </div>
+              </div>
 
-      <!-- COMPILAÇÃO DE NOTÍCIAS -->
-      <section class="glass-card" aria-labelledby="news-section-title">
-        <h2 id="news-section-title" class="section-head">📰 Ocorrências e Notícias do Dia</h2>
-        <div class="news-grid" id="container-noticias">
-          <div style="text-align: center; padding: 2rem; color: var(--text-muted);">
-            Buscando notícias e boletins de trânsito...
+              <div class="dist-bar-item" style="margin-top: 1rem;">
+                <div class="dist-label-row">
+                  <span>🔴 Lentidão e Gargalos</span>
+                  <span id="p-lento">--%</span>
+                </div>
+                <div class="dist-bar-bg">
+                  <div class="dist-bar-fill lento" id="b-lento" style="width: 0%;"></div>
+                </div>
+              </div>
+            </div>
           </div>
-        </div>
-      </section>
+
+          <div class="stats-box" style="margin-top: 1.5rem;">
+            <h3 style="font-family: 'Outfit', sans-serif; font-size: 0.95rem; font-weight: 750; color: #fff; margin-bottom: 1.2rem; display: flex; align-items: center; gap: 8px;">
+              💥 Incidentes Detectados no Histórico (Causa Raiz)
+            </h3>
+            <div style="display: grid; gap: 0.8rem;">
+              <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1.2rem; background: rgba(255,255,255,0.02); border-radius: 8px; border: 1px solid var(--border-glass);">
+                <span style="font-size: 0.85rem; font-weight: 700; color: var(--text-muted);">💥 Acidentes e Colisões</span>
+                <span id="cnt-acidentes" style="font-size: 1.1rem; font-weight: 800; color: var(--status-lento);">0</span>
+              </div>
+              <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1.2rem; background: rgba(255,255,255,0.02); border-radius: 8px; border: 1px solid var(--border-glass);">
+                <span style="font-size: 0.85rem; font-weight: 700; color: var(--text-muted);">🚧 Obras de Manutenção</span>
+                <span id="cnt-obras" style="font-size: 1.1rem; font-weight: 800; color: var(--status-atencao);">0</span>
+              </div>
+              <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1.2rem; background: rgba(255,255,255,0.02); border-radius: 8px; border: 1px solid var(--border-glass);">
+                <span style="font-size: 0.85rem; font-weight: 700; color: var(--text-muted);">🚗 Retenção Localizada / Fluxo Alto</span>
+                <span id="cnt-congestionamentos" style="font-size: 1.1rem; font-weight: 800; color: var(--teal);">0</span>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
 
     </main>
 
@@ -783,6 +1011,26 @@
     function alterarFonteGlobal(delta) {
       fontScale = Math.min(130, Math.max(85, fontScale + delta));
       document.documentElement.style.fontSize = `${fontScale}%`;
+    }
+
+    function alternarAba(abaId) {
+      document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.classList.remove('active');
+        btn.setAttribute('aria-selected', 'false');
+      });
+      document.querySelectorAll('.tab-content').forEach(content => {
+        content.classList.remove('active');
+      });
+      
+      if (abaId === 'realtime') {
+        document.getElementById('btn-tab-realtime').classList.add('active');
+        document.getElementById('btn-tab-realtime').setAttribute('aria-selected', 'true');
+        document.getElementById('tab-realtime').classList.add('active');
+      } else {
+        document.getElementById('btn-tab-metrics').classList.add('active');
+        document.getElementById('btn-tab-metrics').setAttribute('aria-selected', 'true');
+        document.getElementById('tab-metrics').classList.add('active');
+      }
     }
 
     function mudarSentido(sentido) {
@@ -908,6 +1156,37 @@
             </article>
           `;
         }).join('');
+
+        // 5. Atualizar Métricas e Estatísticas
+        if (data.metricas) {
+          document.getElementById('m-total-registros').textContent = data.metricas.totalRegistros;
+          document.getElementById('m-tempo-medio').textContent = data.metricas.tempoMedioMinutos + ' min';
+          document.getElementById('m-causa-principal').textContent = data.metricas.causaPrincipalLentidao;
+          
+          document.getElementById('p-fluido').textContent = data.metricas.percentualFluido + '%';
+          document.getElementById('b-fluido').style.width = data.metricas.percentualFluido + '%';
+          
+          document.getElementById('p-atencao').textContent = data.metricas.percentualAtencao + '%';
+          document.getElementById('b-atencao').style.width = data.metricas.percentualAtencao + '%';
+          
+          document.getElementById('p-lento').textContent = data.metricas.percentualLento + '%';
+          document.getElementById('b-lento').style.width = data.metricas.percentualLento + '%';
+
+          document.getElementById('cnt-acidentes').textContent = data.metricas.totalAcidentes || 0;
+          document.getElementById('cnt-obras').textContent = data.metricas.totalObras || 0;
+          document.getElementById('cnt-congestionamentos').textContent = data.metricas.totalCongestionamento || 0;
+          
+          const cPrincipal = document.getElementById('m-causa-principal');
+          if (data.metricas.causaPrincipalLentidao === 'Acidente') {
+            cPrincipal.style.color = 'var(--status-lento)';
+          } else if (data.metricas.causaPrincipalLentidao === 'Obra') {
+            cPrincipal.style.color = 'var(--status-atencao)';
+          } else if (data.metricas.causaPrincipalLentidao === 'Congestionamento') {
+            cPrincipal.style.color = 'var(--teal)';
+          } else {
+            cPrincipal.style.color = 'var(--text-muted)';
+          }
+        }
 
       } catch (err) {
         console.error('Erro de carregamento:', err);

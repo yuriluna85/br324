@@ -1,39 +1,43 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-06-30T11:43:53.805458-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-06-30T12:10:57.331510-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Atenção",
-      "mensagem": "Alerta de lentidão devido a ocorrência relatada nas notícias locais."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
       "status": "Fluido",
-      "mensagem": "Tráfego normal e sem retenções significativas."
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
-      "status": "Atenção",
-      "mensagem": "Obras pontuais na pista lateral reduzem a velocidade média."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     }
   ],
   "noticias": [
     {
-      "titulo": "Obras na BR-324 alteram fluxo de tráfego na região de Amélia Rodrigues",
-      "link": "https://g1.globo.com/ba/bahia/",
-      "fonte": "G1 Bahia",
-      "data": "2026-06-30T09:30:00-03:00",
-      "resumo": "Intervenções na pista sentido Feira de Santana exigem atenção redobrada dos motoristas nesta manhã."
-    },
-    {
-      "titulo": "Acidente sem vítimas causa congestionamento leve em Simões Filho",
-      "link": "https://g1.globo.com/ba/bahia/",
-      "fonte": "G1 Bahia",
-      "data": "2026-06-30T08:15:00-03:00",
-      "resumo": "Colisão traseira entre dois veículos leves bloqueou uma das faixas por 20 minutos, gerando retenção."
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-06-30T12:10:19.073651-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
-  ]
+  ],
+  "metricas": {
+    "totalRegistros": 2,
+    "percentualFluido": 100.0,
+    "percentualAtencao": 0.0,
+    "percentualLento": 0.0,
+    "totalAcidentes": 0,
+    "totalObras": 0,
+    "totalCongestionamento": 0,
+    "causaPrincipalLentidao": "Nenhuma",
+    "tempoMedioMinutos": 75.0
+  }
 }

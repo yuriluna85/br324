@@ -18,6 +18,7 @@ O portal foi projetado para motoristas e passageiros que trafegam diariamente na
 ## 🛠️ Tecnologias Utilizadas
 - **Frontend**: HTML5 Semântico, Vanilla CSS (Glassmorphism e Variáveis Dinâmicas), JavaScript (ES6+).
 - **Backend (Scripts)**: Python 3 para processamento de feeds RSS e automação do banco de dados local.
+- **Automação (CI/CD)**: GitHub Actions para atualização programada e contínua do banco de dados do trânsito.
 
 ---
 
@@ -30,3 +31,5 @@ O portal foi projetado para motoristas e passageiros que trafegam diariamente na
 - 🤖 **Script de Automação**: Criação de script Python em `atualizar_br324.py` na raiz do projeto para processar notícias de trânsito em lote.
 - 🔧 **Responsividade do Mapa**: Correção do bug de renderização do iframe do Waze no mobile através de altura fixa de 420px em telas menores, evitando a sobreposição do botão de expansão.
 - 🔗 **Correção de Links de Notícias**: Ajuste no frontend e backend para ocultar dinamicamente o link de leitura de matérias quando a URL for vazia, nula ou genérica (boletins autorais e de fallback).
+- ⚙️ **Integração de CI/CD**: Configuração de workflow do GitHub Actions em `.github/workflows/atualizar_transito.yml` para rodar o robô de 30 em 30 minutos e atualizar o portal.
+- 📊 **Observatório de Métricas**: Armazenamento histórico dos dados de tráfego em arquivos CSV estruturados (`data/ano/mes/dia.csv`) e inserção de aba de Métricas & Estatísticas na interface com distribuição percentual e categorização de causa raiz (obras vs. acidentes).
