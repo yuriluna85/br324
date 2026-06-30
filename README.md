@@ -27,4 +27,4 @@ O portal foi projetado para motoristas e passageiros que trafegam diariamente na
 - 🚀 **Lançamento do Portal**: Inicialização da interface em tema Dark/Glassmorphism com o Waze Live Map e **seletor de rotas dinâmicas** (Feira ➔ Salvador / Salvador ➔ Feira) com ordenação espacial dos alertas e links rápidos de GPS.
 - 🌐 **Otimização de SEO (White Hat)**: Inclusão de meta tags estruturadas, tags Open Graph (OG) e dados estruturados JSON-LD.
 - 💵 **Monetização Ativa**: Slots de anúncios estruturados e acessíveis destinados ao Google AdSense e AdMob.
-- 🤖 **Script de Automação**: Criação de script Python em `_Scripts/atualizar_br324.py` para processar notícias de trânsito em lote.
+- 🤖 **Script de Automação**: Criação de script Python em `atualizar_br324.py` na raiz do projeto para processar notícias de trânsito em lote.
