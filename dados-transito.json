@@ -1,0 +1,39 @@
+{
+  "statusGeral": "Lento",
+  "ultimaAtualizacao": "2026-06-30T10:18:48.526373-03:00",
+  "tempoEstimadoMinutos": 95,
+  "tempoNormalMinutos": 75,
+  "alertas": [
+    {
+      "ponto": "Pedágio de Simões Filho (Km 599)",
+      "status": "Atenção",
+      "mensagem": "Alerta de lentidão devido a ocorrência relatada nas notícias locais."
+    },
+    {
+      "ponto": "Trecho de Amélia Rodrigues (Km 545)",
+      "status": "Fluido",
+      "mensagem": "Tráfego normal e sem retenções significativas."
+    },
+    {
+      "ponto": "Acesso a Feira de Santana (Km 518)",
+      "status": "Atenção",
+      "mensagem": "Obras pontuais na pista lateral reduzem a velocidade média."
+    }
+  ],
+  "noticias": [
+    {
+      "titulo": "Obras na BR-324 alteram fluxo de tráfego na região de Amélia Rodrigues",
+      "link": "https://g1.globo.com/ba/bahia/",
+      "fonte": "G1 Bahia",
+      "data": "2026-06-30T09:30:00-03:00",
+      "resumo": "Intervenções na pista sentido Feira de Santana exigem atenção redobrada dos motoristas nesta manhã."
+    },
+    {
+      "titulo": "Acidente sem vítimas causa congestionamento leve em Simões Filho",
+      "link": "https://g1.globo.com/ba/bahia/",
+      "fonte": "G1 Bahia",
+      "data": "2026-06-30T08:15:00-03:00",
+      "resumo": "Colisão traseira entre dois veículos leves bloqueou uma das faixas por 20 minutos, gerando retenção."
+    }
+  ]
+}

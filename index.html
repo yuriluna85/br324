@@ -1,0 +1,915 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BR-324 em Tempo Real | Monitor de Tráfego e Notícias</title>
+  
+  <!-- Meta Tags de SEO e Indexação (White Hat SEO) -->
+  <meta name="description" content="Acompanhe o tráfego da BR-324 (Salvador x Feira de Santana) quase em tempo real. Veja mapa de trânsito, tempo de viagem, alertas e últimas notícias.">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="br 324, br-324, transito br 324, transito salvador feira, viabahia pedagio, pedagio simoes filho, tráfego br-324, yluna85 labs">
+  <link rel="canonical" href="https://labs.almeidaluna.tech/br324/">
+
+  <!-- Protocolo Open Graph (Redes Sociais) -->
+  <meta property="og:title" content="BR-324 em Tempo Real | Monitor de Tráfego e Notícias">
+  <meta property="og:description" content="Monitore o trânsito e as notícias do dia na rodovia BR-324 entre Salvador e Feira de Santana. Mapa interativo do Waze e alertas ativos.">
+  <meta property="og:image" content="https://labs.almeidaluna.tech/br324/assets/og-image.png">
+  <meta property="og:url" content="https://labs.almeidaluna.tech/br324/">
+  <meta property="og:type" content="website">
+
+  <!-- Dados Estruturados JSON-LD (Schema.org) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "BR-324 Monitor de Tráfego",
+    "url": "https://labs.almeidaluna.tech/br324/",
+    "description": "Monitoramento inteligente de tráfego, tempo de viagem e notícias sobre a rodovia BR-324."
+  }
+  </script>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;700;850&display=swap" rel="stylesheet">
+
+  <style>
+    /* ══ CONFIGURAÇÕES DO TEMA ESCURO (DARK MODE GLASSMORPHISM) ══ */
+    :root {
+      --bg-dark: #070913;
+      --bg-gradient: linear-gradient(135deg, #070913 0%, #0d1226 100%);
+      --bg-glass: rgba(18, 22, 41, 0.7);
+      --border-glass: rgba(255, 255, 255, 0.08);
+      --primary: #0d6efd; /* Azul Royal */
+      --primary-glow: rgba(13, 110, 253, 0.3);
+      --purple: #7952b3; /* Roxo Violeta */
+      --teal: #0dcaf0; /* Teal/Ciano */
+      --teal-glow: rgba(13, 202, 240, 0.2);
+      
+      --text-main: #f3f4f6;
+      --text-muted: #9ca3af;
+      --shadow-premium: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+      --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      
+      /* Cores de Status */
+      --status-fluido: #10b981; /* Verde */
+      --status-atencao: #f59e0b; /* Laranja */
+      --status-lento: #ef4444; /* Vermelho */
+    }
+
+    /* TEMA ALTO CONTRASTE */
+    body.high-contrast {
+      --bg-dark: #000000;
+      --bg-gradient: none;
+      --bg-glass: #000000;
+      --border-glass: #ffffff;
+      --primary: #ffff00; /* Amarelo */
+      --primary-glow: none;
+      --purple: #ffffff;
+      --teal: #ffff00;
+      --text-main: #ffffff;
+      --text-muted: #ffffff;
+      --shadow-premium: none;
+      
+      --status-fluido: #00ff00;
+      --status-atencao: #ffff00;
+      --status-lento: #ff0000;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background: var(--bg-dark);
+      background-image: var(--bg-gradient);
+      color: var(--text-main);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      line-height: 1.6;
+      overflow-x: hidden;
+      transition: background 0.3s ease, color 0.3s ease;
+    }
+
+    button:focus-visible, a:focus-visible, iframe:focus-visible {
+      outline: 3px solid var(--teal);
+      outline-offset: 2px;
+    }
+
+    /* BARRA DE ACESSIBILIDADE FLUTUANTE */
+    .a11y-bar {
+      position: fixed;
+      top: 12px;
+      right: 12px;
+      z-index: 9999;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(7, 9, 19, 0.85);
+      backdrop-filter: blur(8px);
+      padding: 6px 12px;
+      border-radius: 30px;
+      border: 1px solid var(--border-glass);
+      box-shadow: var(--shadow-premium);
+    }
+    
+    .a11y-btn {
+      background: rgba(255, 255, 255, 0.08);
+      border: none;
+      color: var(--text-main);
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: var(--transition-smooth);
+    }
+    
+    .a11y-btn:hover {
+      background: var(--teal);
+      color: #000;
+    }
+
+    /* HEADER */
+    header {
+      background: var(--bg-glass);
+      backdrop-filter: blur(12px);
+      border-bottom: 1.5px solid var(--border-glass);
+      padding: 1.5rem 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 990;
+    }
+
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .logo-container {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      text-decoration: none;
+    }
+
+    .logo-badge {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--purple) 100%);
+      width: 48px;
+      height: 48px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      box-shadow: 0 0 15px var(--primary-glow);
+    }
+
+    .logo-text h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.4rem;
+      font-weight: 850;
+      letter-spacing: 0.5px;
+      background: linear-gradient(90deg, #fff 0%, var(--teal) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .logo-sub {
+      font-size: 0.68rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+    }
+
+    .header-status {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+    }
+
+    .update-badge {
+      font-size: 0.72rem;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--border-glass);
+      padding: 6px 12px;
+      border-radius: 20px;
+      color: var(--text-muted);
+    }
+
+    .update-badge span {
+      color: var(--teal);
+      font-weight: 700;
+    }
+
+    /* ESTILOS DE ANÚNCIOS (MONETIZAÇÃO) */
+    .ad-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px dashed var(--border-glass);
+      border-radius: 12px;
+      overflow: hidden;
+      position: relative;
+      transition: var(--transition-smooth);
+      width: 100%;
+    }
+
+    .ad-placeholder {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      font-weight: 700;
+      text-align: center;
+      padding: 1rem;
+      pointer-events: none;
+    }
+
+    .ad-banner-horizontal {
+      max-width: 1200px;
+      margin: 1.5rem auto 0 auto;
+      padding: 0 1rem;
+      width: 100%;
+      display: block;
+    }
+
+    .ad-banner-horizontal .ad-container {
+      min-height: 90px;
+    }
+
+    .ad-slot-sidebar {
+      width: 100%;
+    }
+
+    .ad-slot-sidebar .ad-container {
+      min-height: 250px;
+    }
+
+    .ad-container ins[data-ad-status="filled"] + .ad-placeholder {
+      display: none;
+    }
+
+    /* LAYOUT PRINCIPAL */
+    .main-container {
+      max-width: 1200px;
+      width: 100%;
+      margin: 1.5rem auto;
+      padding: 0 1rem;
+      display: grid;
+      grid-template-columns: 1fr 350px;
+      gap: 1.5rem;
+      flex-grow: 1;
+    }
+
+    /* STATUS DENTRO DE CARD GLASSMORPHISM */
+    .glass-card {
+      background: var(--bg-glass);
+      backdrop-filter: blur(16px);
+      border: 1px solid var(--border-glass);
+      border-radius: 16px;
+      padding: 1.5rem;
+      box-shadow: var(--shadow-premium);
+      margin-bottom: 1.5rem;
+    }
+
+    .status-panel {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+    }
+
+    .status-main {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .status-dot {
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      position: relative;
+    }
+
+    .status-dot::after {
+      content: '';
+      position: absolute;
+      top: -4px;
+      left: -4px;
+      right: -4px;
+      bottom: -4px;
+      border-radius: 50%;
+      border: 2px solid currentColor;
+      animation: pulseGlow 1.5s infinite ease-in-out;
+      opacity: 0.6;
+    }
+
+    @keyframes pulseGlow {
+      0% { transform: scale(0.9); opacity: 0.6; }
+      50% { transform: scale(1.3); opacity: 0; }
+      100% { transform: scale(0.9); opacity: 0.6; }
+    }
+
+    .status-value {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 850;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .status-title {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .tempo-viagem {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .tempo-box {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--border-glass);
+      padding: 0.6rem 1rem;
+      border-radius: 12px;
+      text-align: center;
+    }
+
+    .tempo-val {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: var(--teal);
+    }
+
+    .tempo-label {
+      font-size: 0.65rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+
+    /* MAPA */
+    .map-container {
+      position: relative;
+      padding-bottom: 56.25%; /* Aspect ratio 16:9 */
+      height: 0;
+      overflow: hidden;
+      border-radius: 12px;
+      border: 1px solid var(--border-glass);
+      background: #000;
+    }
+
+    .map-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    /* NOTÍCIAS */
+    .section-head {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.2rem;
+      font-weight: 800;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      border-left: 4px solid var(--teal);
+      padding-left: 8px;
+    }
+
+    .news-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .news-card {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid var(--border-glass);
+      border-radius: 12px;
+      padding: 1.2rem;
+      transition: var(--transition-smooth);
+    }
+
+    .news-card:hover {
+      transform: translateY(-2px);
+      border-color: rgba(255, 255, 255, 0.15);
+      background: rgba(255, 255, 255, 0.04);
+    }
+
+    .news-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      margin-bottom: 0.5rem;
+      font-weight: 700;
+    }
+
+    .news-badge {
+      background: var(--primary-glow);
+      color: var(--teal);
+      padding: 2px 8px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      font-size: 0.6rem;
+    }
+
+    .news-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.05rem;
+      font-weight: 750;
+      color: var(--text-main);
+      line-height: 1.4;
+      margin-bottom: 0.4rem;
+    }
+
+    .news-desc {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    .news-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      color: var(--teal);
+      text-decoration: none;
+      font-size: 0.78rem;
+      font-weight: 700;
+      margin-top: 0.6rem;
+    }
+
+    .news-link:hover {
+      text-decoration: underline;
+    }
+
+    /* SIDEBAR */
+    .sidebar {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .alert-item {
+      background: rgba(255, 255, 255, 0.02);
+      border-left: 4px solid var(--primary);
+      padding: 0.8rem 1rem;
+      border-radius: 0 12px 12px 0;
+      font-size: 0.8rem;
+      margin-bottom: 0.8rem;
+      border-top: 1px solid var(--border-glass);
+      border-right: 1px solid var(--border-glass);
+      border-bottom: 1px solid var(--border-glass);
+    }
+
+    .alert-item.alert-status-lento {
+      border-left-color: var(--status-lento);
+    }
+
+    .alert-item.alert-status-atencao {
+      border-left-color: var(--status-atencao);
+    }
+
+    .alert-item-title {
+      font-weight: 750;
+      color: var(--text-main);
+      margin-bottom: 2px;
+    }
+
+    .alert-item-desc {
+      color: var(--text-muted);
+      line-height: 1.4;
+    }
+
+    /* FOOTER */
+    footer {
+      background: var(--bg-glass);
+      border-top: 1.5px solid var(--border-glass);
+      padding: 2rem 1.5rem;
+      text-align: center;
+      margin-top: auto;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.8rem;
+    }
+
+    .footer-brand {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 850;
+      letter-spacing: 0.5px;
+    }
+
+    .footer-brand span {
+      color: var(--teal);
+    }
+
+    .footer-desc {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      max-width: 600px;
+      line-height: 1.5;
+    }
+
+    .footer-mascots {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: rgba(255, 255, 255, 0.03);
+      padding: 6px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--border-glass);
+      margin-top: 0.5rem;
+    }
+
+    .mascot-span {
+      font-weight: 750;
+      color: var(--teal);
+    }
+
+    /* RESPONSIVIDADE */
+    @media (max-width: 968px) {
+      .main-container {
+        grid-template-columns: 1fr;
+      }
+      .sidebar {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 1.2rem;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .header-inner {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .status-panel {
+        flex-direction: column;
+        align-items: stretch;
+      }
+      .tempo-viagem {
+        justify-content: space-between;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- CONTROLES DE ACESSIBILIDADE FLUTUANTES -->
+  <div class="a11y-bar" role="complementary" aria-label="Controles de Acessibilidade">
+    <button class="a11y-btn" onclick="toggleAltoContraste()" aria-label="Alternar alto contraste">🌓 Contraste</button>
+    <button class="a11y-btn" onclick="alterarFonteGlobal(5)" aria-label="Aumentar texto">A+</button>
+    <button class="a11y-btn" onclick="alterarFonteGlobal(-5)" aria-label="Diminuir texto">A-</button>
+  </div>
+
+  <!-- HEADER -->
+  <header role="banner">
+    <div class="header-inner">
+      <a href="#" class="logo-container" aria-label="Página Inicial BR-324 Monitor">
+        <div class="logo-badge" aria-hidden="true">🛣️</div>
+        <div class="logo-text">
+          <h1>BR-324 Tráfego</h1>
+          <div class="logo-sub">Monitoramento Integrado</div>
+        </div>
+      </a>
+      
+      <div class="header-status">
+        <div class="update-badge">
+          Varredura: <span id="label-ultima-varredura">--:--</span>
+        </div>
+        <button onclick="carregarDados()" class="a11y-btn" style="padding: 6px 12px;" aria-label="Sincronizar dados do trânsito">Sincronizar</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- BANNER HORIZONTAL DE ANÚNCIO (ADSENSE) -->
+  <div class="ad-banner-horizontal" role="complementary" aria-label="Espaço Publicitário Superior">
+    <div class="ad-container">
+      <ins class="adsbygoogle"
+           style="display:inline-block;width:728px;height:90px"
+           data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+           data-ad-slot="XXXXXXXXXX"></ins>
+      <script>
+           (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+      <div class="ad-placeholder">
+        Anúncio Patrocinado · Google AdSense
+      </div>
+    </div>
+  </div>
+
+  <!-- CONTAINER PRINCIPAL -->
+  <div class="main-container">
+    
+    <main role="main">
+      
+      <!-- SELEÇÃO DE SENTIDO DE ROTA -->
+      <section class="glass-card" aria-label="Seleção do Sentido de Tráfego" style="padding: 1.2rem;">
+        <h2 style="font-family: 'Outfit', sans-serif; font-size: 0.85rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-muted); margin-bottom: 0.8rem; display: flex; align-items: center; gap: 6px;">
+          🧭 Sentido do Percurso
+        </h2>
+        <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+          <button id="btn-route-fsa-ssa" onclick="mudarSentido('FSA-SSA')" style="flex: 1; min-width: 140px; padding: 0.75rem; border-radius: 12px; border: 1.5px solid var(--primary); background: rgba(13, 110, 253, 0.15); color: #fff; font-family: inherit; font-weight: 700; cursor: pointer; transition: var(--transition-smooth); display: flex; align-items: center; justify-content: center; gap: 8px;">
+            🚗 Feira (FSA) ➔ Salvador (SSA)
+          </button>
+          <button id="btn-route-ssa-fsa" onclick="mudarSentido('SSA-FSA')" style="flex: 1; min-width: 140px; padding: 0.75rem; border-radius: 12px; border: 1.5px solid var(--border-glass); background: rgba(255, 255, 255, 0.02); color: var(--text-muted); font-family: inherit; font-weight: 700; cursor: pointer; transition: var(--transition-smooth); display: flex; align-items: center; justify-content: center; gap: 8px;">
+            🚗 Salvador (SSA) ➔ Feira (FSA)
+          </button>
+        </div>
+        <!-- Link rápido para GPS externo -->
+        <div style="margin-top: 0.8rem; text-align: right;">
+          <a id="link-gps-externo" href="https://waze.com/ul?ll=-12.9777,-38.5016&navigate=yes" target="_blank" rel="noopener noreferrer" style="color: var(--teal); font-size: 0.75rem; text-decoration: none; font-weight: 700; display: inline-flex; align-items: center; gap: 4px;">
+            🚀 Iniciar Viagem no Waze GPS ➔
+          </a>
+        </div>
+      </section>
+
+      <!-- STATUS RÁPIDO -->
+      <section class="glass-card" aria-labelledby="status-section-title">
+        <h2 id="status-section-title" style="display: none;">Resumo do Status da Rodovia</h2>
+        <div class="status-panel">
+          <div class="status-main">
+            <div class="status-dot" id="status-via-dot" style="color: var(--status-atencao);"></div>
+            <div>
+              <div class="status-title">Tráfego Geral</div>
+              <div class="status-value" id="status-via-texto">Carregando...</div>
+            </div>
+          </div>
+          
+          <div class="tempo-viagem">
+            <div class="tempo-box">
+              <div class="tempo-val" id="tempo-estimado">-- min</div>
+              <div class="tempo-label" id="tempo-estimado-label">Feira ➔ Salvador</div>
+            </div>
+            <div class="tempo-box">
+              <div class="tempo-val" id="tempo-normal">-- min</div>
+              <div class="tempo-label">Tempo Normal</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- MAPA INTERATIVO (WAZE LIVE EMBED) -->
+      <section class="glass-card" aria-label="Mapa de Tráfego Interativo">
+        <div class="map-container">
+          <!-- Waze Live Map centralizado na BR-324 Bahia -->
+          <iframe 
+            src="https://embed.waze.com/pt-BR/iframe?zoom=10&lat=-12.62&lon=-38.75&ct=iframe" 
+            title="Mapa de Trânsito em tempo real da BR-324 pelo Waze"
+            allowfullscreen>
+          </iframe>
+        </div>
+      </section>
+
+      <!-- COMPILAÇÃO DE NOTÍCIAS -->
+      <section class="glass-card" aria-labelledby="news-section-title">
+        <h2 id="news-section-title" class="section-head">📰 Ocorrências e Notícias do Dia</h2>
+        <div class="news-grid" id="container-noticias">
+          <div style="text-align: center; padding: 2rem; color: var(--text-muted);">
+            Buscando notícias e boletins de trânsito...
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar" role="complementary" aria-label="Painel de Informações Laterais">
+      
+      <!-- PONTOS DE ATENÇÃO -->
+      <div class="glass-card">
+        <h2 class="section-head">⚠️ Trechos em Destaque</h2>
+        <div id="container-alertas">
+          <div style="color: var(--text-muted); font-size: 0.8rem;">Carregando alertas de pista...</div>
+        </div>
+      </div>
+
+      <!-- ANÚNCIO LATERAL (ADSENSE / ADMOB) -->
+      <div class="glass-card ad-slot-sidebar">
+        <div class="ad-container">
+          <ins class="adsbygoogle"
+               style="display:block"
+               data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+               data-ad-slot="YYYYYYYYYY"
+               data-ad-format="auto"
+               data-full-width-responsive="true"></ins>
+          <script>
+               (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+          <div class="ad-placeholder">
+            Espaço Publicitário<br>
+            <span style="font-size: 0.65rem; font-weight: 500;">Google AdSense / AdMob</span>
+          </div>
+        </div>
+      </div>
+
+    </aside>
+
+  </div>
+
+  <!-- FOOTER -->
+  <footer role="contentinfo">
+    <div class="footer-inner">
+      <div class="footer-brand">YLuna85 <span>LABs</span></div>
+      <p class="footer-desc">
+        Compilação independente e automatizada de condições de trafegabilidade na Rodovia Engenheiro Vasco Filho (BR-324) no trecho Salvador x Feira de Santana.
+      </p>
+      
+      <div class="footer-mascots">
+        <span>Mascotes Oficiais:</span> 
+        <div>🐶 <span class="mascot-span">Coragem</span></div> 
+        <div>🐱 <span class="mascot-span">Bolinho de chuva</span></div>
+      </div>
+      
+      <p style="font-size: 0.65rem; color: var(--text-muted); margin-top: 0.4rem; opacity: 0.6;">
+        &copy; 2026 AlmeidaLuna TECHs. Todos os direitos reservados.
+      </p>
+    </div>
+  </footer>
+
+  <!-- LÓGICA JAVASCRIPT -->
+  <script>
+    let fontScale = 100;
+    let sentidoAtual = 'FSA-SSA';
+    let dadosGlobais = null;
+
+    function toggleAltoContraste() {
+      document.body.classList.toggle('high-contrast');
+    }
+
+    function alterarFonteGlobal(delta) {
+      fontScale = Math.min(130, Math.max(85, fontScale + delta));
+      document.documentElement.style.fontSize = `${fontScale}%`;
+    }
+
+    function mudarSentido(sentido) {
+      sentidoAtual = sentido;
+      
+      const btnFsaSsa = document.getElementById('btn-route-fsa-ssa');
+      const btnSsaFsa = document.getElementById('btn-route-ssa-fsa');
+      const linkGps = document.getElementById('link-gps-externo');
+      const labelTempo = document.getElementById('tempo-estimado-label');
+
+      if (sentido === 'FSA-SSA') {
+        btnFsaSsa.style.border = '1.5px solid var(--primary)';
+        btnFsaSsa.style.background = 'rgba(13, 110, 253, 0.15)';
+        btnFsaSsa.style.color = '#fff';
+
+        btnSsaFsa.style.border = '1.5px solid var(--border-glass)';
+        btnSsaFsa.style.background = 'rgba(255, 255, 255, 0.02)';
+        btnSsaFsa.style.color = 'var(--text-muted)';
+        
+        linkGps.href = 'https://waze.com/ul?ll=-12.9777,-38.5016&navigate=yes';
+        labelTempo.textContent = 'Feira ➔ Salvador';
+      } else {
+        btnSsaFsa.style.border = '1.5px solid var(--primary)';
+        btnSsaFsa.style.background = 'rgba(13, 110, 253, 0.15)';
+        btnSsaFsa.style.color = '#fff';
+
+        btnFsaSsa.style.border = '1.5px solid var(--border-glass)';
+        btnFsaSsa.style.background = 'rgba(255, 255, 255, 0.02)';
+        btnFsaSsa.style.color = 'var(--text-muted)';
+        
+        linkGps.href = 'https://waze.com/ul?ll=-12.2664,-38.9662&navigate=yes';
+        labelTempo.textContent = 'Salvador ➔ Feira';
+      }
+
+      if (dadosGlobais) {
+        renderizarAlertas(dadosGlobais.alertas);
+      }
+    }
+
+    function obterKm(pontoText) {
+      const text = pontoText.toLowerCase();
+      if (text.includes('feira')) return 518;
+      if (text.includes('amélia') || text.includes('amelia')) return 545;
+      if (text.includes('simões') || text.includes('simoes')) return 599;
+      return 550;
+    }
+
+    function renderizarAlertas(alertas) {
+      const containerAlertas = document.getElementById('container-alertas');
+      const alertasOrdenados = [...alertas].sort((a, b) => {
+        const kmA = obterKm(a.ponto);
+        const kmB = obterKm(b.ponto);
+        return sentidoAtual === 'FSA-SSA' ? (kmA - kmB) : (kmB - kmA);
+      });
+
+      containerAlertas.innerHTML = alertasOrdenados.map(alerta => {
+        let cStatus = 'alert-status-atencao';
+        if (alerta.status === 'Lento') cStatus = 'alert-status-lento';
+        return `
+          <div class="alert-item ${cStatus}">
+            <div class="alert-item-title">${alerta.ponto}</div>
+            <div class="alert-item-desc">${alerta.mensagem}</div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    async function carregarDados() {
+      const labelVarredura = document.getElementById('label-ultima-varredura');
+      const containerNoticias = document.getElementById('container-noticias');
+      
+      try {
+        const response = await fetch('dados-transito.json?t=' + new Date().getTime());
+        if (!response.ok) throw new Error('Falha ao obter JSON');
+        const data = await response.json();
+        dadosGlobais = data;
+
+        // 1. Atualizar Data de Atualização
+        const dataAtualizacao = new Date(data.ultimaAtualizacao);
+        labelVarredura.textContent = dataAtualizacao.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+
+        // 2. Atualizar Painel de Status
+        const statusTexto = document.getElementById('status-via-texto');
+        const statusDot = document.getElementById('status-via-dot');
+        const tempoEst = document.getElementById('tempo-estimado');
+        const tempoNor = document.getElementById('tempo-normal');
+
+        statusTexto.textContent = data.statusGeral;
+        tempoEst.textContent = data.tempoEstimadoMinutos + ' min';
+        tempoNor.textContent = data.tempoNormalMinutos + ' min';
+
+        // Definir cor do status
+        if (data.statusGeral === 'Fluido') {
+          statusDot.style.color = 'var(--status-fluido)';
+          statusTexto.style.color = 'var(--status-fluido)';
+        } else if (data.statusGeral === 'Lento') {
+          statusDot.style.color = 'var(--status-lento)';
+          statusTexto.style.color = 'var(--status-lento)';
+        } else {
+          statusDot.style.color = 'var(--status-atencao)';
+          statusTexto.style.color = 'var(--status-atencao)';
+        }
+
+        // 3. Renderizar Alertas Ordenados conforme Rota Ativa
+        renderizarAlertas(data.alertas);
+
+        // 4. Atualizar Notícias
+        containerNoticias.innerHTML = data.noticias.map(noticia => {
+          const dateFormatted = new Date(noticia.data).toLocaleDateString('pt-BR') + ' às ' + new Date(noticia.data).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+          return `
+            <article class="news-card">
+              <div class="news-meta">
+                <span class="news-badge">${noticia.fonte}</span>
+                <span>${dateFormatted}</span>
+              </div>
+              <h3 class="news-title">${noticia.titulo}</h3>
+              <p class="news-desc">${noticia.resumo}</p>
+              <a href="${noticia.link}" class="news-link" target="_blank" rel="noopener noreferrer">
+                Ler matéria completa ➔
+              </a>
+            </article>
+          `;
+        }).join('');
+
+      } catch (err) {
+        console.error('Erro de carregamento:', err);
+        containerNoticias.innerHTML = '<div style="text-align: center; padding: 2rem; color: var(--status-lento); font-weight:700;">Erro ao ler boletins em tempo real. Tente novamente em instantes.</div>';
+      }
+    }
+
+    window.addEventListener('DOMContentLoaded', () => {
+      carregarDados();
+      // Auto atualiza a cada 5 minutos
+      setInterval(carregarDados, 300000);
+    });
+  </script>
+</body>
+</html>
