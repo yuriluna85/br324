@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-06-30T12:10:57.331510-03:00",
+  "ultimaAtualizacao": "2026-06-30T12:15:16.045549-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -30,7 +30,7 @@
     }
   ],
   "metricas": {
-    "totalRegistros": 2,
+    "totalRegistros": 1,
     "percentualFluido": 100.0,
     "percentualAtencao": 0.0,
     "percentualLento": 0.0,
