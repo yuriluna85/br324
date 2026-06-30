@@ -892,6 +892,7 @@
         // 4. Atualizar Notícias
         containerNoticias.innerHTML = data.noticias.map(noticia => {
           const dateFormatted = new Date(noticia.data).toLocaleDateString('pt-BR') + ' às ' + new Date(noticia.data).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' });
+          const temLinkReal = noticia.link && noticia.link.trim() !== "" && noticia.link !== "#" && !noticia.link.endsWith('/bahia') && !noticia.link.endsWith('/bahia/');
           return `
             <article class="news-card">
               <div class="news-meta">
@@ -900,9 +901,10 @@
               </div>
               <h3 class="news-title">${noticia.titulo}</h3>
               <p class="news-desc">${noticia.resumo}</p>
+              ${temLinkReal ? `
               <a href="${noticia.link}" class="news-link" target="_blank" rel="noopener noreferrer">
                 Ler matéria completa ➔
-              </a>
+              </a>` : ''}
             </article>
           `;
         }).join('');

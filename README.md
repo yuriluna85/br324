@@ -29,3 +29,4 @@ O portal foi projetado para motoristas e passageiros que trafegam diariamente na
 - 💵 **Monetização Ativa**: Slots de anúncios estruturados e acessíveis destinados ao Google AdSense e AdMob.
 - 🤖 **Script de Automação**: Criação de script Python em `atualizar_br324.py` na raiz do projeto para processar notícias de trânsito em lote.
 - 🔧 **Responsividade do Mapa**: Correção do bug de renderização do iframe do Waze no mobile através de altura fixa de 420px em telas menores, evitando a sobreposição do botão de expansão.
+- 🔗 **Correção de Links de Notícias**: Ajuste no frontend e backend para ocultar dinamicamente o link de leitura de matérias quando a URL for vazia, nula ou genérica (boletins autorais e de fallback).

@@ -108,7 +108,7 @@ def main():
         noticias_hoje = [
             {
                 "titulo": "Sem ocorrências graves registradas nas últimas horas",
-                "link": "https://g1.globo.com/ba/bahia/",
+                "link": "",
                 "fonte": "Mídias Locais",
                 "data": agora.isoformat(),
                 "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
