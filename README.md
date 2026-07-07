@@ -24,6 +24,12 @@ O portal foi projetado para motoristas e passageiros que trafegam diariamente na
 
 ## 📜 Log de Atualizações (Changelog)
 
+### 📅 07/07/2026 - Integração de APIs de Notícias, Consentimento e Otimizações
+- 📰 **Fontes Avançadas**: Integração das APIs Serper (Google News) e Scraper API (Proxy para RSS) em [atualizar_br324.py](file:///G:/Meu%20Drive/APP/2.%20Projetos%20e%20Aplica%C3%A7%C3%B5es/2.2%20Aplica%C3%A7%C3%B5es%20e%20C%C3%B3digos%20(GitHub)/YLuna85%20LABs%20APPs/br324/atualizar_br324.py) para busca em tempo real de matérias sobre a rodovia entre Salvador e Feira de Santana.
+- ⚙️ **Configuração Dinâmica**: Criação de [.env.example](file:///G:/Meu%20Drive/APP/2.%20Projetos%20e%20Aplica%C3%A7%C3%B5es/2.2%20Aplica%C3%A7%C3%B5es%20e%20C%C3%B3digos%20(GitHub)/YLuna85%20LABs%20APPs/br324/.env.example) definindo as variáveis `SERPER_API_KEY` e `SCRAPER_API_KEY`, e atualização do workflow do GitHub Actions em [.github/workflows/atualizar_transito.yml](file:///G:/Meu%20Drive/APP/2.%20Projetos%20e%20Aplica%C3%A7%C3%B5es/2.2%20Aplica%C3%A7%C3%B5es%20e%20C%C3%B3digos%20(GitHub)/YLuna85%20LABs%20APPs/br324/.github/workflows/atualizar_transito.yml) para injetar as credenciais a partir de secrets.
+- 🛡️ **Segurança e Privacidade**: Implementação de banner de consentimento de cookies e modal de Política de Privacidade no portal em [index.html](file:///G:/Meu%20Drive/APP/2.%20Projetos%20e%20Aplica%C3%A7%C3%B5es/2.2%20Aplica%C3%A7%C3%B5es%20e%20C%C3%B3digos%20(GitHub)/YLuna85%20LABs%20APPs/br324/index.html) em Vanilla CSS/JS com suporte a acessibilidade (A11y/WCAG) e persistência de dados em `localStorage`.
+- ⚡ **Otimização de Carregamento**: Adicionado atributo `loading="lazy"` ao iframe do Waze Live Map para priorizar a renderização de elementos principais do DOM e acelerar o tempo de carregamento da página.
+
 ### 📅 30/06/2026 - Lançamento da Aplicação e Integração de SEO
 - 🚀 **Lançamento do Portal**: Inicialização da interface em tema Dark/Glassmorphism com o Waze Live Map e **seletor de rotas dinâmicas** (Feira ➔ Salvador / Salvador ➔ Feira) com ordenação espacial dos alertas e links rápidos de GPS.
 - 🌐 **Otimização de SEO (White Hat)**: Inclusão de meta tags estruturadas, tags Open Graph (OG) e dados estruturados JSON-LD.

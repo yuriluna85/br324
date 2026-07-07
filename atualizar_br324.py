@@ -2,16 +2,23 @@ import os
 import json
 import csv
 import urllib.request
+import urllib.parse
 import xml.etree.ElementTree as ET
+import re
 from datetime import datetime, timezone, timedelta
 
-def fetch_rss_feed():
-    url = "https://g1.globo.com/rss/g1/bahia/"
+def fetch_rss_feed(scraper_api_key=None):
+    target_url = "https://g1.globo.com/rss/g1/bahia/"
+    if scraper_api_key:
+        url = f"http://api.scraperapi.com?api_key={scraper_api_key}&url={urllib.parse.quote(target_url)}"
+    else:
+        url = target_url
+        
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
     req = urllib.request.Request(url, headers=headers)
     
     try:
-        with urllib.request.urlopen(req, timeout=10) as response:
+        with urllib.request.urlopen(req, timeout=12) as response:
             return response.read()
     except Exception as e:
         print(f"Erro ao buscar RSS: {e}")
@@ -74,9 +81,146 @@ def parse_news(xml_data):
     return news_list
 
 def re_sub_html(text):
-    import re
     clean = re.compile('<.*?>')
     return re.sub(clean, '', text)
+
+def fetch_serper_news(api_key):
+    if not api_key:
+        return []
+    url = "https://google.serper.dev/news"
+    headers = {
+        "X-API-KEY": api_key,
+        "Content-Type": "application/json"
+    }
+    # Query específica para BR-324 Feira de Santana Salvador
+    payload = {
+        "q": 'BR-324 "Feira de Santana" OR "Salvador" noticias',
+        "gl": "br",
+        "hl": "pt-br"
+    }
+    
+    req = urllib.request.Request(
+        url,
+        data=json.dumps(payload).encode("utf-8"),
+        headers=headers,
+        method="POST"
+    )
+    
+    try:
+        with urllib.request.urlopen(req, timeout=12) as response:
+            res_data = response.read()
+            data = json.loads(res_data.decode("utf-8"))
+            return data.get("news", [])
+    except Exception as e:
+        print(f"Erro ao buscar Serper News: {e}")
+        return []
+
+def parse_relative_date(date_str, tz_local):
+    agora = datetime.now(tz_local)
+    date_str = date_str.lower().strip()
+    
+    # Tenta encontrar números
+    numbers = re.findall(r'\d+', date_str)
+    num = int(numbers[0]) if numbers else 1
+    
+    if any(x in date_str for x in ["minuto", "minute", "min"]):
+        return agora - timedelta(minutes=num)
+    elif any(x in date_str for x in ["hora", "hour", "h"]):
+        return agora - timedelta(hours=num)
+    elif any(x in date_str for x in ["dia", "day", "d"]):
+        return agora - timedelta(days=num)
+    elif any(x in date_str for x in ["semana", "week", "sem"]):
+        return agora - timedelta(weeks=num)
+    elif any(x in date_str for x in ["mês", "mes", "month"]):
+        return agora - timedelta(days=num * 30)
+    else:
+        # Tenta formatos comuns
+        for fmt in ("%b %d, %Y", "%d de %b de %Y", "%d/%m/%Y", "%Y-%m-%d"):
+            try:
+                clean_date = date_str.replace(" de ", " ").replace(".", "")
+                parsed_dt = datetime.strptime(clean_date, fmt)
+                return parsed_dt.replace(tzinfo=tz_local)
+            except Exception:
+                continue
+        return agora
+
+def fetch_google_news_rss():
+    query = urllib.parse.quote('BR-324 ("Feira de Santana" OR "Salvador")')
+    url = f"https://news.google.com/rss/search?q={query}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+    req = urllib.request.Request(url, headers=headers)
+    
+    try:
+        with urllib.request.urlopen(req, timeout=12) as response:
+            return response.read()
+    except Exception as e:
+        print(f"Erro ao buscar Google News RSS: {e}")
+        return None
+
+def parse_google_news_rss(xml_data):
+    if not xml_data:
+        return []
+        
+    try:
+        root = ET.fromstring(xml_data)
+    except Exception as e:
+        print(f"Erro ao parsear XML do Google News: {e}")
+        return []
+
+    news_list = []
+    keywords = ["br-324", "br 324", "br324", "viabahia", "simões filho", "amélia rodrigues", "feira de santana", "pedágio", "rodovia vasco filho"]
+
+    # Fuso horário local (UTC-3)
+    tz_local = timezone(timedelta(hours=-3))
+    hoje = datetime.now(tz_local).date()
+
+    for item in root.findall(".//item"):
+        raw_title = item.find("title").text if item.find("title") is not None else ""
+        link = item.find("link").text if item.find("link") is not None else ""
+        pub_date_str = item.find("pubDate").text if item.find("pubDate") is not None else ""
+        
+        title = raw_title
+        fonte = "Google Notícias"
+        if " - " in raw_title:
+            parts = raw_title.rsplit(" - ", 1)
+            title = parts[0]
+            fonte = parts[1]
+            
+        source_elem = item.find("source")
+        if source_elem is not None and source_elem.text:
+            fonte = source_elem.text
+
+        content_to_check = title.lower()
+        has_keyword = any(kw in content_to_check for kw in keywords)
+
+        if has_keyword:
+            pub_date = None
+            if pub_date_str:
+                try:
+                    clean_date_str = pub_date_str.rsplit(' ', 1)[0]
+                    pub_date = datetime.strptime(clean_date_str, "%a, %d %b %Y %H:%M:%S")
+                    pub_date = pub_date.replace(tzinfo=timezone.utc) - timedelta(hours=3)
+                except Exception as ex:
+                    print(f"Erro no parse de data do Google News: {ex}")
+                    pub_date = datetime.now(tz_local)
+
+            is_today = True
+            if pub_date:
+                is_today = (pub_date.date() == hoje)
+                pub_date_iso = pub_date.isoformat()
+            else:
+                pub_date_iso = datetime.now(tz_local).isoformat()
+
+            news_list.append({
+                "titulo": title,
+                "link": link,
+                "fonte": fonte,
+                "data": pub_date_iso,
+                "resumo": "Notícia consolidada via Google Notícias.",
+                "hoje": is_today
+            })
+            
+    return news_list
 
 def main():
     # Caminhos dinâmicos em relação ao script
@@ -97,10 +241,71 @@ def main():
     else:
         data = {}
 
-    xml_data = fetch_rss_feed()
+    scraper_api_key = os.environ.get("SCRAPER_API_KEY")
+    serper_api_key = os.environ.get("SERPER_API_KEY")
+
+    xml_data = fetch_rss_feed(scraper_api_key)
     rss_news = parse_news(xml_data)
 
-    noticias_hoje = [n for n in rss_news if n["hoje"]]
+    serper_articles = []
+    if serper_api_key:
+        print("Buscando notícias via Serper API...")
+        raw_serper = fetch_serper_news(serper_api_key)
+        for art in raw_serper:
+            title = art.get("title", "")
+            link = art.get("link", "")
+            snippet = art.get("snippet", "")
+            date_str = art.get("date", "")
+            source = art.get("source", "Google Notícias")
+            
+            pub_date = parse_relative_date(date_str, tz_local)
+            
+            # Verificar palavras-chave no título ou snippet para garantir relevância
+            keywords = ["br-324", "br 324", "br324", "viabahia", "simões filho", "amélia rodrigues", "feira de santana", "pedágio", "rodovia vasco filho"]
+            content_to_check = f"{title} {snippet}".lower()
+            has_keyword = any(kw in content_to_check for kw in keywords)
+            
+            if has_keyword:
+                is_today = (pub_date.date() == agora.date())
+                serper_articles.append({
+                    "titulo": title,
+                    "link": link,
+                    "fonte": source,
+                    "data": pub_date.isoformat(),
+                    "resumo": snippet[:200] + "..." if len(snippet) > 200 else snippet,
+                    "hoje": is_today
+                })
+    else:
+        print("Buscando notícias via API gratuita de RSS do Google News...")
+        xml_gnews = fetch_google_news_rss()
+        serper_articles = parse_google_news_rss(xml_gnews)
+
+    # Combinar RSS e Serper
+    todos_artigos = rss_news + serper_articles
+
+    # Remover duplicatas por link e título normalizado
+    artigos_dedup = []
+    links_vistos = set()
+    titulos_vistos = set()
+
+    for art in todos_artigos:
+        link = art.get("link", "").strip()
+        titulo_norm = "".join(filter(str.isalnum, art.get("titulo", "").lower()))
+        
+        if link and link in links_vistos:
+            continue
+        if titulo_norm in titulos_vistos:
+            continue
+            
+        if link:
+            links_vistos.add(link)
+        titulos_vistos.add(titulo_norm)
+        artigos_dedup.append(art)
+
+    # Ordenar por data decrescente
+    artigos_dedup.sort(key=lambda x: x.get("data", ""), reverse=True)
+
+    noticias_hoje = [n for n in artigos_dedup if n["hoje"]]
     
     if not noticias_hoje:
         existentes = data.get("noticias", [])
