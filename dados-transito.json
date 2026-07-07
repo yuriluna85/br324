@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-07-07T19:30:51.689804-03:00",
+  "ultimaAtualizacao": "2026-07-07T19:37:06.585743-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,263 +22,87 @@
   ],
   "noticias": [
     {
-      "titulo": "Nova interdição total provoca transtornos na BR-324",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSm9PbEd2N1ltNlhyanVEOF9SSDRWRnFxOGZsQ3JBT1VEb1FXbE5vVDgtTEZkZU1vazcxT0hfREpMRGMxNGpnWXFXYUFLLXVVOUI4aFdweFk5T0xRMmEtMFBhWEVsd08xdXhhcmhIOGFDSG5EZHZQWDhJVnZUd0p0SEsxV0U4MGlTV3pKbVhDY1ZQZEd2NWtVaGY2RndZd2dQUFRlSw?oc=5",
-      "fonte": "Jornal Correio",
-      "data": "2026-07-07T17:39:13+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 tem trecho totalmente interditado após afundamento no asfalto; trânsito é desviado",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzQ3R0MxckE3U2hGS1pBNWFySkRBT1IzTldjc21FaXJKYnJ4cUFoLUtUc19oZFRCQ2FTWHVPME5LWTFHY0xYM0dSV1BOOEo4dFljQ2hVazR2eWxNOWcxMHJ0S1Q1ZGpFMk42NVNsbzdiWWl5ZC1oN2p2UlJfRlZ0NERGWGR2aVBJcU01T2x4SGx3ZGtab0lpbktKbU1lQjFtSklPSHVlZlJaSXM3ZVZubmMxUkxiQXc0X0VCY193YlJXeDlpelZn?oc=5",
-      "fonte": "Muita Informação",
-      "data": "2026-07-07T17:27:00+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
       "titulo": "Trecho da BR-324 é bloqueado após afundamento de pista",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFN6Z2hCVk9XanJaOGExYy10YVhlYTZhMFlOTUEzR2FuS1BTRkk1c01WUFJCX0FuYi03bTFrdG5QdzdUdWRfVlhqVTNsQ3VHWWJnb2llUFJuT0lDVUN0ancyV21MRlFvTGNsMnJYVTh1d3N2OU1talFLc0dsTzF3WTZmVzJCTGlvaHd3?oc=5",
+      "link": "https://sociedadeonline.com/trecho-da-br-324-e-bloqueado-apos-afundamento-de-pista/",
       "fonte": "Sociedade Online",
-      "data": "2026-07-07T17:25:50+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Acidente com carreta interdita trecho da BR-324 em Simões Filho",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXFnUnFDR0FDMzdiQ3VnaWhzbGI1X2daVVdKMDNmTEpxTUpzbG1tdWpNRmhYNnpwZEJSenk2U3dPN05WNWRkUWhtNE4xQ1EwakhlLVkzZHFkTzR0am96VmFBcTR5MWxUZGZQdmZfdVlDenU5VWIyaU9CdlVCa2JueG8tR3F4QzViOEh4REVYRWNmWTVVZ2w3ZHEzT2VMVDdYRjd3ZE9nZWh4bDlQU05hNA?oc=5",
-      "fonte": "Rádio Metrópole",
-      "data": "2026-07-07T17:07:00+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 é totalmente interditado por afundamento no pavimento",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWd1ZXFyeWJ2NmxTaUs2dy1iZkgwblo2Slp5NVZISC1WWlVtVzhfV0Nsd0pmXzJwRE5nQkJiUTdFWGV0Rjl6UTRmQW03NEtLSnM3R1YzeFM5YUcwZS05ZHJJX0Y3aTMwakRYLUp6VlVydGpUMlowRWs4c2hfcXdSVDVNNHA1WGNUdXpmUU9GOW9LV1hCelFoYW5DZHgzX0FZc28tVzlyc3Q4WUlsWEE?oc=5",
-      "fonte": "Se Ligue Bahia",
-      "data": "2026-07-07T17:02:03+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Um afundamento na pista interditou totalmente um trecho da BR-324, na altura de Simões Filho, na Região Metropolitana de Salvador, nesta terça-feira (7). O problema foi provocado por danos na estrutura de um bueiro localizado na rodovia. A ocorrência foi",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KMHQ2b09LQUk2dVY5NHRFeFQxLUtrYnVNN1p4dVZ0YmhEcXR5Vjg5YVM4Rm9mcXZVMWJDbzdaYVlDQWdxOXVseTN6aDlnVjkySVFxbG93?oc=5",
-      "fonte": "instagram.com",
-      "data": "2026-07-07T16:51:04+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Pista cede na BR-324 e interdita trecho no sentido Salvador–Feira de Santana",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUJsX0dxS25SQ21nSXJrREZtNkd3eUZwX0w5aVl3ZUtyU0JqdFBFc2UyYlpvak4xYnNoZVlNLVBTVXIwSW1PM0Z0dnJoR0NvdGhCTGtwY09yOWFyRFNCbDJZYlB6dXRVTXR2Rld2NkVKRk9Kc3dVeFpGVlVZM2daZTJocnY4SnloeXZ1dFRpY1Y1WXhPakw0VlBOTVozY2hNT2tsV3VveXhyQWROYWR1LVRucEN0SUpoWXlEcm02QQ?oc=5",
-      "fonte": "Blog do Valente",
-      "data": "2026-07-07T16:40:08+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
+      "data": "2026-07-07T17:37:09.947932-03:00",
+      "resumo": "Um afundamento de pista causou o bloqueio total do quilômetro 604 da BR-324, em Simões Filho, no sentido Feira de Santana, na tarde desta...",
       "hoje": true
     },
     {
       "titulo": "Gestante entra em trabalho de parto na BR-324",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX2FmVXg5djU2NUQwTW1TMWxCZGRKamI3NTBibkp2cl9mUmIwczBqTi11UXNZREJaTzlzSDlFM093cDRVX3c2RlRySk5OZ3FsV2hBdy1oRFB2VUxwT2p0VUo1LVV2Y0VZZ19MMlFES2RIZDA1dnU5MjZLYnpqczdEOXRzR2R4Zkx0WWFoY3VBVUlCQQ?oc=5",
+      "link": "https://www.portalsalvadorfm.com.br/bahia/gestante-entra-em-trabalho-de-parto-na-br-324/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-07-07T16:35:11+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
+      "data": "2026-07-07T16:37:09.947941-03:00",
+      "resumo": "Uma equipe da Polícia Rodoviária Federal (PRF) prestou auxílio a uma gestante em trabalho de parto na manhã desta segunda-feira (6),...",
+      "hoje": true
+    },
+    {
+      "titulo": "Um afundamento na pista interditou totalmente um trecho da BR-324, na altura de Simões Filho, na Região Metropolitana de Salvador, nesta terça-feira (7). O problema foi provocado por danos na estrutura de um bueiro localizado na rodovia. A ocorrência foi",
+      "link": "https://www.instagram.com/reel/DagQfN_kUQx/",
+      "fonte": "Instagram",
+      "data": "2026-07-07T16:37:09.947886-03:00",
+      "resumo": "",
       "hoje": true
     },
     {
       "titulo": "Trecho da BR-324 é interditado após acidente com carreta na BA",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXl3bUs5WEE2bkxxNDNmR1lfYTRhTmxUREl0em5PclZjeFIydzdqMEFwME1qNHhHejhkNXRPZ3BSbHFERlgzQVJZZ3Voc19Fcl9rS3NVSng3U2dsVXJNZE5PWWVWOTB1X1pvR3RVc0ZMYmpydHUxZi1fYzNDVWM2dWVqUEJOTlhjWmI5UlZfWnQ1RlNMSW1YVEQxOFVWWjBIZy1MaDdWeWNkTnhTOE9yay03elFYeWFqR2s5ONIBywFBVV95cUxQWUk4UGl4VDFocnZVVFFXY1RJUk41LUtzcENmZFlmYlFMS28zanZFeFFPYVlxWTdUb3puN3NqbUtCTWpod2pPNU83V2NZUGVZSk5Dc05LVnpEX1hCSEpTeXNTMU9fWEw0SjNmTmFEN19WVjRLZjBWUmtDWFB2aTNNa2k0OHFXYnN0anBBZ2hMVkVMTVRuQ2hFZW1oOWxLR2lWSUY0eUQ1azBHOUJrUHpQa012ZllwSVE0VzZfNVVoS0VUZV9iY3dWN0VTNA?oc=5",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/07/trecho-da-br-324-e-interditado-apos-acidente-com-carreta-na-bahia.ghtml",
       "fonte": "G1",
-      "data": "2026-07-07T16:23:27+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Carreta atravessada provoca nova interdição total na BR-324 em Simões Filho",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWhfbFZtcUlHUE1nUm9uWmx2c00xWWNYdWN2QXpsM2Iwei1GUjFqbEV3cFVBcG5RM2pLLV9yaUdaclJ0Nl96NGpKSW9IRnFEXzhhbmVITkhBZlZZaVpzY09VT2xGY2VrUVNHSXRrUHFRQjJVTVpEY2g1RmR5VlVQYmhCSjlodUs5MjNXWk90MEhQNU12Wm92SXR0ZzZnRFhoQVNVTg?oc=5",
-      "fonte": "deolhonacidade.net",
-      "data": "2026-07-07T16:18:15+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Nova interdição bloqueia totalmente a BR-324",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc25hZjRGT19MaVU1OGstTzU4NEY3SVp2RGlDRUhQMVJrdUVpV0w0d1pCZkZfZW0tMXNVb0RxZWJPcnJXWW5YRjlfSUJxZEhJMXpNTzJqa0FHVnFqUGNzZVZVbGFZLTJCMGxwM1NRSjk4ZGZZV0dHd21ORllLU1FVUVRUY3E4b0E2TGRfR0dic1g?oc=5",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-07-07T16:18:14+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "ACESSO À BR-324 EM CANDEIAS SERÁ INTERDITADO POR CINCO DIAS PARA OBRAS -",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQVpGdllScThxZzdjOHFwMkFhVXhPMWtVdW56X2pIZkM1Zml1NDhIRkJwRk4xUzA5MTF0WWhFTm5OVmQzbkNjNDB6Y0FEamc3SEVuTUpxYlQxV1pobGN6SU03QUx5anY4UU85cTRxRGtUdlEycjZ0NkttTklJMFEzY3NvS3ZZZmlLTEM1azE2ZUxWVGNxaHJvcmtBbnRaWElaYk1KMndjTVRfbkhUZjVUd3hxUkhxQQ?oc=5",
-      "fonte": "- Bahia Economica",
-      "data": "2026-07-07T15:48:00+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
+      "data": "2026-07-07T16:37:09.947736-03:00",
+      "resumo": "Situação aconteceu em trecho de Simões Filho, no sentido Feira de Santana. Extensão do congestionamento ainda não foi divulgada,...",
       "hoje": true
     },
     {
       "titulo": "Acesso à BR-324 em Candeias, na BA, é interditado temporariamente",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaWVVY3lnY29KVkk5Sk5GV1ZEOTdPLXEwQnlIdEhlRjJCUUQ1U0FHaXVka0g0ZUt4NVVJZDNSSG5keFdVckNhd0xRU1lPeGFRLUctN3pfVU01NVRFV1JIcUZucDBGdFdHVE9sUlZNdjRYV1JMZ2dRamxySU5TRVFkWFFSRWlGci1BNFlMa1RFb2tJeWVpcHo5cNIBpwFBVV95cUxQZDVPblUzanEzMVFlOUswX1lUMlliRHp3NW1oTG5ZdHdPTmRyejM3cFBSVjc5UTRsTWVRZ0dNX1pOUEdHd05WdjAtQUVySTBiTmZhSFFkZ0xhTFFLWXlzdHkxS21XUnU0TW9yemcyeUR1NjhNVE94bEdhcFhGMEZlaUh5aUlFeTdmcFhneXh2Z1A1Qkp3Y2w5ZjFfVGRjcHN4VF9yOWFoUQ?oc=5",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/07/interdicao-temporaria-rodovia-candeias.ghtml",
       "fonte": "G1",
-      "data": "2026-07-07T15:13:57+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 em Candeias tem acesso interditado para obras até sábado (11)",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaW9randNUmdUc0JNcTNMOEZ4aDAzdWt2dDNkdXp5VXNaQUZfd1Y4WnZqWXZkM2VNQkJpYU5XRGxjSTlPN0xTSDFMTWU5cUpaUnQ5aWhlVWgtaU9McjdxQWY5cU9NY3E2VVAzTnpOXzhWUk14TFZTM1lkUDZEUzBvSHBlQndwa2dWRC1aNGo0RnV4ZmE4Q293cGplcnNMUQ?oc=5",
-      "fonte": "avozdocampo.com",
-      "data": "2026-07-07T15:13:57+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 TEM TRECHO INTERDITADO APÓS AFUNDAMENTO NA PISTA -",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaGpiNm9ReU51ZHlNQ2FZb1BmSnAyakN1VzFzT0JHWl8tY3d2cldjZ01XUGw0WW5mUU1EdjFoNUl5cHpjUDhIN25TdC1IM3NBZ1h0SUZCcFlDNmlodWx6aDlBSC1OYjFjUXlIcUJlLWtHSVNYZ0wwRDgwQkt2Q0Ywa01QRmNBdWF5aUl5ektIdG9TLVhqOWJNaFpsY0FiZjgwTHc?oc=5",
-      "fonte": "- Bahia Economica",
-      "data": "2026-07-07T15:06:00+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 é totalmente bloqueado após falha estrutural na pista",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHk3YUJUWlVqTkZzTy1mQkhWQTR5TktPcm0xcTVzdC1IUVhQOUFJOTRia0puc0JUNUNrWXJmRkhvbVFrMkRnX0tQZHpOVlp1QlJOZDI3RGNUWDJPaURDU2JDcE5yczZ5V0gzV2Zpa2Y3SV9OX2t4cUN1ejVvUERqdWZnWFZaU29tTExzdUw3U2pFUXBIOTl4LXBzWUpYUDhxUjlrYjh6MURjeDY5Sk9MM0toRXBSczZiVkE?oc=5",
-      "fonte": "Folha do Estado da Bahia",
-      "data": "2026-07-07T14:59:45+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
+      "data": "2026-07-07T15:37:09.947923-03:00",
+      "resumo": "A alça de acesso da BA-522 à BR-324, localizada no KM-593, na região do viaduto de Candeias, na Região Metropolitana de Salvador (RMS),...",
       "hoje": true
     },
     {
       "titulo": "Trecho da BR-324 é totalmente interditado após problema estrutural",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGVad1RyNG1uaVZnZmhhOTBGemJoR3hHcTNIM3RwUC1UUkRKM0JMdmtjMFo2MzlLZ0o5UFc3cThiUms5V3NYV1BzTHRXdjBValNZS2c3bzRKVFl3NHpqMDBGUzh1eDVlUzBmY2JvVko4Uzl0bVR3UDI0WWNJNGN3cG1BNzNVbEVYbkhYVXdVcnNFM2JodFhaWDJxalNzTWNTM3A2bnVYZ3AteklBZjBPTWpuMVo?oc=5",
+      "link": "https://www.metro1.com.br/noticias/bahia/185041,trecho-da-br-324-e-totalmente-interditado-apos-problema-estrutural",
       "fonte": "Rádio Metrópole",
-      "data": "2026-07-07T14:58:00+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
+      "data": "2026-07-07T14:37:09.947950-03:00",
+      "resumo": "PRF bloqueou o sentido Feira de Santana, em Simões Filho, após agravamento de danos provocados por um bueiro sob a pista.",
       "hoje": true
     },
     {
       "titulo": "BR-324 é totalmente interditada após afundamento na pista",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTdCUXpZMGloYU1oQ1ZMQVJOOVctVV9sNnk1NTRtY01Rb0J1dXNrNzliV1E2dGlVLUxHUkdJbDFPNXd5UWN5blZQX2x6N3NUQnlxcWFFaHg3b3JEWWdjeWJUVXhBNlpTNVNhbGtOV0NYdFYzYmtzeEpMbllPZDdPOWNLTjVOVEw2d1R1Z0lOcHVOdjNRa2UwQ0F5ZlB0eFJWNm8xblpLeVBHQl92?oc=5",
+      "link": "https://www.correio24horas.com.br/minha-bahia/br-324-e-totalmente-interditada-apos-afundamento-na-pista-0726",
       "fonte": "Jornal Correio",
-      "data": "2026-07-07T14:17:41+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Afundamento de asfalto causa interdição total de trecho da BR-324",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa09PQ2E5STNlOGFxSndXUnl4VTFmZXhwVktEM0FfSjR6V05CNEhITlQtenhUUXFaNmJYQW5HdU5pYXBFdHI1ajNaMXVaczJJaHBKZlJkTm10UUJwZHI0TTVDLTk1YXplMWlBZjlSc1lMZVBxS1JiSFVKcTh5QTlwUk9GM1hhZFVzOVIyek5TdTJER1RpYmVjYXd6MHlXazg?oc=5",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-07-07T14:10:07+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Pista afunda na BR-324 e causa interdição total no sentido Salvador–Feira",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWxVbFczWm8zRkk3cUQ4S2hvYVcxRmY4X1hadFRHNi1YeGZGWURuaW5mVVp2NGdZZTMwR1ZlUS1Tam5naXp6MGJ2REF1emJRZWg1dG5iQWc1Tk4wQ1RiN090QUw5TTRKVGxXTG5VeVYwb1NlLXVUcWlGY25vZ2g2dTNBdjZnT05rakxKNUhxRDN5bnF5clhMcFNpTGY1aUJ1a1V0ZUh0U1o2WkotVzVDc3VXbjdoU0lKZnQySzIzVnjSAcABQVVfeXFMT1VsVWxXM1pvM0ZJN3FEOEtob2FXMUZmOF9YWnRURzYtWHhmRllEbmluZlVadjRnWWUzMEdWZVEtU2puZ2l6ejBidkRBdXpiUWVoNXRuYkFnNU5OMENUYjdPdEFMOU00SlRsV0xuVXlWMG9TZS11VHFpRmNub2doNnUzQXY2Z09Oa2pMSjVIcUQzeW5xeXJYTHBTaUxmNWlCdWtVdGVIdFNaNlpKLVc1Q3N1V243aFNJSmZ0MksyM1Z4?oc=5",
-      "fonte": "Bnews",
-      "data": "2026-07-07T13:57:12+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "VÍDEO: PRF interdita trecho da BR-324 após asfalto ceder no sentido Feira de Santana",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2JqejMwYmZKVTJqMm9VZF9mRHkwYnlNcU9JM0NUaFVxTjhIS08tS2J4MjBUVTRIbGVUSHlMR0FJXzhfSXZsM3RrcTJUbGgyTXBDUXliSXVEcnp0Qk1SNTV6cjM3aEphYkdLNm5uNjBtT1dpRjR5ZTFhNnF5alA1cnZKcy1SWWpSSHdYTlBlYVc5d0JGNHU2WWZ4ZUhjUjlRZUcxWHlIMHhkVmRoZzhzVVhoVVVkSHVUdXJLNmpmeHEteUktbWNKVXJQMA?oc=5",
-      "fonte": "Bahia Notícias",
-      "data": "2026-07-07T13:43:00+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
+      "data": "2026-07-07T14:37:09.947901-03:00",
+      "resumo": "Afundamento de pista em Simões Filho, na Região Metropolitana de Salvador, causou interdição total.",
       "hoje": true
     },
     {
       "titulo": "Acesso da BR-324 é alterado temporariamente",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00S2laSnlZSm1USHl6dG12cFRKSU91VHp4YTlMeTRVZHJuRlVJZHpISVF1RTdzNllQWWdQajd3Y1hyR2RqeWR6Z1JZOWNXc3pRYzFWQXg5d2ZyU2N0OTVNTVVXOVJvSTZkRGpMMzFqd1NJclViOVE?oc=5",
+      "link": "https://bahia.ba/bahia/acesso-da-br-324-e-alterado-temporariamente/",
       "fonte": "Bahia.Ba",
-      "data": "2026-07-07T12:00:00+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Acesso à BR-324 será interditado por cinco dias para obras no pavimento",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1QyNXdwTFNlWVlGdm1HdV9yS1l4a0x5d1NfZ3MzempyejRFRHdZNmU1aVdMQUxRUS01aDNaS2lvbzc0Z24wNXhnSHV4anJTcjJnWk9rZ0M4U1BmOUR4UnFJRTRLT0Z4QUVLX0JGcE5EelAyM0ttQ2VCNVJkOWY1Y2FGcVhpTlFmdS1GaWE3eHNodHlwMmJnRVpWZmtndlRucUJLT2lNRWNVMHQ1VWw2ZC1kdkIxOEZa?oc=5",
-      "fonte": "Blog do Valente",
-      "data": "2026-07-07T11:15:39+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Asfalto cede na BR-324 e provoca longo congestionamento em direção a Feira de Santana",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbUUxb2UtWTlPSkdnRXJydGtWVDZFLWJwMVFOeXBDczRab2F6dWRsbllnSUNxcDN6RUotbzgyY05MZkxQRUdfeDFRdGhUSGNLSnh5Z2JkX19HclhLODA3ZFV6Q2FETHdYTUhqS1RDLV9TMGhIQzJ1WGMyT2RHMG44WVZad3B6U1VIaWk3Wk1ZZ0hZZ2s4QUVaX0NOZnFLMENJT3ZrdExUZ1g5M3MyWnp5bTB6WkR1Zkw0UFJ4UTVNYzExVWJZTHpF?oc=5",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-07-07T11:10:50+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Dois trechos da BR-324 têm interdição parcial na manhã desta terça (7) na Bahia; veja onde",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaUNJaUFQR0o3ejVtaFVhVi1RTlAta1ZUeG5lRXBRUF9vRFN5N3N5d3BadVpPMG1RaFBhTmpXWXNxM3ZvdURxencyOHc4SUxRdXM1T3VVeTdqaFRCalNZdlZ1ZkZlbUpvSXcySkFBRGFMUzlIT3FCelgtMHhGQTZ5WEU5Y1ByM0QtOFk5SFhFLTRub1pJc05mRG83bzRGcTgyOWVhTVoxOUxnVXpLbDN2MkllYW85aFlEOWdyYmtiWFNDa0J4c2V5dTlpWEhvOVFZZjk5Yw?oc=5",
-      "fonte": "Jornal Correio",
-      "data": "2026-07-07T09:48:19+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho de acesso à BR-324 em Candeias é interditado; veja rotas alternativas",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaUxOVjdVZnBoNWJpQkNLUE4wazVlV1RCR1hIXzdDYzhMNlM2cEF2WWZHcTRKRGhIbERKLUtUOXN3eUZzWE85dl8wRUNhWnhtbUxhRjFUdDlMck5FOW1MekNKVUU2VThiaG85OVd6R1FZVHJtN2RDbkY1T1NxbnM4NWdxdXV1X3Q4OUVBUHl2MUg2Y2xxbjU5MGZMQTNCbUZsbEtfazdIXzRTOGp4Q0tfVEN1SmhQSnJUYV9ZS0NuNng?oc=5",
-      "fonte": "Rádio Metrópole",
-      "data": "2026-07-07T09:38:00+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 será bloqueado por cinco dias na Bahia",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObnlMcm1VOXBRMGFfS0EyOE1BX05JNE1qeWFWREI2eEtpV1dfX3lXUFFZYlBNaEgxcVF3TDNzOHBFRWpZVnV4UmRpUzNrWTVlWjJWS0pZcWZ3dk9uR1dhUGtDMXoyMlJzQjRDMlBkYzNpazF6OTllcV9VM3dqSU9IYVpZZWRqYU5FNkZtUTVqcUhzYUl1YUstbDhHbw?oc=5",
-      "fonte": "Farol da Bahia",
-      "data": "2026-07-07T08:35:00+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
+      "data": "2026-07-07T11:37:09.947968-03:00",
+      "resumo": "O DNIT (Departamento Nacional de Infraestrutura de Transportes) emitiu um alerta para a interdição temporária da alça de acesso da BA-522 à...",
       "hoje": true
     },
     {
       "titulo": "Acesso à BR-324 Será Interditado Por Cinco Dias Na Região Metropolitana De Salvador",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMGp0ZG1ZV1BGaWQ0UUFoamNOVFNHeUlPeC1WcDlvcmE4Tl90a1hfREpwc0JVM1dOeU05R1o5bzdvWnRKTlJDSVh0TTd1VFRkcUplWU1FQ21lRS1qN3AweWlDU2p1aDg4SEFORVBaUnZoQktNMkRmTkdCTHJuNHZVbkNIMHUxUzktREJoclNtVUptc1pQb0NwamFndkdrakZUTEkwenllNENXSE0yTnFSWUhRWXdmZ0lWQTdhREU3NA?oc=5",
+      "link": "https://takta.com.br/ultimas-noticias/acesso-a-br-324-sera-interditado-por-cinco-dias-na-regiao-metropolitana-de-salvador/",
       "fonte": "Taktá No AR",
-      "data": "2026-07-07T08:01:22+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho de acesso à BR-324 é bloqueado na Bahia; veja rotas alternativas",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlUyRnYxYzRxMFRxWjlCbUVVN3FNV0FDbGNreTV1NHdMdU16SEFaSFFqeTgyVnoxdmZsTVN0UHVCTjlwa0M0cC1uQTU5M0ttMXJFaGpiRkN1dnZycGh0OTlRNzhfSE9xVWtXX2J3UUx1VzV4OHhmVFhsVXVwdTZqZ3hwQUdLT0Y0RU55SWJ0YTlFbEVrU3ZId1FLS3lNV2dqYWJKUzA2UU9yd9IBsgFBVV95cUxNSDZxUXpIS2lJeUhmcWFhN3o4NlNJcUtyMUNUYi1Fd1RObnk4WlNsaWwzdEsyd3FncTB2UGNrTU1JOGJtbnFtajdjc1FtV0NCNHk2a3ZYYUJ6WXk1OFZWUzVpZExHNURScUVWN3JnSVA3RWdDelRKYzlJSXN1SkVTV05sVFNWR0lqNWJjdkY2alEtbENHLVFnRnBHdDBtcWtKbEZTVTJFZFBFZHJzTjVTcTN3?oc=5",
-      "fonte": "A TARDE",
-      "data": "2026-07-07T07:58:50+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Acesso à BR-324 por Candeias é interditado para obras a partir desta terça-feira (7)",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDk3bXZCNy1TVGNORy0xZlNsa0ZlTTBiRzRlQ2tITDNtLWg1SW9NbGE4QzVKc0lKdDMybUI3M2Z6ak5SLWlGU1ZhRG5vci1wRC0tUXV1TmE0a0o4MEdfa0NIWUFGeXZ2MGg5SU1FWFNkSXJOeWJfOGZTV2pXQUxfMEQ0dGRZbEN5Z3U1bTNsbkE3cjFfVExZWFRocHo0MFM0eGVGdlpjR1A4NGNZS091NTd3?oc=5",
-      "fonte": "MundoBA",
-      "data": "2026-07-07T07:53:00+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho de acesso à BR-324 será bloqueado por cinco dias na Bahia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONVJXeVdMd1N6Tk5LZmVpd0djVTF4UFNsLUVNcTk1OWRQeXc5YjdwSzNCVnY5NzB3aUJ1VjAzaHBNbE05SlBxUi1UYV9XWkhUbU9ndTg1OXJvY2htSDdSQjlkMHg4RHRwU0Z1b0dvQk9kckhuWThXYTBXWXh0NTVCcWlaWEJubTVZWkprVWZFdGVLUjh1ZW00amVVemRJclJ0SFlLTzQ4bHBlWTd1eTNobjB3?oc=5",
-      "fonte": "Jornal Correio",
-      "data": "2026-07-07T07:07:47+00:00",
-      "resumo": "Notícia consolidada via Google Notícias.",
+      "data": "2026-07-07T07:37:09.947959-03:00",
+      "resumo": "Motoristas que trafegam pela Região Metropolitana de Salvador devem ficar atentos às mudanças no trânsito a partir desta terça-feira (7).",
       "hoje": true
     }
   ],
   "metricas": {
-    "totalRegistros": 5,
-    "percentualFluido": 60.0,
+    "totalRegistros": 6,
+    "percentualFluido": 50.0,
     "percentualAtencao": 0.0,
-    "percentualLento": 40.0,
-    "totalAcidentes": 2,
+    "percentualLento": 50.0,
+    "totalAcidentes": 3,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.0
+    "tempoMedioMinutos": 85.0
   }
 }
