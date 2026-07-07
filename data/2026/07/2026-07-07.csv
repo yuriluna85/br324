@@ -1,0 +1,4 @@
+horario,status_geral,tempo_estimado,tempo_normal,qtd_noticias,causa_lentidao,alertas_ativos
+19:21:15,Fluido,75,75,1,Nenhuma,0
+19:22:33,Lento,95,75,9,Acidente,1
+19:30:51,Lento,95,75,31,Acidente,1
