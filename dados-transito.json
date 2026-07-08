@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-07-08T17:41:16.272732-03:00",
+  "ultimaAtualizacao": "2026-07-08T18:59:16.961932-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,59 +22,51 @@
   ],
   "noticias": [
     {
-      "titulo": "BR-324 libera pista no sentido Feira de Santana após afundamento em trecho de Simões Filho",
-      "link": "https://mundoba.com.br/bahia/br-324-libera-pista-no-sentido-feira-de-santana-apos-afundamento-em-trecho-de-simoes-filho/",
-      "fonte": "MundoBA",
-      "data": "2026-07-08T17:37:20.025582-03:00",
-      "resumo": "Por outro lado, a pista em direção a Salvador continua interditada para obras emergenciais do Dnit.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 tem pista liberada no sentido Feira de Santana, mas segue interditada em direção a Salvador",
-      "link": "https://www.metro1.com.br/noticias/cidade/185114,br-324-tem-pista-liberada-no-sentido-feira-de-santana-mas-segue-interditada-em-direcao-a-salvador",
-      "fonte": "Rádio Metrópole",
-      "data": "2026-07-08T17:13:20.025545-03:00",
-      "resumo": "O trecho da BR-324 que sofreu um afundamento na altura do km 604, em Simões Filho, na Região Metropolitana de Salvador, segue com interdição...",
+      "titulo": "Pista da BR-324 é liberada no sentido Feira de Santana; trânsito segue lento no sentido Salvador",
+      "link": "https://www.portalsalvadorfm.com.br/bahia/pista-da-br-324-e-liberada-no-sentido-feira-de-santana-transito-segue-lento-no-sentido-salvador/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-07-08T16:59:20.537087-03:00",
+      "resumo": "O tráfego no km 604 da BR-324, em Simões Filho, no sentido Salvador–Feira de Santana, foi totalmente liberado na tarde desta quarta-feira...",
       "hoje": true
     },
     {
       "titulo": "BR-324 tem trecho liberado após obras, mas motoristas ainda enfrentam restrição no sentido Salvador",
       "link": "https://aloalobahia.com/noticias/2026/07/08/br-324-tem-trecho-liberado-apos-obras-mas-motoristas-ainda-enfrentam-restricao-no-sentido-salvador/",
       "fonte": "Alô Alô Bahia",
-      "data": "2026-07-08T17:07:20.025564-03:00",
+      "data": "2026-07-08T16:59:20.537077-03:00",
       "resumo": "O tráfego na BR-324, no sentido Salvador–Feira de Santana, foi totalmente liberado na tarde desta quarta-feira (8), após a conclusão dos...",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324 tem pista liberada no sentido Feira de Santana, mas segue interditada em direção a Salvador",
+      "link": "https://www.metro1.com.br/noticias/cidade/185114,br-324-tem-pista-liberada-no-sentido-feira-de-santana-mas-segue-interditada-em-direcao-a-salvador",
+      "fonte": "Rádio Metrópole",
+      "data": "2026-07-08T16:59:20.537057-03:00",
+      "resumo": "O trecho da BR-324 que sofreu um afundamento na altura do km 604, em Simões Filho, na Região Metropolitana de Salvador, segue com interdição...",
+      "hoje": true
+    },
+    {
+      "titulo": "Trecho da BR-324 é liberado, no sentido Feira de Santana, após mais de 24 horas de interdição",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/08/trecho-da-br-324-e-liberado-na-bahia.ghtml",
+      "fonte": "G1",
+      "data": "2026-07-08T16:59:20.537032-03:00",
+      "resumo": "Sentido Salvador segue parcialmente fechado para a continuidade das obras de reparo da rodovia, que foi abalada após o surgimento de...",
+      "hoje": true
+    },
+    {
+      "titulo": "Após quase 24 horas de bloqueio, a pista da BR-324, no 604 km, sentido Feira de Santana, é totalmente liberada na tarde desta quarta-feira (8). O trecho havia sido interditado depois que um vazamento comprometeu a estrutura de um bueiro e provocou o af",
+      "link": "https://www.instagram.com/reel/Dai2CBImOxv/",
+      "fonte": "Instagram",
+      "data": "2026-07-08T16:59:20.536889-03:00",
+      "resumo": "",
       "hoje": true
     },
     {
       "titulo": "BR-324 tem fila de 7 km após afundamento da pista em Simões Filho; veja situação",
       "link": "https://www.correio24horas.com.br/minha-bahia/br-324-tem-fila-de-7-km-apos-afundamento-da-pista-em-simoes-filho-veja-situacao-0726",
       "fonte": "Jornal Correio",
-      "data": "2026-07-08T11:41:20.025533-03:00",
+      "data": "2026-07-08T10:59:20.537047-03:00",
       "resumo": "O congestionamento na BR-324 chegou a cerca de 7 quilômetros no sentido Feira de Santana nesta quarta-feira (8), segundo atualização da...",
-      "hoje": true
-    },
-    {
-      "titulo": "VÍDEO: Motoristas registram engarrafamento na BR-324, em Salvador",
-      "link": "https://www.bahianoticias.com.br/amp/noticia/318716-video-motoristas-registram-engarrafamento-na-br-324-em-salvador",
-      "fonte": "Bahia Notícias",
-      "data": "2026-07-08T07:41:20.025601-03:00",
-      "resumo": "Motoristas que passam pela rodovia Engenheiro Vasco Filho (BR-324) registraram um engarrafamento na manhã desta quarta-feira (8),...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 cede, provoca congestionamento e reacende críticas sobre conservação da rodovia na Bahia",
-      "link": "https://acessepolitica.com.br/noticia/178357/trecho-da-br-324-cede-provoca-congestionamento-e-reacende-criticas-sobre-conservacao-da-rodovia-na-bahia",
-      "fonte": "Acesse Política",
-      "data": "2026-07-08T07:41:20.025590-03:00",
-      "resumo": "Interdição parcial no sentido Salvador, Feira de Santana causa longas filas de veículos, DNIT realiza recuperação emergencial e motoristas...",
-      "hoje": true
-    },
-    {
-      "titulo": "Motoristas enfrentam congestionamento de 2 horas na BR-324",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/motoristas-enfrentam-congestionamento-de-2-horas-na-br-324/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-07-08T07:41:20.025573-03:00",
-      "resumo": "Motoristas enfrentam longas filas na BR-324 (sentido Feira de Santana) na manhã desta quarta-feira (8). O congestionamento se dá a execução...",
       "hoje": true
     }
   ],
