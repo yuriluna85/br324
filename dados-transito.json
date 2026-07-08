@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-08T07:08:50.194022-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-07-08T09:00:36.729379-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,23 +22,39 @@
   ],
   "noticias": [
     {
+      "titulo": "Trecho da BR-324 cede, provoca congestionamento e reacende críticas sobre conservação da rodovia na Bahia",
+      "link": "https://acessepolitica.com.br/noticia/178357/trecho-da-br-324-cede-provoca-congestionamento-e-reacende-criticas-sobre-conservacao-da-rodovia-na-bahia",
+      "fonte": "Acesse Política",
+      "data": "2026-07-08T08:02:44.117596-03:00",
+      "resumo": "Interdição parcial no sentido Salvador, Feira de Santana causa longas filas de veículos, DNIT realiza recuperação emergencial e motoristas...",
+      "hoje": true
+    },
+    {
       "titulo": "Um afundamento na pista interditou totalmente um trecho da BR-324, na altura de Simões Filho, na Região Metropolitana de Salvador, nesta terça-feira (7). O problema foi provocado por danos na estrutura de um bueiro localizado na rodovia. A ocorrência foi",
       "link": "https://www.instagram.com/reel/DagQfN_kUQx/",
       "fonte": "Instagram",
-      "data": "2026-07-08T04:08:54.984672-03:00",
+      "data": "2026-07-08T05:00:44.117418-03:00",
       "resumo": "",
+      "hoje": true
+    },
+    {
+      "titulo": "Pista afunda na BR-324 e causa interdição total no sentido Salvador–Feira",
+      "link": "https://www.trbn.com.br/materia/I158630/pista-afunda-na-br-324-e-causa-interdicao-total-no-sentido-salvador-feira",
+      "fonte": "Tribuna da Bahia",
+      "data": "2026-07-08T04:00:44.117614-03:00",
+      "resumo": "Os motoristas que trafegam pelas estradas da Região Metropolitana de Salvador (RMS) enfrentam mais transtornos na manhã de ontem (7).",
       "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
