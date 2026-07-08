@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-07-07T22:52:42.046677-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-07-08T02:13:50.551384-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,87 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Interdição na BR-324 provoca longo congestionamento entre Salvador e Simões Filho",
-      "link": "https://www.bahianoticias.com.br/noticia/318712-interdicao-na-br-324-provoca-longo-congestionamento-entre-salvador-e-simoes-filho",
-      "fonte": "Bahia Notícias",
-      "data": "2026-07-07T22:06:45.941038-03:00",
-      "resumo": "A interdição total de um trecho da BR-324 provocou um longo congestionamento na noite desta terça-feira (7) entre Salvador e Simões Filho.",
-      "hoje": true
-    },
-    {
-      "titulo": "Um afundamento na pista interditou totalmente um trecho da BR-324, na altura de Simões Filho, na Região Metropolitana de Salvador, nesta terça-feira (7). O problema foi provocado por danos na estrutura de um bueiro localizado na rodovia. A ocorrência foi",
-      "link": "https://www.instagram.com/reel/DagQfN_kUQx/",
-      "fonte": "Instagram",
-      "data": "2026-07-07T21:52:45.940824-03:00",
-      "resumo": "",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 tem trecho interditado após acidente com carreta",
-      "link": "https://www.faroldabahia.com.br/noticia/br-324-tem-trecho-interditado-apos-acidente-com-carreta",
-      "fonte": "Farol da Bahia",
-      "data": "2026-07-07T18:52:45.941029-03:00",
-      "resumo": "Caso aconteceu no sentido Feira de Santana.",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 é bloqueado após afundamento de pista",
-      "link": "https://sociedadeonline.com/trecho-da-br-324-e-bloqueado-apos-afundamento-de-pista/",
-      "fonte": "Sociedade Online",
-      "data": "2026-07-07T17:52:45.941010-03:00",
-      "resumo": "Um afundamento de pista causou o bloqueio total do quilômetro 604 da BR-324, em Simões Filho, no sentido Feira de Santana, na tarde desta...",
-      "hoje": true
-    },
-    {
-      "titulo": "Gestante entra em trabalho de parto na BR-324",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/gestante-entra-em-trabalho-de-parto-na-br-324/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-07-07T16:52:45.941020-03:00",
-      "resumo": "Uma equipe da Polícia Rodoviária Federal (PRF) prestou auxílio a uma gestante em trabalho de parto na manhã desta segunda-feira (6),...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trechos da BR-324 são interditados após afundamento de pista e acidente com carreta na BA",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/07/trecho-da-br-324-e-interditado-apos-acidente-com-carreta-na-bahia.ghtml",
-      "fonte": "G1",
-      "data": "2026-07-07T16:52:45.940963-03:00",
-      "resumo": "Situações aconteceram em trecho de Simões Filho, no sentido Feira de Santana. Extensão do congestionamento ainda não foi divulgada,...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 é totalmente interditado após problema estrutural",
-      "link": "https://www.metro1.com.br/noticias/bahia/185041,trecho-da-br-324-e-totalmente-interditado-apos-problema-estrutural",
-      "fonte": "Rádio Metrópole",
-      "data": "2026-07-07T14:52:45.941047-03:00",
-      "resumo": "PRF bloqueou o sentido Feira de Santana, em Simões Filho, após agravamento de danos provocados por um bueiro sob a pista.",
-      "hoje": true
-    },
-    {
-      "titulo": "Acesso à BR-324 em Candeias, na BA, é interditado temporariamente",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/07/interdicao-temporaria-rodovia-candeias.ghtml",
-      "fonte": "G1",
-      "data": "2026-07-07T14:52:45.941000-03:00",
-      "resumo": "A alça de acesso da BA-522 à BR-324, localizada no KM-593, na região do viaduto de Candeias, na Região Metropolitana de Salvador (RMS),...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 é totalmente interditada após afundamento na pista",
-      "link": "https://www.correio24horas.com.br/minha-bahia/br-324-e-totalmente-interditada-apos-afundamento-na-pista-0726",
-      "fonte": "Jornal Correio",
-      "data": "2026-07-07T13:52:45.940977-03:00",
-      "resumo": "A BR-324 foi totalmente interditada na tarde desta terça-feira (7) no sentido Feira de Santana, na altura do km 604, em Simões Filho,...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-07-08T02:13:50.551384-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
