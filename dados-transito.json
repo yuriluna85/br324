@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-08T04:44:22.822240-03:00",
+  "ultimaAtualizacao": "2026-07-08T07:08:50.194022-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-07-08T02:13:50.551384-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Um afundamento na pista interditou totalmente um trecho da BR-324, na altura de Simões Filho, na Região Metropolitana de Salvador, nesta terça-feira (7). O problema foi provocado por danos na estrutura de um bueiro localizado na rodovia. A ocorrência foi",
+      "link": "https://www.instagram.com/reel/DagQfN_kUQx/",
+      "fonte": "Instagram",
+      "data": "2026-07-08T04:08:54.984672-03:00",
+      "resumo": "",
+      "hoje": true
     }
   ],
   "metricas": {
