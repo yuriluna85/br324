@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-09T08:46:52.516115-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-07-09T11:34:22.174547-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,31 +22,55 @@
   ],
   "noticias": [
     {
-      "titulo": "BR-324 tem pista liberada no sentido Feira de Santana",
-      "link": "https://www.jornalfolhadoestado.com/municipios/br-324-tem-pista-liberada-no-sentido-feira-de-santana/",
-      "fonte": "Folha do Estado da Bahia",
-      "data": "2026-07-09T08:41:55.605773-03:00",
-      "resumo": "O trecho da BR-324 que sofreu um afundamento na altura do km 604, em Simões Filho, na Região Metropolitana de Salvador, segue com interdição...",
+      "titulo": "BR-324: cratera provoca nova interdição no sentido Feira de Santana",
+      "link": "https://aloalobahia.com/noticias/2026/07/09/br-324-cratera-provoca-nova-interdicao-no-sentido-feira-de-santana/",
+      "fonte": "Alô Alô Bahia",
+      "data": "2026-07-09T09:34:25.104602-03:00",
+      "resumo": "A Polícia Rodoviária Federal (PRF) voltou a interditar, na manhã desta quinta-feira (9), o km 604 da BR-324, no sentido Feira de Santana,...",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324 tem novo afundamento e volta a ser interditada no sentido Feira de Santana",
+      "link": "https://www.metro1.com.br/noticias/bahia/185135,br-324-tem-novo-afundamento-e-volta-a-ser-interditada-no-sentido-feira-de-santana",
+      "fonte": "Rádio Metrópole",
+      "data": "2026-07-09T08:34:25.104594-03:00",
+      "resumo": "Sentido Salvador continua bloqueado para obras, enquanto motoristas seguem sendo desviados pela pista lateral.",
+      "hoje": true
+    },
+    {
+      "titulo": "Trecho da BR-324 volta a ceder e rodovia é interditada outra vez na Bahia",
+      "link": "https://www.correio24horas.com.br/minha-bahia/trecho-da-br-324-volta-a-ceder-e-rodovia-e-interditada-outra-vez-na-bahia-0726",
+      "fonte": "Jornal Correio",
+      "data": "2026-07-09T08:34:25.104564-03:00",
+      "resumo": "O trecho da BR-324 no km 604, em Simões Filho, na Região Metropolitana de Salvador (RMS), voltou a ceder na manhã desta quinta-feira (9) e...",
+      "hoje": true
+    },
+    {
+      "titulo": "Nova cratera faz PRF voltar a interditar trecho da BR-324 no sentido Feira de Santana",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/09/nova-cratera-faz-prf-voltar-a-interditar-trecho-da-br-324-no-sentido-feira-de-santana.ghtml",
+      "fonte": "G1",
+      "data": "2026-07-09T08:34:25.104368-03:00",
+      "resumo": "A Polícia Rodoviária Federal (PRF) voltou a interditar, na manhã desta quinta-feira (9), o km 604 da BR-324, no sentido Feira de Santana,...",
       "hoje": true
     },
     {
       "titulo": "BR-324 segue parcialmente interditada e ainda não tem previsão de liberação",
       "link": "https://www.metro1.com.br/noticias/bahia/185130,br-324-segue-parcialmente-interditada-e-ainda-nao-tem-previsao-de-liberacao",
       "fonte": "Rádio Metrópole",
-      "data": "2026-07-09T06:46:55.605726-03:00",
+      "data": "2026-07-09T06:34:25.104628-03:00",
       "resumo": "Fluxo para Feira de Santana foi liberado, mas motoristas que seguem para Salvador ainda precisam utilizar o desvio pela pista lateral.",
       "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
