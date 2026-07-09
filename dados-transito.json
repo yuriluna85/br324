@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-07-08T22:08:00.777059-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-07-09T02:29:55.263294-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,87 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Trecho interditado da BR-324 é liberado após afundamento no asfalto e obras seguem no sentido Salvador",
-      "link": "https://muitainformacao.com.br/cidades/trecho-interditado-da-br-324-e-liberado-apos-afundamento-no-asfalto-e-obras-seguem-no-sentido-salvador/",
-      "fonte": "Muita Informação",
-      "data": "2026-07-08T20:08:07.452061-03:00",
-      "resumo": "Trecho da BR-324 foi liberado após interdição por afundamento no asfalto. Confira como está o trânsito, as obras e as rotas alternativas.",
-      "hoje": true
-    },
-    {
-      "titulo": "Após Mais De 24 Horas, BR-324 é Liberada No Sentido Feira De Santana",
-      "link": "https://takta.com.br/municipios/apos-mais-de-24-horas-br-324-e-liberada-no-sentido-feira-de-santana/",
-      "fonte": "Taktá No AR",
-      "data": "2026-07-08T18:08:07.452032-03:00",
-      "resumo": "A BR-324 foi totalmente liberada no sentido Feira de Santana no final da tarde desta quarta-feira (8), após permanecer mais de 24 horas com...",
-      "hoje": true
-    },
-    {
-      "titulo": "Atenção, motoristas que trafegam pela BR-324. O vazamento que provocou o afundamento da pista no quilômetro 604, na região de Simões Filho, foi controlado. Apesar do avanço no reparo, o bloqueio total do trecho principal segue mantido nesta quarta-fei",
-      "link": "https://www.instagram.com/reel/DaiWaW_lSjD/",
-      "fonte": "Instagram",
-      "data": "2026-07-08T18:08:07.452018-03:00",
-      "resumo": "",
-      "hoje": true
-    },
-    {
-      "titulo": "Pista da BR-324 é liberada no sentido Feira de Santana; trânsito segue lento no sentido Salvador",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/pista-da-br-324-e-liberada-no-sentido-feira-de-santana-transito-segue-lento-no-sentido-salvador/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-07-08T17:08:07.452051-03:00",
-      "resumo": "O tráfego no km 604 da BR-324, em Simões Filho, no sentido Salvador–Feira de Santana, foi totalmente liberado na tarde desta quarta-feira...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 tem trecho liberado após obras, mas motoristas ainda enfrentam restrição no sentido Salvador",
-      "link": "https://aloalobahia.com/noticias/2026/07/08/br-324-tem-trecho-liberado-apos-obras-mas-motoristas-ainda-enfrentam-restricao-no-sentido-salvador/",
-      "fonte": "Alô Alô Bahia",
-      "data": "2026-07-08T17:08:07.452042-03:00",
-      "resumo": "O tráfego na BR-324, no sentido Salvador–Feira de Santana, foi totalmente liberado na tarde desta quarta-feira (8), após a conclusão dos...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 tem pista liberada no sentido Feira de Santana, mas segue interditada em direção a Salvador",
-      "link": "https://www.metro1.com.br/noticias/cidade/185114,br-324-tem-pista-liberada-no-sentido-feira-de-santana-mas-segue-interditada-em-direcao-a-salvador",
-      "fonte": "Rádio Metrópole",
-      "data": "2026-07-08T17:08:07.451986-03:00",
-      "resumo": "O trecho da BR-324 que sofreu um afundamento na altura do km 604, em Simões Filho, na Região Metropolitana de Salvador, segue com interdição...",
-      "hoje": true
-    },
-    {
-      "titulo": "Após quase 24 horas de bloqueio, a pista da BR-324, no 604 km, sentido Feira de Santana, é totalmente liberada na tarde desta quarta-feira (8). O trecho havia sido interditado depois que um vazamento comprometeu a estrutura de um bueiro e provocou o af",
-      "link": "https://www.instagram.com/reel/Dai2CBImOxv/",
-      "fonte": "Instagram",
-      "data": "2026-07-08T17:08:07.451949-03:00",
-      "resumo": "",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 é liberado, no sentido Feira de Santana, após mais de 24 horas de interdição",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/08/trecho-da-br-324-e-liberado-na-bahia.ghtml",
-      "fonte": "G1",
-      "data": "2026-07-08T17:08:07.451809-03:00",
-      "resumo": "Pista sentido Salvador segue parcialmente fechado para a continuidade das obras de reparo da rodovia, que foi abalada após o surgimento de...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 tem fila de 7 km após afundamento da pista em Simões Filho; veja situação",
-      "link": "https://www.correio24horas.com.br/minha-bahia/br-324-tem-fila-de-7-km-apos-afundamento-da-pista-em-simoes-filho-veja-situacao-0726",
-      "fonte": "Jornal Correio",
-      "data": "2026-07-08T11:08:07.451964-03:00",
-      "resumo": "O congestionamento na BR-324 chegou a cerca de 7 quilômetros no sentido Feira de Santana nesta quarta-feira (8), segundo atualização da...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-07-09T02:29:55.263294-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 1,
+    "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
