@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-10T07:25:35.717919-03:00",
+  "ultimaAtualizacao": "2026-07-10T09:39:28.130407-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-07-10T00:25:24.583978-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Menos de 24h após liberação, BR-324 volta a ceder e é interditada em Simões Filho",
+      "link": "https://www.trbn.com.br/materia/I158790/menos-de-24h-apos-liberacao-br-324-volta-a-ceder-e-e-interditada-em-simoes-filho",
+      "fonte": "Tribuna da Bahia",
+      "data": "2026-07-10T03:39:30.998000-03:00",
+      "resumo": "A pista foi novamente interditada no km 604 da BR-324, no sentido Feira de Santana, em razão da formação de uma nova cratera na saída para o...",
+      "hoje": true
     }
   ],
   "metricas": {
