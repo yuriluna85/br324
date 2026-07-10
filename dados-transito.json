@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-10T09:39:28.130407-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-07-10T12:27:12.530320-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,23 +22,55 @@
   ],
   "noticias": [
     {
+      "titulo": "Obras mantêm interdições na BR-324 e causam congestionamento em Simões Filho",
+      "link": "https://www.deolhonacidade.net/obras-mantem-interdicoes-na-br-324-e-causam-congestionamento-em-simoes-filho",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-07-10T09:27:16.667557-03:00",
+      "resumo": "Trecho do km 604 segue sem previsão de liberação; motoristas enfrentam lentidão de cerca de 30 minutos no sentido Feira de Santana.",
+      "hoje": true
+    },
+    {
+      "titulo": "Obras mantêm trecho da BR-324 interditado e causam congestionamento de 4 km em Simões Filho",
+      "link": "https://www.metro1.com.br/noticias/bahia/185194,obras-mantem-trecho-da-br-324-interditado-e-causam-congestionamento-de-4-km-em-simoes-filho",
+      "fonte": "Rádio Metrópole",
+      "data": "2026-07-10T09:27:16.667539-03:00",
+      "resumo": "Fluxo no sentido Feira de Santana é desviado para via lateral e não há previsão de liberação do trecho em obras.",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324 interditada; veja como está situação da rodovia nesta sexta-feira (10) na Bahia",
+      "link": "https://www.correio24horas.com.br/minha-bahia/br-324-interditada-veja-como-esta-situacao-da-rodovia-nesta-sexta-feira-10-na-bahia-0726",
+      "fonte": "Jornal Correio",
+      "data": "2026-07-10T09:27:16.667491-03:00",
+      "resumo": "A interdição no km 604 da BR-324, em Simões Filho, na Região Metropolitana de Salvador (RMS), continua nesta sexta-feira (10).",
+      "hoje": true
+    },
+    {
+      "titulo": "Cratera mantém trecho da BR-324 interditado e provoca congestionamento de 4 km",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/10/cratera-mantem-trecho-da-br-324-interditado-e-provoca-congestionamento.ghtml",
+      "fonte": "G1",
+      "data": "2026-07-10T09:27:16.667348-03:00",
+      "resumo": "A cratera na BR-324 em Simões Filho provoca atrasos de 30 minutos no sentido Feira de Santana e impacta o tráfego urbano da região nesta...",
+      "hoje": true
+    },
+    {
       "titulo": "Menos de 24h após liberação, BR-324 volta a ceder e é interditada em Simões Filho",
       "link": "https://www.trbn.com.br/materia/I158790/menos-de-24h-apos-liberacao-br-324-volta-a-ceder-e-e-interditada-em-simoes-filho",
       "fonte": "Tribuna da Bahia",
-      "data": "2026-07-10T03:39:30.998000-03:00",
+      "data": "2026-07-10T04:27:16.667548-03:00",
       "resumo": "A pista foi novamente interditada no km 604 da BR-324, no sentido Feira de Santana, em razão da formação de uma nova cratera na saída para o...",
       "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
