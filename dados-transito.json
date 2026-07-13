@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-13T08:35:20.091220-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-07-13T11:09:35.416596-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,22 +22,55 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-07-13T01:32:39.777546-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "VÍDEO: Caos na BR-324 chega ao sétimo dia sem previsão de normalização",
+      "link": "https://atarde.com.br/bahia/video-caos-na-br-324-chega-ao-setimo-dia-sem-previsao-de-normalizacao-1395084",
+      "fonte": "A TARDE",
+      "data": "2026-07-13T10:38:40.280517-03:00",
+      "resumo": "A interdição no km 604 da BR-324 permanece sem previsão de liberação. As obras de recuperação continuam e, apesar da liberação parcial das...",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324 segue com faixas da esquerda bloqueadas devido as obras no KM-604",
+      "link": "https://www.portalsalvadorfm.com.br/bahia/br-324-segue-com-faixas-da-esquerda-bloqueadas-devido-as-obras-no-km-604/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-07-13T10:13:40.280525-03:00",
+      "resumo": "O trânsito na BR-324 voltou a apresentar boa fluidez na altura do km 604, onde o Departamento Nacional de Infraestrutura de Transportes...",
+      "hoje": true
+    },
+    {
+      "titulo": "Obras Avançam, Mas Trecho Da BR-324 Segue Interditado Nesta Segunda-feira (13)",
+      "link": "https://takta.com.br/municipios/obras-avancam-mas-trecho-da-br-324-segue-interditado-nesta-segunda-feira-13/",
+      "fonte": "Taktá No AR",
+      "data": "2026-07-13T09:09:40.280510-03:00",
+      "resumo": "A Polícia Rodoviária Federal (PRF) informou, nesta segunda-feira (13), que as obras de recuperação do pavimento no km 604 da BR-324,...",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324: data de finalização das obras de recuperação do pavimento ainda não foi definida",
+      "link": "https://bahia.ba/bahia/br-324-data-de-finalizacao-das-obras-de-recuperacao-do-pavimento-ainda-nao-foi-definida/",
+      "fonte": "Bahia.Ba",
+      "data": "2026-07-13T09:09:40.280470-03:00",
+      "resumo": "Desde a quarta-feira (8), as vias estão passando por reparos devido a um afundamento na pista.",
+      "hoje": true
+    },
+    {
+      "titulo": "Trecho da BR-324 onde cratera se abriu continua parcialmente interditado; veja como está o trânsito",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/13/trecho-da-br-324-onde-cratera-se-abriu-continua-parcialmente-interditado.ghtml",
+      "fonte": "G1",
+      "data": "2026-07-13T09:09:40.280239-03:00",
+      "resumo": "A BR-324 continua com faixas da esquerda interditadas em Simões Filho para obras em cratera, mas o trânsito flui sem lentidão nesta...",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
