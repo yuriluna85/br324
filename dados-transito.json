@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-07-12T22:00:07.045674-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-07-13T01:32:39.777546-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,23 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Duas pessoas ficam feridas em acidente com moto na BR-324",
-      "link": "/goto?url=CAESnAEB7keqTcYAtxlS_3U1DlGDL53b45XzExeD7f1p_SVOl0Dbl3DWS4kAVorsPll8Bsa6mdmjW8vvd5UtXvZifSXeiYOZp1fSvOHU3neNx3ZFU8TGNJYPqbpDDDEt8xJZJtzXB9acQq2gAA6r9TlNO0aqI24whvYjbg_GgLksrq4QBP7SMCXpe6CqN0PEWpoKMUZCeP42g8oc8wvzHzQ=",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-07-12T11:00:12.454729-03:00",
-      "resumo": "Duas pessoas ficaram feridas após um acidente envolvendo duas motos na BR-324. O caso aconteceu na noite de sábado (11), nas imediações do.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-07-13T01:32:39.777546-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
