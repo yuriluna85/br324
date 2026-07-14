@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-14T17:35:23.009596-03:00",
+  "ultimaAtualizacao": "2026-07-14T18:49:05.857051-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "Governo federal decreta situação de emergência na BR-324 após cratera",
+      "link": "https://atarde.com.br/bahia/governo-federal-decreta-situacao-de-emergencia-na-br-324-apos-cratera-1395269",
+      "fonte": "A TARDE",
+      "data": "2026-07-14T16:49:06.746052-03:00",
+      "resumo": "Decisão foi tomada após uma semana de surgimento de crateras e grande congestionamento na rodovia.",
+      "hoje": true
+    },
+    {
       "titulo": "Situação de emergência é decretada em trecho da BR-324 em Simões Filho após avanço de erosão",
       "link": "https://www.bahianoticias.com.br/amp/municipios/noticia/51623-situacao-de-emergencia-e-decretada-em-trecho-de-cratera-na-br-324-em-simoes-filho",
       "fonte": "Bahia Notícias",
-      "data": "2026-07-14T14:35:23.873387-03:00",
+      "data": "2026-07-14T14:49:06.746088-03:00",
       "resumo": "O Departamento Nacional de Infraestrutura de Transportes (Dnit) ratificou a situação de emergência em um trecho da BR-324 de Simões Filho,...",
       "hoje": true
     },
@@ -33,7 +41,7 @@
       "titulo": "BR-324 tem segunda faixa liberada, mas segue sem previsão de normalização",
       "link": "https://portaldocase.com.br/categoria/cidades/noticias/br-324-tem-segunda-faixa-liberada-mas-segue-sem-previsao-de-normalizacao",
       "fonte": "Portal do Casé",
-      "data": "2026-07-14T10:35:23.873411-03:00",
+      "data": "2026-07-14T10:49:06.746127-03:00",
       "resumo": "Trecho passou a operar com duas faixas nos sentidos Salvador e Feira de Santana.",
       "hoje": true
     },
@@ -41,7 +49,7 @@
       "titulo": "Após uma semana interditada, BR-324 tem segunda faixa liberada e segue sem previsão de normalização",
       "link": "https://glomes.com.br/apos-uma-semana-interditada-br-324-tem-segunda-faixa-liberada-e-segue-sem-previsao-de-normalizacao/",
       "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-07-14T10:35:23.873370-03:00",
+      "data": "2026-07-14T10:49:06.746067-03:00",
       "resumo": "DNIT libera mais uma faixa em cada sentido da BR-324, em Simões Filho, mas mantém avaliações técnicas e ainda não prevê a reabertura.",
       "hoje": true
     }
