@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-07-14T11:42:41.489503-03:00",
+  "ultimaAtualizacao": "2026-07-14T13:08:32.561618-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,7 +25,7 @@
       "titulo": "BR-324 tem segunda faixa liberada, mas segue sem previsão de normalização",
       "link": "https://portaldocase.com.br/categoria/cidades/noticias/br-324-tem-segunda-faixa-liberada-mas-segue-sem-previsao-de-normalizacao",
       "fonte": "Portal do Casé",
-      "data": "2026-07-14T10:42:42.540797-03:00",
+      "data": "2026-07-14T10:08:33.372383-03:00",
       "resumo": "Trecho passou a operar com duas faixas nos sentidos Salvador e Feira de Santana.",
       "hoje": true
     },
@@ -33,7 +33,7 @@
       "titulo": "Uma semana após interdição, BR-324 tem segunda faixa liberada e segue sem previsão de normalização",
       "link": "https://www.jornalfolhadoestado.com/policia/uma-semana-apos-interdicao-br-324-tem-segunda-faixa-liberada-e-segue-sem-previsao-de-normalizacao/",
       "fonte": "Folha do Estado da Bahia",
-      "data": "2026-07-14T09:42:42.540748-03:00",
+      "data": "2026-07-14T10:08:33.372352-03:00",
       "resumo": "DNIT ampliou a circulação no km 604, em Simões Filho, enquanto equipes seguem investigando as causas e a extensão dos danos na rodovia.",
       "hoje": true
     }
