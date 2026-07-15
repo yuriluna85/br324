@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-07-15T19:29:20.656504-03:00",
+  "ultimaAtualizacao": "2026-07-15T20:29:56.456200-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,26 +22,26 @@
   ],
   "noticias": [
     {
-      "titulo": "Dnit declara situação de emergência em trecho da BR-324 na Bahia",
-      "link": "https://blogdovalente.com.br/cidades/2026/07/dnit-declara-situacao-de-emergencia-em-trecho-da-br-324-na-bahia/",
-      "fonte": "Blog do Valente",
-      "data": "2026-07-15T15:29:21.683244-03:00",
-      "resumo": "O Departamento Nacional de Infraestrutura de Transportes (Dnit) decretou situação de emergência no trecho da BR-324, em Simões Filho,...",
+      "titulo": "Dnit decreta situação de emergência em trecho da BR-324, em Simões Filho, após problema estrutural",
+      "link": "https://criativaonline.com.br/dnit-decreta-situacao-de-emergencia-em-trecho-da-br-324-em-simoes-filho-apos-problema-estrutural/",
+      "fonte": "Criativa On Line",
+      "data": "2026-07-15T17:29:57.209378-03:00",
+      "resumo": "O Departamento Nacional de Infraestrutura de Transportes (Dnit) decretou situação de emergência em um trecho da BR-324, no município de...",
       "hoje": true
     },
     {
-      "titulo": "Dnit confirma emergência em trecho da BR-324 com cratera em Simões Filho; rodovia segue parcialmente interditada",
-      "link": "https://tribunadoreconcavo.com/br-324-interditada-simoes-filho-congestionamento/",
-      "fonte": "Tribuna do Recôncavo",
-      "data": "2026-07-15T10:29:21.683262-03:00",
-      "resumo": "BR-324 segue com interdição parcial em Simões Filho, causando congestionamento nos sentidos Salvador e Feira de Santana.",
+      "titulo": "Dnit declara situação de emergência em trecho da BR-324 na Bahia",
+      "link": "https://blogdovalente.com.br/cidades/2026/07/dnit-declara-situacao-de-emergencia-em-trecho-da-br-324-na-bahia/",
+      "fonte": "Blog do Valente",
+      "data": "2026-07-15T15:29:57.209396-03:00",
+      "resumo": "O Departamento Nacional de Infraestrutura de Transportes (Dnit) decretou situação de emergência no trecho da BR-324, em Simões Filho,...",
       "hoje": true
     },
     {
       "titulo": "DNIT decreta situação de emergência na BR-324 após afundamento da pista",
       "link": "https://bahia.ba/bahia/dnit-decreta-situacao-de-emergencia-na-br-324-apos-afundamento-da-pista/",
       "fonte": "Bahia.Ba",
-      "data": "2026-07-15T10:29:21.683253-03:00",
+      "data": "2026-07-15T10:29:57.209387-03:00",
       "resumo": "Nesta quarta-feira (15), a PRF informou que as obras, em etapa de finalização, foram prejudicadas pelas chuvas.",
       "hoje": true
     },
@@ -49,7 +49,7 @@
       "titulo": "Chuvas atrasam conclusão de obras no km 604 da BR-324",
       "link": "https://www.portalsalvadorfm.com.br/bahia/chuvas-atrasam-conclusao-de-obras-no-km-604-da-br-324/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-07-15T09:29:21.683291-03:00",
+      "data": "2026-07-15T09:29:57.209425-03:00",
       "resumo": "As obras de recuperação do pavimento no km 604 da BR-324, realizadas pelo Departamento Nacional de Infraestrutura de Transportes.",
       "hoje": true
     },
@@ -57,7 +57,7 @@
       "titulo": "Governo Federal decreta emergência em trecho da BR-324 após surgimento de crateras em Simões Filho",
       "link": "https://takta.com.br/municipios/governo-federal-decreta-emergencia-em-trecho-da-br-324-apos-surgimento-de-crateras-em-simoes-filho/",
       "fonte": "Taktá No AR",
-      "data": "2026-07-15T08:29:21.683282-03:00",
+      "data": "2026-07-15T08:29:57.209416-03:00",
       "resumo": "O Governo Federal decretou estado de emergência em um trecho da BR-324, em Simões Filho, na Região Metropolitana de Salvador,...",
       "hoje": true
     },
@@ -65,7 +65,7 @@
       "titulo": "Dnit declara situação de emergência em trecho da BR-324 na Bahia após problema na pista",
       "link": "https://www.correio24horas.com.br/minha-bahia/dnit-declara-situacao-de-emergencia-em-trecho-da-br-324-na-bahia-apos-problema-na-pista-0726",
       "fonte": "Jornal Correio",
-      "data": "2026-07-15T08:29:21.683221-03:00",
+      "data": "2026-07-15T08:29:57.209369-03:00",
       "resumo": "O Departamento Nacional de Infraestrutura de Transportes (Dnit) declarou, na terça-feira (14), situação de emergência no trecho da BR-324,...",
       "hoje": true
     },
@@ -73,7 +73,7 @@
       "titulo": "Ocorrência em frente à Fundação Dr. Jesus deixa trânsito lento na BR-324",
       "link": "https://www.portalsalvadorfm.com.br/bahia/ocorrencia-em-frente-a-fundacao-dr-jesus-deixa-transito-lento-na-br-324/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-07-15T08:29:21.683191-03:00",
+      "data": "2026-07-15T08:29:57.209342-03:00",
       "resumo": "Uma ocorrência registrada por volta das 7h desta quarta-feira (15) afetou o trânsito na BR-324, sentido Feira de Santana. O fato aconteceu.",
       "hoje": true
     }
