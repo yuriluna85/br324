@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-15T08:06:38.262353-03:00",
+  "ultimaAtualizacao": "2026-07-15T09:48:43.902364-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,20 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-07-15T01:28:03.283130-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Dnit declara situação de emergência em trecho da BR-324 na Bahia após problema na pista",
+      "link": "https://www.correio24horas.com.br/minha-bahia/dnit-declara-situacao-de-emergencia-em-trecho-da-br-324-na-bahia-apos-problema-na-pista-0726",
+      "fonte": "Jornal Correio",
+      "data": "2026-07-15T08:48:45.241060-03:00",
+      "resumo": "O Departamento Nacional de Infraestrutura de Transportes (Dnit) declarou, na terça-feira (14), situação de emergência no trecho da BR-324,...",
+      "hoje": true
+    },
+    {
+      "titulo": "Governo Federal decreta emergência em trecho da BR-324 após surgimento de crateras em Simões Filho",
+      "link": "https://takta.com.br/municipios/governo-federal-decreta-emergencia-em-trecho-da-br-324-apos-surgimento-de-crateras-em-simoes-filho/",
+      "fonte": "Taktá No AR",
+      "data": "2026-07-15T07:48:45.241080-03:00",
+      "resumo": "O Governo Federal decretou estado de emergência em um trecho da BR-324, em Simões Filho, na Região Metropolitana de Salvador,...",
+      "hoje": true
     }
   ],
   "metricas": {
