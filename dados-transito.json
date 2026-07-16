@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-16T15:57:46.212457-03:00",
+  "ultimaAtualizacao": "2026-07-16T17:01:57.332359-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,7 +25,7 @@
       "titulo": "BR-324 segue parcialmente interditada e sem prazo para liberação total",
       "link": "https://www.trbn.com.br/materia/I159163/br-324-segue-parcialmente-interditada-e-sem-prazo-para-liberacao-total",
       "fonte": "Tribuna da Bahia",
-      "data": "2026-07-16T03:57:47.261677-03:00",
+      "data": "2026-07-16T04:01:58.458086-03:00",
       "resumo": "Por Rayllanna Lima. Uma semana após o surgimento de uma cratera na BR-324, em Simões Filho, na Região Metropolitana de Salvador,...",
       "hoje": true
     }
