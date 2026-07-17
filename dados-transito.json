@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-17T08:03:04.929064-03:00",
+  "ultimaAtualizacao": "2026-07-17T09:40:11.839456-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-07-17T01:07:57.008142-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Novas vias encurtam o caminho entre bairros de Salvador e a BR-324",
+      "link": "https://atarde.com.br/salvador/novas-vias-encurtam-o-caminho-entre-bairros-de-salvador-e-a-br-324-1395585",
+      "fonte": "A TARDE",
+      "data": "2026-07-17T09:25:12.841690-03:00",
+      "resumo": "Novas ligações viárias reduziram percursos e facilitaram o acesso à BR-324, ao metrô e à nova Rodoviária de Salvador.",
+      "hoje": true
     }
   ],
   "metricas": {
