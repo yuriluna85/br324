@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-18T19:40:02.634529-03:00",
+  "ultimaAtualizacao": "2026-07-18T20:43:45.683508-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "ACM Neto critica situação da BR-324: “A rodovia está cada dia pior”",
+      "link": "https://www.deolhonacidade.net/acm-neto-critica-situacao-da-br-324-a-rodovia-esta-cada-dia-pior",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-07-18T18:43:46.392301-03:00",
+      "resumo": "Ex-prefeito de Salvador responsabilizou o governador Jerônimo Rodrigues e criticou a atuação do Governo Federal na recuperação da rodovia.",
+      "hoje": true
+    },
+    {
       "titulo": "Ex-ministro Rui Costa confirma estudos de R$ 16 milhões para ampliar VLT de Salvador até Alagoinhas pela BR-324",
       "link": "https://jornalgrandebahia.com.br/2026/07/ex-ministro-rui-costa-confirma-estudos-de-r-16-milhoes-para-ampliar-vlt-de-salvador-ate-alagoinhas-pela-br-324/",
       "fonte": "Jornal Grande Bahia",
-      "data": "2026-07-18T16:40:03.765580-03:00",
+      "data": "2026-07-18T16:43:46.392325-03:00",
       "resumo": "Rui Costa confirma estudos para ampliar o VLT de Salvador até Alagoinhas, com R$ 16 milhões federais e novo trecho ferroviário pela BR-324.",
       "hoje": true
     }
