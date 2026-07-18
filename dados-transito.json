@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-18T18:41:27.039258-03:00",
+  "ultimaAtualizacao": "2026-07-18T19:40:02.634529-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,16 +25,8 @@
       "titulo": "Ex-ministro Rui Costa confirma estudos de R$ 16 milhões para ampliar VLT de Salvador até Alagoinhas pela BR-324",
       "link": "https://jornalgrandebahia.com.br/2026/07/ex-ministro-rui-costa-confirma-estudos-de-r-16-milhoes-para-ampliar-vlt-de-salvador-ate-alagoinhas-pela-br-324/",
       "fonte": "Jornal Grande Bahia",
-      "data": "2026-07-18T16:41:28.007931-03:00",
+      "data": "2026-07-18T16:40:03.765580-03:00",
       "resumo": "Rui Costa confirma estudos para ampliar o VLT de Salvador até Alagoinhas, com R$ 16 milhões federais e novo trecho ferroviário pela BR-324.",
-      "hoje": true
-    },
-    {
-      "titulo": "ACM Neto confirma apoio a Ronaldo Caiado, anuncia convenção, critica Jerônimo pela BR-324 e nega vínculo com operação em Salvador",
-      "link": "https://jornalgrandebahia.com.br/2026/07/acm-neto-confirma-apoio-a-ronaldo-caiado-anuncia-convencao-critica-jeronimo-pela-br-324-e-nega-vinculo-com-operacao-em-salvador/",
-      "fonte": "Jornal Grande Bahia",
-      "data": "2026-07-18T15:41:28.007850-03:00",
-      "resumo": "ACM Neto anuncia convenção, declara preferência por Caiado, critica a BR-324 e a regulação da saúde e nega vínculo com investigação em...",
       "hoje": true
     }
   ],
