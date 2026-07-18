@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-17T22:43:35.300502-03:00",
+  "ultimaAtualizacao": "2026-07-18T01:40:47.060970-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,28 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "ANTT homologa a concessão da Rota dos Sertões, que inclui a BR-116/BA/PE e BR-324/BA",
-      "link": "https://estradas.com.br/antt-homologa-a-concessao-das-rodovias-br-116-324-ba-a-rota-dos-sertoes/",
-      "fonte": "Estradas",
-      "data": "2026-07-17T10:43:36.921893-03:00",
-      "resumo": "Decisão foi publicada no Diário Oficial desta sexta-feira (17); trecho de 502 quilômetros de extensão terá cinco pontos de cobrança de...",
-      "hoje": true
-    },
-    {
-      "titulo": "Novas vias estaduais ligam bairros de Salvador à BR-324, metrô, VLT e Rodoviária e marcam investimentos do Governo Jerônimo",
-      "link": "https://jornalgrandebahia.com.br/2026/07/novas-vias-estaduais-ligam-bairros-de-salvador-a-br-324-metro-vlt-e-rodoviaria-e-marcam-investimentos-do-governo-jeronimo/",
-      "fonte": "Jornal Grande Bahia",
-      "data": "2026-07-17T10:43:36.921866-03:00",
-      "resumo": "Novas vias estaduais ligam Cajazeiras, Lobato e Águas Claras à BR-324, metrô, VLT e Rodoviária, ampliando a mobilidade urbana de Salvador.",
-      "hoje": true
-    },
-    {
-      "titulo": "Novas vias encurtam o caminho entre bairros de Salvador e a BR-324",
-      "link": "https://atarde.com.br/salvador/novas-vias-encurtam-o-caminho-entre-bairros-de-salvador-e-a-br-324-1395585?_=amp",
-      "fonte": "A TARDE",
-      "data": "2026-07-17T09:43:36.921956-03:00",
-      "resumo": "Novas ligações viárias reduziram percursos e facilitaram o acesso à BR-324, ao metrô e à nova Rodoviária de Salvador.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-07-18T01:40:47.060970-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
