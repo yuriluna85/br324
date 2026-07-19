@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-18T22:51:37.364763-03:00",
+  "ultimaAtualizacao": "2026-07-19T02:14:02.674290-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,28 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "ACM Neto critica situação da BR-324: “A rodovia está cada dia pior”",
-      "link": "/goto?url=CAESlwEB7keqTayWxLEynDR-7ckQZvqtHN9ryWBWiUM1Oy9QweHNpGBUI0Pu1VC8_PAHz2FFbUKhBYNSK3QVffYkkL3q0bxM7lo9pIIhWGsZ4BPJJ434x9f_4gb2dlv58GxqkiiPnLBxR1Lbl9EYMwwe-rufIyu_3EH_ojBefn-ShEuRyfyBTzzW9-Iwespxo3t2yOAep_ggGGQI",
-      "fonte": "deolhonacidade.net",
-      "data": "2026-07-18T18:51:38.306528-03:00",
-      "resumo": "Ex-prefeito de Salvador responsabilizou o governador Jerônimo Rodrigues e criticou a atuação do Governo Federal na recuperação da rodovia.",
-      "hoje": true
-    },
-    {
-      "titulo": "Ex-ministro Rui Costa confirma estudos de R$ 16 milhões para ampliar VLT de Salvador até Alagoinhas pela BR-324",
-      "link": "/goto?url=CAES0QEB7keqTQOTGOwe_5RvCz2Pc9qOFkXkW3S-jr4yZSvthZo5WcZ0sLOu117YhNEgma0y4CWMPCEAiqMm9Ytd9EEqlO1JwCs9WUEp3kovm3kILfO051bGXhSqWIZdpg0kYRh7PNun79CwcAljcN7Hk7o7rcU4UQ3l9t1KjFGlTRYcLUoWSQRevBnJJ4ZxSYf2EJY8hG3AMvOUV1Mi02YkjygeSFatcBEriPVskiRik_2HQ8YWZ8_mFkBsOnQm2ypCnlcgrPRZZaIOth4-3OYGLUiHUA==",
-      "fonte": "Jornal Grande Bahia",
-      "data": "2026-07-18T16:51:38.306541-03:00",
-      "resumo": "Rui Costa confirma estudos para ampliar o VLT de Salvador até Alagoinhas, com R$ 16 milhões federais e novo trecho ferroviário pela BR-324.",
-      "hoje": true
-    },
-    {
-      "titulo": "ACM Neto acusa Jerônimo de omissão sobre problemas da BR-324",
-      "link": "/goto?url=CAESlQEB7keqTaukMl_Tz4pU2O4SlmdNMrZgvgREgLob78Ozg45XQDJppYUGJNqBHEmRgH2_Q1h096bvX3nTw8BV80h-MPfCK_ygbiZ1Ga2juTlWBf4z3ZviM0wiF6UgvgeDEbYRsl-3jxNxVXxv70tFKEV-7Bp17apSy-V-aofWKVIlKIVCt0tkYtB4Vf3igxPPL7M5SbfQnw==",
-      "fonte": "MundoBA",
-      "data": "2026-07-18T15:51:38.306559-03:00",
-      "resumo": "Pré-candidato afirma que governador não cobrou soluções do governo federal e critica acordo de saída da ViaBahia.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-07-19T02:14:02.674290-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
