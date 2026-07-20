@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-20T08:19:13.893838-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-07-20T10:22:51.027496-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,22 +22,39 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-07-20T01:59:43.117203-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Após Obras Emergenciais, BR-324 Volta A Operar Sem Restrições",
+      "link": "https://takta.com.br/municipios/apos-obras-emergenciais-br-324-volta-a-operar-sem-restricoes/",
+      "fonte": "Taktá No AR",
+      "data": "2026-07-20T09:31:52.652192-03:00",
+      "resumo": "O trecho da BR-324, localizado no km 604, na saída de Salvador, foi totalmente liberado para o tráfego na noite deste domingo (19).",
+      "hoje": true
+    },
+    {
+      "titulo": "Pista da BR-324 é totalmente liberada após quase duas semanas de interdição",
+      "link": "https://bahia.ba/bahia/pista-da-br-324-e-totalmente-liberada-apos-quase-duas-semanas-de-interdicao/",
+      "fonte": "Bahia.Ba",
+      "data": "2026-07-20T09:25:52.652181-03:00",
+      "resumo": "As faixas da esquerda estavam interditadas para reparos após um afundamento na pista.",
+      "hoje": true
+    },
+    {
+      "titulo": "Trecho da BR-324 é totalmente liberado após 13 dias de interdição na Bahia",
+      "link": "https://www.correio24horas.com.br/minha-bahia/trecho-da-br-324-e-totalmente-liberado-apos-13-dias-de-interdicao-na-bahia-0726",
+      "fonte": "Jornal Correio",
+      "data": "2026-07-20T09:22:52.652004-03:00",
+      "resumo": "O trecho do km 604 da BR-324, na altura de Simões Filho, na Região Metropolitana de Salvador (RMS), foi totalmente liberado para o tráfego...",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
