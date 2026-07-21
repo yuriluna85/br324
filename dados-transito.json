@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-07-20T20:48:59.986778-03:00",
+  "ultimaAtualizacao": "2026-07-20T22:51:39.230540-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,26 +22,10 @@
   ],
   "noticias": [
     {
-      "titulo": "BR-324 tem pistas liberadas após interdições",
-      "link": "https://g1.globo.com/ba/bahia/videos-bahia-meio-dia-feira-de-santana/video/br-324-tem-pistas-liberadas-apos-interdicoes-14794099.ghtml",
-      "fonte": "G1",
-      "data": "2026-07-20T12:49:01.866686-03:00",
-      "resumo": "Trecho em Simões Filho passou por obras de recuperação e continua sendo monitorado.",
-      "hoje": true
-    },
-    {
-      "titulo": "Dnit conclui reparos e libera tráfego em trecho da BR-324 após cratera",
-      "link": "https://blogdovalente.com.br/bahia/2026/07/dnit-conclui-reparos-e-libera-trafego-em-trecho-da-br-324-apos-cratera/",
-      "fonte": "Blog do Valente",
-      "data": "2026-07-20T12:49:01.866658-03:00",
-      "resumo": "O trecho da BR-324 interditado na altura do km 604, na saída de Salvador, foi liberado para o tráfego na noite deste domingo (19).",
-      "hoje": true
-    },
-    {
       "titulo": "Após quase duas semanas, BR-324 tem tráfego totalmente normalizado em Simões Filho",
       "link": "https://mundoba.com.br/bahia/apos-quase-duas-semanas-br-324-tem-trafego-totalmente-normalizado-em-simoes-filho/",
       "fonte": "MundoBA",
-      "data": "2026-07-20T10:49:01.866630-03:00",
+      "data": "2026-07-20T10:51:40.600902-03:00",
       "resumo": "Trecho afetado por afundamento no pavimento foi liberado nos dois sentidos após conclusão das obras do Dnit.",
       "hoje": true
     },
@@ -49,15 +33,31 @@
       "titulo": "Trecho da BR-324 onde cratera se abriu é totalmente liberado na Bahia após duas semanas de obras",
       "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/20/trecho-da-br-324-onde-cratera-se-abriu-e-totalmente-liberado-na-bahia-apos-duas-semanas-de-obras.ghtml",
       "fonte": "G1",
-      "data": "2026-07-20T10:49:01.866457-03:00",
-      "resumo": "O problema começou no dia 7 de julho, quando um afundamento do pavimento levou à interdição do trecho no sentido Feira de Santana.",
+      "data": "2026-07-20T10:51:40.600747-03:00",
+      "resumo": "O trecho da BR-324 onde uma cratera se abriu e comprometeu o tráfego em Simões Filho, na Região Metropolitana de Salvador, foi totalmente...",
+      "hoje": true
+    },
+    {
+      "titulo": "VÍDEO: Após Obras Emergenciais, BR-324 Volta A Operar Sem Restrições",
+      "link": "https://takta.com.br/municipios/video-apos-obras-emergenciais-br-324-volta-a-operar-sem-restricoes/",
+      "fonte": "Taktá No AR",
+      "data": "2026-07-20T09:51:40.600939-03:00",
+      "resumo": "O trecho da BR-324, localizado no km 604, na saída de Salvador, foi totalmente liberado para o tráfego na noite deste domingo (19).",
+      "hoje": true
+    },
+    {
+      "titulo": "Pista da BR-324 é totalmente liberada após quase duas semanas de interdição",
+      "link": "https://bahia.ba/bahia/pista-da-br-324-e-totalmente-liberada-apos-quase-duas-semanas-de-interdicao/",
+      "fonte": "Bahia.Ba",
+      "data": "2026-07-20T09:51:40.600912-03:00",
+      "resumo": "As faixas da esquerda estavam interditadas para reparos após um afundamento na pista.",
       "hoje": true
     },
     {
       "titulo": "BR-324: trecho interditado por cratera na saída de Salvador é liberado após obras emergenciais",
       "link": "https://www.bahianoticias.com.br/amp/municipios/noticia/51702-trecho-interditado-por-cratera-na-saida-de-salvador-e-liberado-apos-obras-emergenciais",
       "fonte": "Bahia Notícias",
-      "data": "2026-07-20T09:49:01.866667-03:00",
+      "data": "2026-07-20T08:51:40.600957-03:00",
       "resumo": "O trecho da BR-324 interditado na altura do km 604, na saída de Salvador, foi liberado para o tráfego na noite deste domingo (19).",
       "hoje": true
     },
@@ -65,23 +65,15 @@
       "titulo": "Tráfego na BR-324 é totalmente liberado após conclusão de obras no km 604",
       "link": "https://www.portalsalvadorfm.com.br/bahia/trafego-na-br-324-e-totalmente-liberado-apos-conclusao-de-obras-no-km-604/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-07-20T09:49:01.866649-03:00",
+      "data": "2026-07-20T08:51:40.600921-03:00",
       "resumo": "Interdição parcial chegou a provocar congestionamentos e desvios no trânsito; pista foi liberada na noite de domingo, segundo a PRF.",
-      "hoje": true
-    },
-    {
-      "titulo": "Pista da BR-324 é totalmente liberada após quase duas semanas de interdição",
-      "link": "https://bahia.ba/bahia/pista-da-br-324-e-totalmente-liberada-apos-quase-duas-semanas-de-interdicao/",
-      "fonte": "Bahia.Ba",
-      "data": "2026-07-20T09:49:01.866640-03:00",
-      "resumo": "As faixas da esquerda estavam interditadas para reparos após um afundamento na pista.",
       "hoje": true
     },
     {
       "titulo": "Trecho da BR-324 é totalmente liberado após 13 dias de interdição na Bahia",
       "link": "https://www.correio24horas.com.br/minha-bahia/trecho-da-br-324-e-totalmente-liberado-apos-13-dias-de-interdicao-na-bahia-0726",
       "fonte": "Jornal Correio",
-      "data": "2026-07-20T09:49:01.866604-03:00",
+      "data": "2026-07-20T08:51:40.600887-03:00",
       "resumo": "O trecho do km 604 da BR-324, na altura de Simões Filho, na Região Metropolitana de Salvador (RMS), foi totalmente liberado para o tráfego...",
       "hoje": true
     },
@@ -89,7 +81,7 @@
       "titulo": "Trecho da BR-324, em Simões Filho, é liberado após 12 dias de interdição",
       "link": "https://www.trbn.com.br/materia/I159449/trecho-da-br-324-em-simoes-filho-e-liberado-apos-12-dias-de-interdicao",
       "fonte": "Tribuna da Bahia",
-      "data": "2026-07-20T06:49:01.866619-03:00",
+      "data": "2026-07-20T06:51:40.600931-03:00",
       "resumo": "A Polícia Rodoviária Federal (PRF) informou que a pista da BR-324, no km 604, em Simões Filho, na Região Metropolitana de Salvador,...",
       "hoje": true
     }
