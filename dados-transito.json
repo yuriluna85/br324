@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-21T16:05:36.125030-03:00",
+  "ultimaAtualizacao": "2026-07-21T17:40:47.077297-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,7 +25,7 @@
       "titulo": "Motorista perde o controle e sobe no guard rail da BR-324",
       "link": "https://www.portalsalvadorfm.com.br/salvador/motorista-perde-o-controle-e-sobe-no-guard-rail-da-br-324/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-07-21T07:05:38.223233-03:00",
+      "data": "2026-07-21T06:40:48.298412-03:00",
       "resumo": "Um motorista perdeu o controle da direção do carro e subiu no guard rail, estrutura metálica que divida as vias, da BR-324.",
       "hoje": true
     }
