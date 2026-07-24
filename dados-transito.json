@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-07-24T19:54:18.633041-03:00",
+  "ultimaAtualizacao": "2026-07-24T20:56:38.859788-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,18 +22,18 @@
   ],
   "noticias": [
     {
-      "titulo": "Trecho da BR-324 é totalmente liberado após reparo em cratera",
-      "link": "https://www.correio24horas.com.br/bahia/trecho-da-br-324-e-totalmente-liberado-apos-reparo-em-cratera-0726",
-      "fonte": "Jornal Correio",
-      "data": "2026-07-24T18:54:20.083053-03:00",
-      "resumo": "No final da tarde desta sexta-feira (24), o trecho no km 604 da BR-324, no sentido Feira de Santana, foi liberado após a conclusão da obra...",
+      "titulo": "Trecho da BR-324 é novamente liberado após intervenção da DNIT para investigar vazamentos da cratera",
+      "link": "https://aloalobahia.com/noticias/2026/07/24/trecho-da-br-324-e-novamente-liberado-apos-intervencao-da-dnit-para-investigar-vazamentos-da-cratera/",
+      "fonte": "Alô Alô Bahia",
+      "data": "2026-07-24T20:06:39.559260-03:00",
+      "resumo": "O trecho da BR-324 que voltou a apresentar problemas nesta manhã e que forçou a PRF a interditar parte da rodovia foi novamente liberado na...",
       "hoje": true
     },
     {
       "titulo": "Após interdição, DNIT inicia obras e faz varredura no solo da BR-324",
       "link": "https://www.metro1.com.br/noticias/bahia/185883,apos-interdicao-dnit-inicia-obras-e-faz-varredura-no-solo-da-br-324",
       "fonte": "Rádio Metrópole",
-      "data": "2026-07-24T15:54:20.083005-03:00",
+      "data": "2026-07-24T15:56:39.559277-03:00",
       "resumo": "Equipes atuam no km 604, sentido Feira de Santana, com interdição de uma faixa para realização de diagnóstico técnico.",
       "hoje": true
     },
@@ -41,7 +41,7 @@
       "titulo": "BR-324 tem nova interdição parcial para reparo em área de cratera",
       "link": "https://www.faroldabahia.com.br/noticia/br-324-tem-nova-interdicao-parcial-para-reparo-em-area-de-cratera",
       "fonte": "Farol da Bahia",
-      "data": "2026-07-24T13:54:20.083047-03:00",
+      "data": "2026-07-24T13:56:39.559371-03:00",
       "resumo": "A BR-324 voltou a ter um trecho parcialmente interditado nesta sexta-feira (24), no sentido Feira de Santana, após a reabertura de uma...",
       "hoje": true
     },
@@ -49,7 +49,7 @@
       "titulo": "Trecho da BR-324 onde cratera se abriu volta a ser interditado",
       "link": "https://mundoba.com.br/salvador/trecho-da-br-324-onde-cratera-se-abriu-volta-a-ser-interditado/",
       "fonte": "MundoBA",
-      "data": "2026-07-24T12:54:20.083040-03:00",
+      "data": "2026-07-24T12:56:39.559355-03:00",
       "resumo": "Intervenção ocorreu após a identificação de um vazamento em uma manilha da rede de drenagem.",
       "hoje": true
     },
@@ -57,7 +57,7 @@
       "titulo": "BR-324 tem nova interdição em trecho após novo problema em cratera na região de Simões Filho",
       "link": "https://muitainformacao.com.br/cidades/br-324-tem-nova-interdicao-em-trecho-apos-novo-problema-em-cratera-na-regiao-de-simoes-filho/",
       "fonte": "Muita Informação",
-      "data": "2026-07-24T10:54:20.083034-03:00",
+      "data": "2026-07-24T10:56:39.559339-03:00",
       "resumo": "Um trecho da BR-324, na altura do km 604, em Simões Filho, na Região Metropolitana de Salvador (RMS), voltou a ser parcialmente interditado...",
       "hoje": true
     },
@@ -65,7 +65,7 @@
       "titulo": "Trecho da BR-324 passa por nova interdição",
       "link": "https://www.portalsalvadorfm.com.br/bahia/trecho-da-br-324-passa-por-nova-interdicao/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-07-24T10:54:20.083013-03:00",
+      "data": "2026-07-24T10:56:39.559294-03:00",
       "resumo": "Novo bloqueio ocorre por causa de um vazamento em uma manilha da rede de drenagem.",
       "hoje": true
     },
@@ -73,7 +73,7 @@
       "titulo": "BR-324 volta ser interditada parcialmente após reabertura de cratera no sentido Feira de Santana-Salvador",
       "link": "https://glomes.com.br/br-324-volta-a-ser-interditada-parcialmente-apos-reabertura-de-cratera-no-sentido-feira-de-santana-salvador/",
       "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-07-24T09:54:20.083027-03:00",
+      "data": "2026-07-24T09:56:39.559324-03:00",
       "resumo": "A BR-324 voltou a ter interdição parcial no km 604, sentido Feira de Santana, nesta sexta-feira (24), para reparos em uma cratera.",
       "hoje": true
     },
@@ -81,7 +81,7 @@
       "titulo": "Trecho da BR-324 onde cratera se abriu volta a ser interditado após vazamento em rede de drenagem",
       "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/24/trecho-da-br-324-onde-cratera-se-abriu-volta-a-ser-interditado-apos-vazamento-em-rede-de-drenagem.ghtml",
       "fonte": "G1",
-      "data": "2026-07-24T09:54:20.082859-03:00",
+      "data": "2026-07-24T09:56:39.559086-03:00",
       "resumo": "A BR-324 interditada em Simões Filho teve a faixa esquerda bloqueada sentido Feira de Santana para reparos em manilha após duas semanas de...",
       "hoje": true
     },
@@ -89,7 +89,7 @@
       "titulo": "Vazamento causa nova interdição parcial da BR-324 para reparos",
       "link": "https://www.bahianoticias.com.br/noticia/319272-vazamento-causa-nova-interdicao-parcial-da-br-324-para-reparos",
       "fonte": "Bahia Notícias",
-      "data": "2026-07-24T08:54:20.083020-03:00",
+      "data": "2026-07-24T08:56:39.559309-03:00",
       "resumo": "Dessa vez, a interdição será realizada em razão de um vazamento em uma manilha da rede de drenagem.",
       "hoje": true
     },
@@ -97,7 +97,7 @@
       "titulo": "Trecho da BR-324 volta a ser interditado após novo problema com cratera na Bahia",
       "link": "https://www.correio24horas.com.br/minha-bahia/trecho-da-br-324-volta-a-ser-interditado-apos-novo-problema-com-cratera-na-bahia-0726",
       "fonte": "Jornal Correio",
-      "data": "2026-07-24T08:54:20.082994-03:00",
+      "data": "2026-07-24T08:56:39.559238-03:00",
       "resumo": "Um trecho da BR-324, na altura do km 604, em Simões Filho, na Região Metropolitana de Salvador (RMS), voltou a ser parcialmente interditado...",
       "hoje": true
     }
