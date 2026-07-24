@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-24T08:59:05.569714-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-07-24T10:48:53.809591-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,22 +22,47 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-07-24T02:13:37.399097-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "BR-324 volta a ser interditada parcialmente após reabertura de cratera no sentido Feira de Santana- Salvador",
+      "link": "https://glomes.com.br/br-324-volta-a-ser-interditada-parcialmente-apos-reabertura-de-cratera-no-sentido-feira-de-santana-salvador/",
+      "fonte": "Grupo Lomes de Comunicação",
+      "data": "2026-07-24T10:05:06.634115-03:00",
+      "resumo": "A BR-324 voltou a ter interdição parcial no km 604, sentido Feira de Santana, nesta sexta-feira (24), para reparos em uma cratera.",
+      "hoje": true
+    },
+    {
+      "titulo": "PRF interdita parcialmente trecho da BR-324 para reparo em rede de drenagem",
+      "link": "https://www.jornalfolhadoestado.com/policia/prf-interdita-parcialmente-trecho-da-br-324-para-reparo-em-rede-de-drenagem/",
+      "fonte": "Folha do Estado da Bahia",
+      "data": "2026-07-24T08:49:06.634126-03:00",
+      "resumo": "Intervenção ocorre no km 604, no sentido Feira de Santana, para corrigir vazamento na rede de drenagem; PRF orienta motoristas a redobrarem...",
+      "hoje": true
+    },
+    {
+      "titulo": "Vazamento causa nova interdição parcial da BR-324 para reparos",
+      "link": "https://www.bahianoticias.com.br/noticia/319272-vazamento-causa-nova-interdicao-parcial-da-br-324-para-reparos",
+      "fonte": "Bahia Notícias",
+      "data": "2026-07-24T08:49:06.634105-03:00",
+      "resumo": "Dessa vez, a interdição será realizada em razão de um vazamento em uma manilha da rede de drenagem.",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324 volta a ter interdição parcial para obra em trecho afetado por cratera",
+      "link": "https://www.metro1.com.br/noticias/bahia/185853,br-324-volta-a-ter-interdicao-parcial-para-obra-em-trecho-afetado-por-cratera",
+      "fonte": "Rádio Metrópole",
+      "data": "2026-07-24T08:49:06.634090-03:00",
+      "resumo": "Faixa da esquerda no sentido Feira de Santana foi bloqueada para reparo em área onde surgiu uma cratera.",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
