@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-07-24T23:13:20.466924-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-07-25T02:26:58.333711-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,95 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Trecho da BR-324 é novamente liberado após intervenção da DNIT para investigar vazamentos da cratera",
-      "link": "https://aloalobahia.com/noticias/2026/07/24/trecho-da-br-324-e-novamente-liberado-apos-intervencao-da-dnit-para-investigar-vazamentos-da-cratera/",
-      "fonte": "Alô Alô Bahia",
-      "data": "2026-07-24T20:13:22.055229-03:00",
-      "resumo": "O trecho da BR-324 que voltou a apresentar problemas nesta manhã e que forçou a PRF a interditar parte da rodovia foi novamente liberado na...",
-      "hoje": true
-    },
-    {
-      "titulo": "Nova intervenção na BR-324 provoca interdição parcial no sentido Feira de Santana",
-      "link": "https://oprotagonistafsa.com.br/noticia/400/nova-intervencao-na-br-324-provoca-interdicao-parcial-no-sentido-feira-de-santana",
-      "fonte": "O Protagonista FSA",
-      "data": "2026-07-24T16:13:22.055268-03:00",
-      "resumo": "A PRF informou que será necessária uma nova intervenção no km 604 da rodovia, no sentido Feira de Santana.",
-      "hoje": true
-    },
-    {
-      "titulo": "Após interdição, DNIT inicia obras e faz varredura no solo da BR-324",
-      "link": "https://www.metro1.com.br/noticias/bahia/185883,apos-interdicao-dnit-inicia-obras-e-faz-varredura-no-solo-da-br-324",
-      "fonte": "Rádio Metrópole",
-      "data": "2026-07-24T16:13:22.055240-03:00",
-      "resumo": "Equipes atuam no km 604, sentido Feira de Santana, com interdição de uma faixa para realização de diagnóstico técnico.",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 onde cratera se abriu volta a ser interditado",
-      "link": "https://mundoba.com.br/salvador/trecho-da-br-324-onde-cratera-se-abriu-volta-a-ser-interditado/",
-      "fonte": "MundoBA",
-      "data": "2026-07-24T13:13:22.055294-03:00",
-      "resumo": "Intervenção ocorreu após a identificação de um vazamento em uma manilha da rede de drenagem.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 tem nova interdição em trecho após novo problema em cratera na região de Simões Filho",
-      "link": "https://muitainformacao.com.br/cidades/br-324-tem-nova-interdicao-em-trecho-apos-novo-problema-em-cratera-na-regiao-de-simoes-filho/",
-      "fonte": "Muita Informação",
-      "data": "2026-07-24T11:13:22.055285-03:00",
-      "resumo": "Um trecho da BR-324, na altura do km 604, em Simões Filho, na Região Metropolitana de Salvador (RMS), voltou a ser parcialmente interditado...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 passa por nova interdição",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/trecho-da-br-324-passa-por-nova-interdicao/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-07-24T11:13:22.055259-03:00",
-      "resumo": "Novo bloqueio ocorre por causa de um vazamento em uma manilha da rede de drenagem.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 volta ser interditada parcialmente após reabertura de cratera no sentido Feira de Santana-Salvador",
-      "link": "https://glomes.com.br/br-324-volta-a-ser-interditada-parcialmente-apos-reabertura-de-cratera-no-sentido-feira-de-santana-salvador/",
-      "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-07-24T10:13:22.055276-03:00",
-      "resumo": "A BR-324 voltou a ter interdição parcial no km 604, sentido Feira de Santana, nesta sexta-feira (24), para reparos em uma cratera.",
-      "hoje": true
-    },
-    {
-      "titulo": "Vazamento causa nova interdição parcial da BR-324 para reparos",
-      "link": "https://www.bahianoticias.com.br/noticia/319272-vazamento-causa-nova-interdicao-parcial-da-br-324-para-reparos",
-      "fonte": "Bahia Notícias",
-      "data": "2026-07-24T09:13:22.055250-03:00",
-      "resumo": "Dessa vez, a interdição será realizada em razão de um vazamento em uma manilha da rede de drenagem.",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 volta a ser interditado após novo problema com cratera na Bahia",
-      "link": "https://www.correio24horas.com.br/minha-bahia/trecho-da-br-324-volta-a-ser-interditado-apos-novo-problema-com-cratera-na-bahia-0726",
-      "fonte": "Jornal Correio",
-      "data": "2026-07-24T09:13:22.055214-03:00",
-      "resumo": "Um trecho da BR-324, na altura do km 604, em Simões Filho, na Região Metropolitana de Salvador (RMS), voltou a ser parcialmente interditado...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 onde cratera se abriu volta a ser interditado e grande congestionamento é formado",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/07/24/trecho-da-br-324-onde-cratera-se-abriu-volta-a-ser-interditado-apos-vazamento-em-rede-de-drenagem.ghtml",
-      "fonte": "G1",
-      "data": "2026-07-24T09:13:22.055066-03:00",
-      "resumo": "A BR-324 interditada em Simões Filho teve a faixa esquerda bloqueada sentido Feira de Santana para reparos em manilha após duas semanas de...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-07-25T02:26:58.333711-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 1,
+    "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
