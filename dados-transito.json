@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-27T05:51:54.772182-03:00",
+  "ultimaAtualizacao": "2026-07-27T09:12:42.582033-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-07-27T02:03:37.790736-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "BR-324: Trecho em Simões Filho é novamente interditado após afundamento",
+      "link": "https://www.portalsalvadorfm.com.br/bahia/br-324-volta-a-ter-interdicao-apos-novo-afundamento-da-pista-em-simoes-filho/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-07-27T08:37:45.021214-03:00",
+      "resumo": "Um trecho da BR-324 em Simões Filho foi parcialmente interditado novamente nesta segunda-feira (27) após novo afundamento.",
+      "hoje": true
     }
   ],
   "metricas": {
