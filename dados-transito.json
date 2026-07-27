@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-07-27T18:35:08.989868-03:00",
+  "ultimaAtualizacao": "2026-07-27T19:53:10.734276-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,7 +25,7 @@
       "titulo": "Novo afundamento leva à interdição parcial da BR-324 em Simões Filho",
       "link": "https://www.deolhonacidade.net/novo-afundamento-leva-a-interdicao-parcial-da-br-324-em-simoes-filho",
       "fonte": "deolhonacidade.net",
-      "data": "2026-07-27T11:35:11.232949-03:00",
+      "data": "2026-07-27T11:53:11.451589-03:00",
       "resumo": "Trecho no km 604, sentido Feira de Santana, volta a apresentar problemas e passa por nova avaliação do DNIT após sucessivas intervenções...",
       "hoje": true
     },
@@ -33,7 +33,7 @@
       "titulo": "Trecho da BR-324 é interditado nesta segunda, 27, após pista voltar a afundar",
       "link": "https://glomes.com.br/trecho-da-br-324-e-interditado-nesta-segunda-apos-pista-voltar-a-afundar/",
       "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-07-27T11:35:11.232935-03:00",
+      "data": "2026-07-27T11:53:11.451557-03:00",
       "resumo": "Trecho da BR-324 em Simões Filho volta a ser parcialmente interditado após novo afundamento no pavimento. Trânsito segue com restrição.",
       "hoje": true
     },
@@ -41,31 +41,31 @@
       "titulo": "Trecho da BR-324 é interditado nesta segunda após pista voltar afundar",
       "link": "https://www.jornalfolhadoestado.com/municipios/trecho-da-br-324-e-interditado-nesta-segunda-apos-pista-voltar-afundar/",
       "fonte": "Folha do Estado da Bahia",
-      "data": "2026-07-27T10:35:11.232943-03:00",
+      "data": "2026-07-27T10:53:11.451569-03:00",
       "resumo": "Um trecho da BR-324 voltou a ser parcialmente interditado na manhã desta segunda-feira (27), em Simões Filho, na Região Metropolitana de...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 volta a ter faixa interditada após novo afundamento de pista em Simões Filho",
-      "link": "https://mundoba.com.br/municipios/br-324-volta-a-ter-faixa-interditada-apos-novo-afundamento-de-pista-em-simoes-filho/",
-      "fonte": "MundoBA",
-      "data": "2026-07-27T09:35:11.232962-03:00",
-      "resumo": "Trecho no km 604, no sentido Feira de Santana, teve o tráfego desviado para a faixa da direita e a via marginal enquanto equipes do Dnit...",
       "hoje": true
     },
     {
       "titulo": "BR-324: Trecho em Simões Filho é novamente interditado após afundamento",
       "link": "https://www.portalsalvadorfm.com.br/bahia/br-324-volta-a-ter-interdicao-apos-novo-afundamento-da-pista-em-simoes-filho/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-07-27T08:35:11.232968-03:00",
+      "data": "2026-07-27T08:53:11.451612-03:00",
       "resumo": "Um trecho da BR-324 em Simões Filho foi parcialmente interditado novamente nesta segunda-feira (27) após novo afundamento.",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324 volta a ter faixa interditada após novo afundamento de pista em Simões Filho",
+      "link": "https://mundoba.com.br/municipios/br-324-volta-a-ter-faixa-interditada-apos-novo-afundamento-de-pista-em-simoes-filho/",
+      "fonte": "MundoBA",
+      "data": "2026-07-27T08:53:11.451602-03:00",
+      "resumo": "Trecho no km 604, no sentido Feira de Santana, teve o tráfego desviado para a faixa da direita e a via marginal enquanto equipes do Dnit...",
       "hoje": true
     },
     {
       "titulo": "BR-324 volta a ter trecho interditado após novo afundamento de asfalto em Simões Filho",
       "link": "https://aloalobahia.com/noticias/2026/07/27/br-324-volta-a-ter-trecho-interditado-apos-novo-afundamento-de-asfalto-em-simoes-filho/",
       "fonte": "Alô Alô Bahia",
-      "data": "2026-07-27T08:35:11.232927-03:00",
+      "data": "2026-07-27T08:53:11.451540-03:00",
       "resumo": "A faixa da esquerda da BR-324, no km 604, em Simões Filho, na Região Metropolitana de Salvador, voltou a ser interditada na manhã desta...",
       "hoje": true
     },
@@ -73,7 +73,7 @@
       "titulo": "Trecho da BR-324 volta a ser interditado após asfalto ceder em Simões Filho",
       "link": "https://www.correio24horas.com.br/minha-bahia/trecho-da-br-324-volta-a-ser-interditado-apos-asfalto-ceder-em-simoes-filho-0726",
       "fonte": "Jornal Correio",
-      "data": "2026-07-27T08:35:11.232914-03:00",
+      "data": "2026-07-27T07:53:11.451521-03:00",
       "resumo": "Faixa da esquerda no sentido Feira de Santana foi bloqueada para novos serviços do Dnit.",
       "hoje": true
     },
@@ -81,7 +81,7 @@
       "titulo": "BR-324 volta a ser interditado após novo afundamento no asfalto em Simões Filho",
       "link": "https://www.trbn.com.br/materia/I159945/br-324-volta-a-ser-interditado-apos-novo-afundamento-no-asfalto-em-simoes-filho",
       "fonte": "Tribuna da Bahia",
-      "data": "2026-07-27T06:35:11.232956-03:00",
+      "data": "2026-07-27T06:53:11.451579-03:00",
       "resumo": "Faixa foi bloqueada no km 604 para nova intervenção do Dnit, enquanto tráfego segue desviado no sentido Feira de Santana.",
       "hoje": true
     }
