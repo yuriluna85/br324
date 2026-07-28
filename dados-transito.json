@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-07-27T23:01:09.585484-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-07-28T02:27:26.644654-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,63 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Novo afundamento leva à interdição parcial da BR-324 em Simões Filho",
-      "link": "https://www.deolhonacidade.net/novo-afundamento-leva-a-interdicao-parcial-da-br-324-em-simoes-filho",
-      "fonte": "deolhonacidade.net",
-      "data": "2026-07-27T12:01:10.244827-03:00",
-      "resumo": "Trecho no km 604, sentido Feira de Santana, volta a apresentar problemas e passa por nova avaliação do DNIT após sucessivas intervenções...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 é interditado nesta segunda, 27, após pista voltar a afundar",
-      "link": "https://glomes.com.br/trecho-da-br-324-e-interditado-nesta-segunda-apos-pista-voltar-a-afundar/",
-      "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-07-27T12:01:10.244807-03:00",
-      "resumo": "Trecho da BR-324 em Simões Filho volta a ser parcialmente interditado após novo afundamento no pavimento. Trânsito segue com restrição.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 volta a ter faixa interditada após novo afundamento de pista em Simões Filho",
-      "link": "https://mundoba.com.br/municipios/br-324-volta-a-ter-faixa-interditada-apos-novo-afundamento-de-pista-em-simoes-filho/",
-      "fonte": "MundoBA",
-      "data": "2026-07-27T09:01:10.244835-03:00",
-      "resumo": "Trecho no km 604, no sentido Feira de Santana, teve o tráfego desviado para a faixa da direita e a via marginal enquanto equipes do Dnit...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 volta a ter trecho interditado após novo afundamento de asfalto em Simões Filho",
-      "link": "https://aloalobahia.com/noticias/2026/07/27/br-324-volta-a-ter-trecho-interditado-apos-novo-afundamento-de-asfalto-em-simoes-filho/",
-      "fonte": "Alô Alô Bahia",
-      "data": "2026-07-27T09:01:10.244796-03:00",
-      "resumo": "A faixa da esquerda da BR-324, no km 604, em Simões Filho, na Região Metropolitana de Salvador, voltou a ser interditada na manhã desta...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 volta a ser interditado após asfalto ceder em Simões Filho",
-      "link": "https://www.correio24horas.com.br/minha-bahia/trecho-da-br-324-volta-a-ser-interditado-apos-asfalto-ceder-em-simoes-filho-0726",
-      "fonte": "Jornal Correio",
-      "data": "2026-07-27T08:01:10.244780-03:00",
-      "resumo": "Faixa da esquerda no sentido Feira de Santana foi bloqueada para novos serviços do Dnit.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 volta a ser interditado após novo afundamento no asfalto em Simões Filho",
-      "link": "https://www.trbn.com.br/materia/I159945/br-324-volta-a-ser-interditado-apos-novo-afundamento-no-asfalto-em-simoes-filho",
-      "fonte": "Tribuna da Bahia",
-      "data": "2026-07-27T07:01:10.244817-03:00",
-      "resumo": "Faixa foi bloqueada no km 604 para nova intervenção do Dnit, enquanto tráfego segue desviado no sentido Feira de Santana.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-07-28T02:27:26.644654-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 1,
+    "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
