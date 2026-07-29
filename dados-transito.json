@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-29T08:00:03.776642-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Lento",
+  "ultimaAtualizacao": "2026-07-29T10:03:29.871233-03:00",
+  "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Lento",
+      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,22 +22,71 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-07-29T02:13:00.374337-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Acidente entre carretas causa congestionamento na BR-324 entre Feira de Santana e Salvador",
+      "link": "https://portaldocase.com.br/categoria/salvador/noticias/acidente-entre-carretas-causa-congestionamento-na-br-324-entre-feira-de-santana-e-salvador",
+      "fonte": "Portal do Casé",
+      "data": "2026-07-29T09:53:30.775935-03:00",
+      "resumo": "Acidente entre carretas causa congestionamento na BR-324 entre Feira de Santana e Salvador. Data: 29 de Julho de 2026. Maria Eduarda Moura*.",
+      "hoje": true
+    },
+    {
+      "titulo": "Acidente entre duas carretas causa congestionamento na BR-324 entre Feira e Salvador",
+      "link": "https://www.jornalfolhadoestado.com/municipios/acidente-entre-duas-carretas-causa-congestionamento-na-br-324-entre-feira-e-salvador/",
+      "fonte": "Folha do Estado da Bahia",
+      "data": "2026-07-29T09:35:30.775946-03:00",
+      "resumo": "Colisão lateral ocorreu na altura do km 533 da rodovia, provocou interdição parcial da pista e retenção nos dois sentidos;...",
+      "hoje": true
+    },
+    {
+      "titulo": "Acidente entre carretas provoca congestionamento na BR-324 entre Feira de Santana e Salvador",
+      "link": "https://www.metro1.com.br/noticias/bahia/186071,acidente-entre-carretas-provoca-congestionamento-na-br-324-entre-feira-de-santana-e-salvador",
+      "fonte": "Rádio Metrópole",
+      "data": "2026-07-29T09:07:30.775921-03:00",
+      "resumo": "Colisão sem vítimas interdita parcialmente a rodovia na manhã desta quarta-feira (29) e causa lentidão nos dois sentidos da via.",
+      "hoje": true
+    },
+    {
+      "titulo": "Acidente entre carretas causa lentidão na BR-324 perto de Amélia Rodrigues e Feira de Santana",
+      "link": "https://www.bra1.com.br/geral/id-671932/acidente_entre_carretas_causa_lentidao_na_br_324_perto_de_amelia_rodrigues_e_feira_de_santana",
+      "fonte": "bra1.com.br",
+      "data": "2026-07-29T09:03:30.775971-03:00",
+      "resumo": "Um acidente envolvendo duas carretas aconteceu na manhã desta quarta-feira (29) em um trecho da BR-324, próximo a Amélia Rodrigues, no ...",
+      "hoje": true
+    },
+    {
+      "titulo": "Acidente entre duas carretas causa congestionamento na BR-324",
+      "link": "https://blogdovalente.com.br/cidades/2026/07/acidente-entre-duas-carretas-causa-congestionamento-na-br-324/",
+      "fonte": "Blog do Valente",
+      "data": "2026-07-29T08:03:30.775957-03:00",
+      "resumo": "Duas carretas tombaram na BR-324, entre Feira de Santana e Salvador, causando congestionamento nos dois sentidos da rodovia.",
+      "hoje": true
+    },
+    {
+      "titulo": "Acidente entre carretas causa lentidão na BR-324 entre Amélia Rodrigues e Feira de Santana",
+      "link": "https://www.bahianoticias.com.br/amp/municipios/noticia/51846-acidente-entre-carretas-causa-lentidao-na-br-324-entre-amelia-rodrigues-e-feira-de-santana",
+      "fonte": "Bahia Notícias",
+      "data": "2026-07-29T08:03:30.775940-03:00",
+      "resumo": "Um acidente que envolveu duas carretas foi registrado na manhã desta quarta-feira (29) em um trecho da BR-324 próximo a Amélia Rodrigues,...",
+      "hoje": true
+    },
+    {
+      "titulo": "Acidente com carretas afeta trânsito na BR-324, no sentido Feira x Salvador",
+      "link": "https://glomes.com.br/acidente-com-carretas-afeta-transito-na-br-324-no-sentido-feira-x-salvador/",
+      "fonte": "Grupo Lomes de Comunicação",
+      "data": "2026-07-29T08:03:30.775759-03:00",
+      "resumo": "Acidente entre duas carretas na BR-324 provoca congestionamento entre Feira de Santana e Salvador. As causas da ocorrência e o estado das...",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
+    "percentualFluido": 50.0,
     "percentualAtencao": 0.0,
-    "percentualLento": 33.3,
-    "totalAcidentes": 2,
+    "percentualLento": 50.0,
+    "totalAcidentes": 3,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 85.0
   }
 }
