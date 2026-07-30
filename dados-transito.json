@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-07-30T06:58:40.577692-03:00",
+  "ultimaAtualizacao": "2026-07-30T08:52:32.465621-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-07-30T01:49:54.685526-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Em Brasília, Jerônimo atualiza situação da concessão da BR-324",
+      "link": "https://panoramadabahia.com.br/em-brasilia-jeronimo-atualiza-situacao-da-concessao-da-br-324/",
+      "fonte": "Panorama da Bahia",
+      "data": "2026-07-30T06:52:33.673277-03:00",
+      "resumo": "O processo de concessão da BR-324 teve uma atualização nesta quarta-feira (29), após reunião realizada pelo governador Jerônimo Rodrigues...",
+      "hoje": true
     }
   ],
   "metricas": {
