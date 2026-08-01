@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-01T14:54:03.177941-03:00",
+  "ultimaAtualizacao": "2026-08-01T15:56:14.850234-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-08-01T02:31:33.384176-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Deputado diz que BR-324 era administrada por ‘Via Bandida’ e que empresa ‘não cumpriu uma vírgula do contrato’",
+      "link": "https://mundoba.com.br/politica/deputado-diz-que-br-324-era-administrada-por-via-bandida-e-diz-que-empresa-nao-cumpriu-uma-virgula-do-contrato/",
+      "fonte": "MundoBA",
+      "data": "2026-08-01T09:56:16.128227-03:00",
+      "resumo": "Eduardo Salles (PV) afirmou que lutou pela saída da antiga concessionária da BR-324 e cobrou que a nova empresa execute as obras previstas...",
+      "hoje": true
     }
   ],
   "metricas": {
