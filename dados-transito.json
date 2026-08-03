@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-03T11:19:04.729406-03:00",
+  "ultimaAtualizacao": "2026-08-03T13:45:09.279406-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "Caminhão atinge cavalo na BR-324 e fica com cabine destruída em Feira de Santana",
+      "link": "https://www.bahianoticias.com.br/amp/municipios/noticia/51926-caminhao-atinge-cavalo-em-trecho-da-br-324-na-bahia-e-fica-com-cabine-destruida",
+      "fonte": "Bahia Notícias",
+      "data": "2026-08-03T11:45:10.307660-03:00",
+      "resumo": "Um caminhão frigorífico teve a cabine destruída após atingir um cavalo em um trecho da BR-324 em Feira de Santana.",
+      "hoje": true
+    },
+    {
       "titulo": "Corpo é encontrado em viaduto às margens da BR-324, em Salvador",
       "link": "https://www.bahianoticias.com.br/amp/noticia/319596-corpo-e-encontrado-em-viaduto-as-margens-da-br-324-em-salvador",
       "fonte": "Bahia Notícias",
-      "data": "2026-08-03T09:19:05.835179-03:00",
+      "data": "2026-08-03T09:45:10.307733-03:00",
       "resumo": "Um corpo foi encontrado no viaduto de Porto Seco Pirajá, na madrugada desta segunda-feira (3), nas margens da BR-324, em Salvador.",
       "hoje": true
     }
