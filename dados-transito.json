@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-03T15:43:33.826284-03:00",
+  "ultimaAtualizacao": "2026-08-03T17:20:31.990480-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "Engavetamento com três caminhões interdita trecho da BR-324 em Simões Filho",
+      "link": "https://muitainformacao.com.br/cidades/engavetamento-com-tres-caminhoes-interdita-trecho-da-br-324-em-simoes-filho/",
+      "fonte": "Muita Informação",
+      "data": "2026-08-03T16:23:32.939649-03:00",
+      "resumo": "Um acidente envolvendo três caminhões provocou interdição na BR-324, em Simões Filho, na Região Metropolitana de Salvador, na tarde desta...",
+      "hoje": true
+    },
+    {
       "titulo": "Caminhão atinge cavalo na BR-324 e fica com cabine destruída em Feira de Santana",
       "link": "https://www.bahianoticias.com.br/amp/municipios/noticia/51926-caminhao-atinge-cavalo-em-trecho-da-br-324-na-bahia-e-fica-com-cabine-destruida",
       "fonte": "Bahia Notícias",
-      "data": "2026-08-03T11:43:34.844745-03:00",
+      "data": "2026-08-03T11:20:32.939827-03:00",
       "resumo": "Um caminhão frigorífico teve a cabine destruída após atingir um cavalo em um trecho da BR-324 em Feira de Santana.",
       "hoje": true
     },
@@ -33,7 +41,7 @@
       "titulo": "Corpo é encontrado em viaduto às margens da BR-324, em Salvador",
       "link": "https://www.bahianoticias.com.br/amp/noticia/319596-corpo-e-encontrado-em-viaduto-as-margens-da-br-324-em-salvador",
       "fonte": "Bahia Notícias",
-      "data": "2026-08-03T09:43:34.844864-03:00",
+      "data": "2026-08-03T09:20:32.939904-03:00",
       "resumo": "Um corpo foi encontrado no viaduto de Porto Seco Pirajá, na madrugada desta segunda-feira (3), nas margens da BR-324, em Salvador.",
       "hoje": true
     }
