@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-03T17:20:31.990480-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Lento",
+  "ultimaAtualizacao": "2026-08-03T18:36:42.589098-03:00",
+  "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Lento",
+      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,10 +22,26 @@
   ],
   "noticias": [
     {
+      "titulo": "Um acidente envolvendo três caminhões gerou interdição total na BR-324, sentido Feira de Santana, próximo ao antigo posto da PRF, em Simões Filho, na Região Metropolitana de Salvador. O acidente aconteceu nesta segunda-feira (3). A interdição total fo",
+      "link": "https://www.instagram.com/reel/DblnAl_gpLv/",
+      "fonte": "Instagram",
+      "data": "2026-08-03T17:52:44.235250-03:00",
+      "resumo": "",
+      "hoje": true
+    },
+    {
+      "titulo": "Acidente com três caminhões deixa trânsito lento na BR-324",
+      "link": "https://sociedadeonline.com/acidente-com-tres-caminhoes-deixa-transito-lento-na-br-324",
+      "fonte": "Sociedade ON",
+      "data": "2026-08-03T17:37:44.235421-03:00",
+      "resumo": "Acompanhe as últimas notícias de Salvador, Bahia e do Brasil. Ouça a Rádio Sociedade ao vivo, debates, podcasts, esportes e muito mais.",
+      "hoje": true
+    },
+    {
       "titulo": "Engavetamento com três caminhões interdita trecho da BR-324 em Simões Filho",
       "link": "https://muitainformacao.com.br/cidades/engavetamento-com-tres-caminhoes-interdita-trecho-da-br-324-em-simoes-filho/",
       "fonte": "Muita Informação",
-      "data": "2026-08-03T16:23:32.939649-03:00",
+      "data": "2026-08-03T16:36:44.235392-03:00",
       "resumo": "Um acidente envolvendo três caminhões provocou interdição na BR-324, em Simões Filho, na Região Metropolitana de Salvador, na tarde desta...",
       "hoje": true
     },
@@ -33,28 +49,20 @@
       "titulo": "Caminhão atinge cavalo na BR-324 e fica com cabine destruída em Feira de Santana",
       "link": "https://www.bahianoticias.com.br/amp/municipios/noticia/51926-caminhao-atinge-cavalo-em-trecho-da-br-324-na-bahia-e-fica-com-cabine-destruida",
       "fonte": "Bahia Notícias",
-      "data": "2026-08-03T11:20:32.939827-03:00",
+      "data": "2026-08-03T11:36:44.235440-03:00",
       "resumo": "Um caminhão frigorífico teve a cabine destruída após atingir um cavalo em um trecho da BR-324 em Feira de Santana.",
-      "hoje": true
-    },
-    {
-      "titulo": "Corpo é encontrado em viaduto às margens da BR-324, em Salvador",
-      "link": "https://www.bahianoticias.com.br/amp/noticia/319596-corpo-e-encontrado-em-viaduto-as-margens-da-br-324-em-salvador",
-      "fonte": "Bahia Notícias",
-      "data": "2026-08-03T09:20:32.939904-03:00",
-      "resumo": "Um corpo foi encontrado no viaduto de Porto Seco Pirajá, na madrugada desta segunda-feira (3), nas margens da BR-324, em Salvador.",
       "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
+    "percentualFluido": 50.0,
     "percentualAtencao": 0.0,
-    "percentualLento": 33.3,
-    "totalAcidentes": 2,
+    "percentualLento": 50.0,
+    "totalAcidentes": 3,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 85.0
   }
 }
