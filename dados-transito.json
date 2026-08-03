@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-03T08:55:16.335881-03:00",
+  "ultimaAtualizacao": "2026-08-03T11:19:04.729406-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-08-03T01:57:34.242794-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Corpo é encontrado em viaduto às margens da BR-324, em Salvador",
+      "link": "https://www.bahianoticias.com.br/amp/noticia/319596-corpo-e-encontrado-em-viaduto-as-margens-da-br-324-em-salvador",
+      "fonte": "Bahia Notícias",
+      "data": "2026-08-03T09:19:05.835179-03:00",
+      "resumo": "Um corpo foi encontrado no viaduto de Porto Seco Pirajá, na madrugada desta segunda-feira (3), nas margens da BR-324, em Salvador.",
+      "hoje": true
     }
   ],
   "metricas": {
