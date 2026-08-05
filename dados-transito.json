@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-05T18:41:06.292281-03:00",
+  "ultimaAtualizacao": "2026-08-05T19:49:48.490019-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-08-05T01:57:48.631545-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "PRF recupera carro roubado com placas clonadas durante fiscalização na BR-324",
+      "link": "https://sociedadeonline.com/prf-recupera-carro-roubado-com-placas-clonadas-durante-fiscalizacao-na-br-324",
+      "fonte": "Sociedade ON",
+      "data": "2026-08-05T17:49:52.077980-03:00",
+      "resumo": "Acompanhe as últimas notícias de Salvador, Bahia e do Brasil. Ouça a Rádio Sociedade ao vivo, debates, podcasts, esportes e muito mais.",
+      "hoje": true
     }
   ],
   "metricas": {
