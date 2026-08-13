@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-12T22:12:14.973362-03:00",
+  "ultimaAtualizacao": "2026-08-13T00:36:28.638850-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,7 +25,7 @@
       "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
       "link": "",
       "fonte": "Mídias Locais",
-      "data": "2026-08-12T00:33:42.417197-03:00",
+      "data": "2026-08-13T00:36:28.638850-03:00",
       "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
