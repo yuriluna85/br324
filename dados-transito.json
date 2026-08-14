@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-14T17:52:59.859863-03:00",
+  "ultimaAtualizacao": "2026-08-14T18:17:00.101102-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -23,34 +23,26 @@
   "noticias": [
     {
       "titulo": "Caminhão com três toneladas de morangos tomba em acesso da BR-324 em Salvador",
-      "link": "https://www.google.com/goto?url=CAESkAEB7keqTQETO3mm8n85B5jP6vzCvBNu8srmxoGTy8ShP-3AUek0TvLvR0Pg55L1CLYQdO0fA3ggcvEEP52Fv2_4TOXlPI1woSbF28mjaetg6emGZ4zc5mwmEYz0Q93_3_0mWOzazFIthg_dMibqYLbhlfhrnxZoYT7PTXtBvGmFwJMN0PPmsvoNOo1Wdx0MP9o=",
+      "link": "https://glomes.com.br/caminhao-com-tres-toneladas-de-morangos-tomba-em-acesso-da-br-324/",
       "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-08-14T10:53:05.984228-03:00",
+      "data": "2026-08-14T10:17:08.071042-03:00",
       "resumo": "Caminhão com cerca de três toneladas de morangos tomba em Salvador. Motorista teve ferimentos leves e parte da carga foi recolhida.",
       "hoje": true
     },
     {
       "titulo": "Caminhão tomba na BR-324 e carga é saqueada",
-      "link": "https://www.google.com/goto?url=CAESkwEB7keqTSoxoWpTwN7Ix_VwYDgWV9tF4VpKJ-Ht7Hp9o-gFwE41WByiC1LTYXa464PUxVQt5NEqrPj2qj6kiNsBLnNzAYIpXxiyiE2Wm5FmXFuhh5fMUbxJo44jt5X92z91kMuEciJL7Bih9cx86UajJlu59CYTgNvXGGtK4NJfYaP_c7_BUwOr3VnhZd3cEEUpOoQ=",
+      "link": "https://www.jornalfolhadoestado.com/municipios/caminhao-tomba-na-br-324-e-carga-e-saqueada/",
       "fonte": "Folha do Estado da Bahia",
-      "data": "2026-08-14T09:53:05.984255-03:00",
+      "data": "2026-08-14T09:17:08.071071-03:00",
       "resumo": "Caminhão carregado com 3 toneladas de morangos tomba na BR-324, em Salvador, após ser fechado por outro veículo.",
       "hoje": true
     },
     {
       "titulo": "Caminhão tomba na BR-324/BA e carga de morangos é saqueada, em Salvador",
-      "link": "https://www.google.com/goto?url=CAESlwEB7keqTRqMYBcpvKbbhxN_jCnTISP_Jh6RlWCjD9SQ9NSUoEQ_-1iaSdJUZckoWF5yspUkp32efNe5iFKglmCs1KVCgLDqn2-4uSQKa6CBcPkLuzAA-EcoAk2XaEc-eIl-M6EeTCOAQR7dd4ZaMO1Znf01jWCnqEe2HL8wDOYTs8H1QwBE3Hdz7nndd8HLVr-r8dFA7tAy",
+      "link": "https://estradas.com.br/caminhao-tomba-na-br-324-ba-e-carga-de-morangos-e-saqueada-em-salvador/",
       "fonte": "Estradas",
-      "data": "2026-08-14T08:53:05.984241-03:00",
+      "data": "2026-08-14T09:17:08.071062-03:00",
       "resumo": "Um sinistro (acidente) na manhã desta sexta-feira (14), na BR-324, próximo ao acesso à Via Expressa, em Salvador (BA), envolvendo um...",
-      "hoje": true
-    },
-    {
-      "titulo": "Cargas de morango são saqueadas após caminhão tombar na BR-324",
-      "link": "https://www.google.com/goto?url=CAESpAEB7keqTUNlw5EzZg2VSVQMSPbS4kXkOyRc-EIpB2kt0OaiQxAGkvirw0C6hVAoq5cbs2wzlbbIPSduACW-PZQChlV6XGyE-yyoXP41ns45rbY8TDlJog3SkUfGU2brUPSOEhtqPxKcdKTJ5cfeGnsCp-dGCoR6pF70h4Fb5hkBsTtNeGu81Nn8j2wrCKwczlpn3UFmyaGWkr7ZpV03zC73t3A90w==",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-08-14T06:53:05.984260-03:00",
-      "resumo": "Um caminhão carregado com aproximadamente três toneladas de morango tombou e teve parte da carga saqueada. O acidente aconteceu na manhã...",
       "hoje": true
     }
   ],
