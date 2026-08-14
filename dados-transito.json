@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-14T12:13:00.355546-03:00",
+  "ultimaAtualizacao": "2026-08-14T13:11:57.807563-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,7 +25,7 @@
       "titulo": "Caminhão tomba na BR-324 e carga é saqueada",
       "link": "https://www.jornalfolhadoestado.com/municipios/caminhao-tomba-na-br-324-e-carga-e-saqueada/",
       "fonte": "Folha do Estado da Bahia",
-      "data": "2026-08-14T09:13:05.143375-03:00",
+      "data": "2026-08-14T09:12:02.829261-03:00",
       "resumo": "Caminhão carregado com 3 toneladas de morangos tomba na BR-324, em Salvador, após ser fechado por outro veículo.",
       "hoje": true
     },
@@ -33,7 +33,7 @@
       "titulo": "Caminhão tomba na BR-324/BA e carga de morangos é saqueada, em Salvador",
       "link": "https://estradas.com.br/caminhao-tomba-na-br-324-ba-e-carga-de-morangos-e-saqueada-em-salvador/",
       "fonte": "Estradas",
-      "data": "2026-08-14T09:13:05.143174-03:00",
+      "data": "2026-08-14T09:12:02.829090-03:00",
       "resumo": "Um sinistro (acidente) na manhã desta sexta-feira (14), na BR-324, próximo ao acesso à Via Expressa, em Salvador (BA), envolvendo um...",
       "hoje": true
     }
