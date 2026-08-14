@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-14T07:49:59.333199-03:00",
+  "ultimaAtualizacao": "2026-08-14T08:37:39.222519-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-08-14T00:33:59.434804-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Caminhão tomba na BR-324 e carga é saqueada",
+      "link": "https://bahia.ba/salvador/caminhao-tomba-na-br-324-e-carga-e-saqueada/",
+      "fonte": "Bahia.Ba",
+      "data": "2026-08-14T07:55:46.807248-03:00",
+      "resumo": "Caminhão carregado com 3 toneladas de morangos tomba na BR-324, em Salvador, após ser fechado por outro veículo.",
+      "hoje": true
     }
   ],
   "metricas": {
