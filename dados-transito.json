@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-14T23:08:32.099617-03:00",
+  "ultimaAtualizacao": "2026-08-15T00:09:55.606393-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,36 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "Vereador Sandro Filho ‘inaugura’ nova placa na BR-324 intitulada ‘buraco do Jero’",
-      "link": "https://mundoba.com.br/politica/vereador-sandro-filho-inaugura-nova-placa-na-br-324-intitulada-buraco-do-jero/",
-      "fonte": "MundoBA",
-      "data": "2026-08-14T19:08:36.306101-03:00",
-      "resumo": "O vereador de Salvador e candidato a deputado federal, Sandro Filho (PP), publicou um vídeo nas redes sociais, nesta sexta-feira (14),...",
-      "hoje": true
-    },
-    {
-      "titulo": "Caminhão com três toneladas de morangos tomba em acesso da BR-324 em Salvador",
-      "link": "https://glomes.com.br/caminhao-com-tres-toneladas-de-morangos-tomba-em-acesso-da-br-324/",
-      "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-08-14T11:08:36.306000-03:00",
-      "resumo": "Caminhão com cerca de três toneladas de morangos tomba em Salvador. Motorista teve ferimentos leves e parte da carga foi recolhida.",
-      "hoje": true
-    },
-    {
-      "titulo": "Caminhão tomba na BR-324 e carga é saqueada",
-      "link": "https://www.jornalfolhadoestado.com/municipios/caminhao-tomba-na-br-324-e-carga-e-saqueada/",
-      "fonte": "Folha do Estado da Bahia",
-      "data": "2026-08-14T09:08:36.306081-03:00",
-      "resumo": "Caminhão carregado com 3 toneladas de morangos tomba na BR-324, em Salvador, após ser fechado por outro veículo.",
-      "hoje": true
-    },
-    {
-      "titulo": "Caminhão tomba na BR-324/BA e carga de morangos é saqueada, em Salvador",
-      "link": "https://estradas.com.br/caminhao-tomba-na-br-324-ba-e-carga-de-morangos-e-saqueada-em-salvador/",
-      "fonte": "Estradas",
-      "data": "2026-08-14T09:08:36.306056-03:00",
-      "resumo": "Um sinistro (acidente) na manhã desta sexta-feira (14), na BR-324, próximo ao acesso à Via Expressa, em Salvador (BA), envolvendo um...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-08-15T00:09:55.606393-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
