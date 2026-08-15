@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-15T16:41:39.066077-03:00",
+  "ultimaAtualizacao": "2026-08-15T17:12:30.681669-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,42 +22,42 @@
   ],
   "noticias": [
     {
-      "titulo": "Carro capota na BR-324 no sentido Feira de Santana",
-      "link": "https://www.portalsalvadorfm.com.br/salvador/carro-capota-na-br-324-no-sentido-feira-de-santana/",
+      "titulo": "Carro capota na BR-324 e complica saída de Salvador",
+      "link": "https://www.google.com/goto?url=CAESmAEB7keqTfAplpHccv35WtVTrEW9mp4D3NiBSzSgTb8ymJKtFF7b36EtDiQUaBlyTgRmiP8_l4nkrp_ONRiHXSBpu_Hp4_XDYF8rb2u95U5aQnYy19IIuRkEEGuf4u4X5nqaWTtQtxKnAHAow6dRbwvt88SgO3Y5ecUQma62UTog6ebtBTRrNxG3b1WL3PacagDTh1PXYi2fOw==",
       "fonte": "Portal Salvador FM",
-      "data": "2026-08-15T13:41:42.239636-03:00",
+      "data": "2026-08-15T14:12:40.511899-03:00",
+      "resumo": "Um carro capotou na BR-324, no ínicio da tarde deste sábado (15), nas imediações do bairro Bom Juá, em Salvador.",
+      "hoje": true
+    },
+    {
+      "titulo": "Carro capota na BR-324 no sentido Feira de Santana",
+      "link": "https://www.google.com/goto?url=CAESmAEB7keqTUWQ6WTUsSI3uXbgeM8D3dfcW135EPmbxux1FLgzHrTpm4hSpg84puMJ3Vz8u_aPWlzmM_VeppSbKxJq8Co12WMEGLUuIhoNrvulNveALEbzKOz1KrYjE3QnjM7qa6CaRxTgxPqitA7ENfAtzxnVGcY44gZLa-0mrqSqZYrOZkAlCPJMaIm6DrsHKXKFWa_m0pKm8A==",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-08-15T14:12:40.511645-03:00",
       "resumo": "Um carro capotou na BR-324, no sentido Feira de Santana, na altura do Bom Juá, em Salvador; o acidente causou congestionamento.",
       "hoje": true
     },
     {
-      "titulo": "ACM Neto usa cratera na BR-324 para criticar gestão de Jerônimo e cobra presença em debates",
-      "link": "https://muitainformacao.com.br/eleicoes/acm-neto-usa-cratera-na-br-324-para-criticar-gestao-de-jeronimo-e-cobra-presenca-em-debates/",
-      "fonte": "Muita Informação",
-      "data": "2026-08-15T10:41:42.239671-03:00",
-      "resumo": "Em agenda na RMS, oposicionista questiona propaganda do governo estadual e cobra posicionamento sobre regulação e saúde pública Na noite de...",
-      "hoje": true
-    },
-    {
       "titulo": "Sandro Filho “inaugura” placa de “Buraco de Jero” em cratera na BR-324",
-      "link": "https://acessepolitica.com.br/noticia/179976/sandro-filho-linaugurar-placa-de-lburaco-de-jeror-em-cratera-na-br-324",
+      "link": "https://www.google.com/goto?url=CAESqwEB7keqTWM51w-3oQctkO75u0gQ9zWqALCgYbNCcLWyGhyo1CsLwjDac-2LMjdDdRtwPgLwPr51pJlEY8Y4HoNlUjLZ-gaPHhT9kmMBVVwsHoTKNiZfS2dzdDvswWb8VYdhvO-KYabvrWVoq9YdxTi8yTAkX9wsDN7G-pqBRLBgdH31Vg4Cm1OWp-AGt3R-fN-DjAyKWVJ3KZTrGDg2OaPhkMV5IOb4D2Nb0E0=",
       "fonte": "Acesse Política",
-      "data": "2026-08-15T07:41:42.239691-03:00",
+      "data": "2026-08-15T08:12:40.511851-03:00",
       "resumo": "O vereador de Salvador e candidato a deputado federal Sandro Filho (PP) instalou nesta sexta-feira (14) uma placa batizada de “Buraco de...",
       "hoje": true
     },
     {
       "titulo": "ACM Neto cobra solução para cratera na BR-324 e critica transferência de responsabilidades",
-      "link": "https://classepolitica.com.br/noticia/acm-neto-cobra-solucao-para-cratera-na-br-324-e-critica-transferencia-de-responsabilidades",
+      "link": "https://www.google.com/goto?url=CAESuQEB7keqTY-DD_imNA5JS77pULXHxaDzxuvHcTiFSXiA3cjmi0xJRjxazxu1vlaBN3lwweqs6fCu9nUwme0zE8jjDMUmoTxjTNmR0hz48Jwh-EAWC4aFdlZW_rn5dXFlnCgNDYl8FW-CH-3SmhTdaVhyaLIC3YPi2uGiKZdykjnuhNUHq22WVaDzUKDMsz9to6d6VGE9hBgrjsRNlYxLp6Q1Z_e-5UDCHp0JK1ZETDBa5JangStqts4BMQ==",
       "fonte": "Classe Politica",
-      "data": "2026-08-15T07:41:42.239681-03:00",
+      "data": "2026-08-15T08:12:40.511841-03:00",
       "resumo": "O candidato a governador ACM Neto voltou a criticar, na noite desta sexta-feira (14), a situação da BR-324 e a postura do governador...",
       "hoje": true
     },
     {
       "titulo": "DNIT ainda não sabe como reparar trecho da BR-324",
-      "link": "https://www.trbn.com.br/materia/I161298/dnit-ainda-nao-sabe-como-reparar-trecho-da-br-324",
+      "link": "https://www.google.com/goto?url=CAESkQEB7keqTWrWTyKNN2QKdW_l8RucNJ7DKClY1_LV7gXC_MrYKcVGCWES2Xp7deoUafNnBTofnxCuuPxWdmY2GyiPe3jcplIRViIf8fRQO0Px3L721gTedN0PIVn1YeYZSUl4AYlEqEbwh2jR2Wo4fFjfb5MI-tact-y4WEzbBSwRulB86RUQ-AjoK0Q-N4l4o1n_",
       "fonte": "Tribuna da Bahia",
-      "data": "2026-08-15T04:41:42.239659-03:00",
+      "data": "2026-08-15T04:12:40.511828-03:00",
       "resumo": "Por Hieros Vasconcelos. Mais de um mês após o surgimento do afundamento no km 604 da BR-324, em Simões Filho, na Região Metropolitana de...",
       "hoje": true
     }
