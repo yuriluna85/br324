@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-08-18T06:56:05.677264-03:00",
+  "ultimaAtualizacao": "2026-08-18T07:21:11.041134-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "BR-324: Prefeito José Ronaldo chama cratera de “Buraco do Jero” após congestionamento atrasar ACM Neto em Feira de Santana",
+      "link": "https://jornalgrandebahia.com.br/2026/08/br-324-prefeito-jose-ronaldo-chama-cratera-de-buraco-do-jero-apos-congestionamento-atrasar-acm-neto-em-feira-de-santana/",
+      "fonte": "Jornal Grande Bahia",
+      "data": "2026-08-18T06:57:14.192866-03:00",
+      "resumo": "José Ronaldo chama cratera na BR-324 de “Buraco do Jero” após congestionamento atrasar ACM Neto para evento com jovens em Feira de Santana.",
+      "hoje": true
+    },
+    {
       "titulo": "“Buraco do Jero”: ACM Neto relata congestionamento na BR-324 e critica Jerônimo durante agenda política com José Ronaldo em Feira de Santana",
       "link": "https://jornalgrandebahia.com.br/2026/08/buraco-do-jero-acm-neto-relata-congestionamento-na-br-324-e-critica-jeronimo-durante-agenda-politica-com-jose-ronaldo-em-feira-de-santana/",
       "fonte": "Jornal Grande Bahia",
-      "data": "2026-08-18T06:40:13.313382-03:00",
+      "data": "2026-08-18T06:40:14.192662-03:00",
       "resumo": "Em viagem de Salvador a Feira de Santana, ACM Neto relata congestionamento na BR-324 e volta a cobrar solução para a cratera existente em...",
       "hoje": true
     },
@@ -33,7 +41,7 @@
       "titulo": "Zé Ronaldo critica congestionamento na BR-324 durante evento de ACM Neto em Feira de Santana",
       "link": "https://www.deolhonacidade.net/ze-ronaldo-critica-congestionamento-na-br-324-durante-evento-de-acm-neto-em-feira-de-santana",
       "fonte": "deolhonacidade.net",
-      "data": "2026-08-18T06:34:13.313590-03:00",
+      "data": "2026-08-18T06:34:14.192846-03:00",
       "resumo": "Prefeito de Feira de Santana relatou dificuldades para chegar ao município e voltou a cobrar melhorias na principal ligação rodoviária entre...",
       "hoje": true
     }
