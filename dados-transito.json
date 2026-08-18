@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-08-18T09:26:38.518379-03:00",
+  "ultimaAtualizacao": "2026-08-18T10:22:53.309260-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "'Buraco do Jero': Zé Ronaldo aponta transtornos causados por cratera na BR-324",
+      "link": "https://www.correio24horas.com.br/eleicoes/buraco-do-jero-ze-ronaldo-aponta-transtornos-causados-por-cratera-na-br-324-0826",
+      "fonte": "Jornal Correio",
+      "data": "2026-08-18T09:28:01.701629-03:00",
+      "resumo": "O prefeito de Feira de Santana criticou a situação da cratera na BR-324 após o candidato ao Governo ACM Neto (União Brasil) enfrentar...",
+      "hoje": true
+    },
+    {
       "titulo": "BR-324: Prefeito José Ronaldo chama cratera de “Buraco do Jero” após congestionamento atrasar ACM Neto em Feira de Santana",
       "link": "https://jornalgrandebahia.com.br/2026/08/br-324-prefeito-jose-ronaldo-chama-cratera-de-buraco-do-jero-apos-congestionamento-atrasar-acm-neto-em-feira-de-santana/",
       "fonte": "Jornal Grande Bahia",
-      "data": "2026-08-18T07:26:42.457786-03:00",
+      "data": "2026-08-18T07:23:01.701638-03:00",
       "resumo": "José Ronaldo chama cratera na BR-324 de “Buraco do Jero” após congestionamento atrasar ACM Neto para evento com jovens em Feira de Santana.",
       "hoje": true
     },
@@ -33,7 +41,7 @@
       "titulo": "Carreta quebrada deixa BR-324 engarrafada",
       "link": "https://www.portalsalvadorfm.com.br/transito/carreta-quebrada-deixa-br-324-engarrafada/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-08-18T07:26:42.457770-03:00",
+      "data": "2026-08-18T07:23:01.701609-03:00",
       "resumo": "A BR-324 ficou com um longo engarrafamento nas primeiras horas da manhã desta terça-feira (18), nas proximidade de Bom Juá, sentido Salvador...",
       "hoje": true
     },
@@ -41,7 +49,7 @@
       "titulo": "Zé Ronaldo critica congestionamento na BR-324 durante evento de ACM Neto em Feira de Santana",
       "link": "https://www.deolhonacidade.net/ze-ronaldo-critica-congestionamento-na-br-324-durante-evento-de-acm-neto-em-feira-de-santana",
       "fonte": "deolhonacidade.net",
-      "data": "2026-08-18T06:26:42.457761-03:00",
+      "data": "2026-08-18T06:23:01.701597-03:00",
       "resumo": "Prefeito de Feira de Santana relatou dificuldades para chegar ao município e voltou a cobrar melhorias na principal ligação rodoviária entre...",
       "hoje": true
     },
@@ -49,7 +57,7 @@
       "titulo": "“Buraco do Jero”: ACM Neto relata congestionamento na BR-324 e critica Jerônimo durante agenda política com José Ronaldo em Feira de Santana",
       "link": "https://jornalgrandebahia.com.br/2026/08/buraco-do-jero-acm-neto-relata-congestionamento-na-br-324-e-critica-jeronimo-durante-agenda-politica-com-jose-ronaldo-em-feira-de-santana/",
       "fonte": "Jornal Grande Bahia",
-      "data": "2026-08-18T06:26:42.457606-03:00",
+      "data": "2026-08-18T06:23:01.701412-03:00",
       "resumo": "Em viagem de Salvador a Feira de Santana, ACM Neto relata congestionamento na BR-324 e volta a cobrar solução para a cratera existente em...",
       "hoje": true
     }
