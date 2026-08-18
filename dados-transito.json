@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-18T06:01:16.622697-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-08-18T06:56:05.677264-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -16,28 +16,37 @@
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Aumento no fluxo habitual de veículos com retenção localizada."
     }
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-08-18T00:14:23.204243-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "“Buraco do Jero”: ACM Neto relata congestionamento na BR-324 e critica Jerônimo durante agenda política com José Ronaldo em Feira de Santana",
+      "link": "https://jornalgrandebahia.com.br/2026/08/buraco-do-jero-acm-neto-relata-congestionamento-na-br-324-e-critica-jeronimo-durante-agenda-politica-com-jose-ronaldo-em-feira-de-santana/",
+      "fonte": "Jornal Grande Bahia",
+      "data": "2026-08-18T06:40:13.313382-03:00",
+      "resumo": "Em viagem de Salvador a Feira de Santana, ACM Neto relata congestionamento na BR-324 e volta a cobrar solução para a cratera existente em...",
+      "hoje": true
+    },
+    {
+      "titulo": "Zé Ronaldo critica congestionamento na BR-324 durante evento de ACM Neto em Feira de Santana",
+      "link": "https://www.deolhonacidade.net/ze-ronaldo-critica-congestionamento-na-br-324-durante-evento-de-acm-neto-em-feira-de-santana",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-08-18T06:34:13.313590-03:00",
+      "resumo": "Prefeito de Feira de Santana relatou dificuldades para chegar ao município e voltou a cobrar melhorias na principal ligação rodoviária entre...",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
     "totalObras": 0,
-    "totalCongestionamento": 0,
+    "totalCongestionamento": 1,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
