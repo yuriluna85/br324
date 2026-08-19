@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-08-18T23:13:04.356137-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-08-19T00:23:07.666896-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -16,101 +16,28 @@
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
-      "status": "Atenção",
-      "mensagem": "Aumento no fluxo habitual de veículos com retenção localizada."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     }
   ],
   "noticias": [
     {
-      "titulo": "Circulação de água em aterro provocou cratera na BR-324, diz DNIT",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/08/18/circulacao-de-agua-em-aterro-provocou-cratera-em-rodovia-diz-dnit.ghtml",
-      "fonte": "G1",
-      "data": "2026-08-18T22:13:07.878520-03:00",
-      "resumo": "Resultado das investigações do Departamento Nacional de Infraestrutura de Transportes foi divulgado nesta terça-feira (18).",
-      "hoje": true
-    },
-    {
-      "titulo": "DNIT DEFINE EMPRESA PARA OPERAR TRÁFEGO NAS RODOVIAS BR-324 E BR-116; VALOR DO CONTRATO É DE R$ 81 MILHÕES",
-      "link": "https://bahiaeconomica.com.br/wp/2026/08/18/dnit-define-empresa-para-operar-trafego-nas-rodovias-br-324-e-br-116-valor-do-contrato-e-de-r-81-milhoes/",
-      "fonte": "- Bahia Economica",
-      "data": "2026-08-18T20:13:07.878666-03:00",
-      "resumo": "O Departamento Nacional de Infraestrutura de Transportes (Dnit) concluiu, nesta terça-feira (18), o processo licitatório para a contratação...",
-      "hoje": true
-    },
-    {
-      "titulo": "Dnit identifica causa de afundamento e define recuperação de trecho da BR-324",
-      "link": "https://www.jornalfolhadoestado.com/municipios/dnit-identifica-causa-de-afundamento-e-define-recuperacao-de-trecho-da-br-324/",
-      "fonte": "Folha do Estado da Bahia",
-      "data": "2026-08-18T17:13:07.878750-03:00",
-      "resumo": "O Departamento Nacional de Infraestrutura de Transportes (Dnit) identificou a origem dos afundamentos registrados no km 604 da BR-324,...",
-      "hoje": true
-    },
-    {
-      "titulo": "ACM Neto e Zé Ronaldo criticam condições da BR-324 durante viagem a Feira de Santana",
-      "link": "https://muitainformacao.com.br/sem-categoria/acm-neto-e-ze-ronaldo-criticam-condicoes-da-br-324-durante-viagem-a-feira-de-santana/",
-      "fonte": "Muita Informação",
-      "data": "2026-08-18T11:13:07.878712-03:00",
-      "resumo": "Candidato ao governo da Bahia e prefeito feirense relatam transtornos no trânsito provocados por cratera na rodovia Candidato ao governo da...",
-      "hoje": true
-    },
-    {
-      "titulo": "ACM Neto critica BR-324 após pegar congestionamento e culpa “Buraco do Jero”",
-      "link": "https://acessepolitica.com.br/noticia/180121/acm-neto-critica-br-324-apos-pegar-congestionamento-e-culpa-lburaco-do-jeror",
-      "fonte": "Acesse Política",
-      "data": "2026-08-18T10:13:07.878722-03:00",
-      "resumo": "Candidato ao governo da Bahia relata demora no trajeto entre Salvador e Feira de Santana e volta a cobrar solução na rodovia.",
-      "hoje": true
-    },
-    {
-      "titulo": "'Buraco do Jero': Zé Ronaldo aponta transtornos causados por cratera na BR-324",
-      "link": "https://www.correio24horas.com.br/eleicoes/buraco-do-jero-ze-ronaldo-aponta-transtornos-causados-por-cratera-na-br-324-0826",
-      "fonte": "Jornal Correio",
-      "data": "2026-08-18T09:13:07.878740-03:00",
-      "resumo": "O prefeito de Feira de Santana criticou a situação da cratera na BR-324 após o candidato ao Governo ACM Neto (União Brasil) enfrentar...",
-      "hoje": true
-    },
-    {
-      "titulo": "Carreta quebrada deixa BR-324 engarrafada",
-      "link": "https://www.portalsalvadorfm.com.br/transito/carreta-quebrada-deixa-br-324-engarrafada/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-08-18T08:13:07.878703-03:00",
-      "resumo": "A BR-324 ficou com um longo engarrafamento nas primeiras horas da manhã desta terça-feira (18), nas proximidade de Bom Juá, sentido Salvador...",
-      "hoje": true
-    },
-    {
-      "titulo": "“É muito buraco na pista”: ACM Neto relata caos na BR-324 durante viagem a Feira de Santana",
-      "link": "https://classepolitica.com.br/noticia/e-muito-buraco-na-pista-acm-neto-relata-caos-na-br-324-durante-viagem-a-feira-de-santana",
-      "fonte": "Classe Politica",
-      "data": "2026-08-18T08:13:07.878680-03:00",
-      "resumo": "O candidato a governador da Bahia ACM Neto (União Brasil) voltou a criticar o estado de conservação da BR-324, principal ligação de Salvador...",
-      "hoje": true
-    },
-    {
-      "titulo": "Zé Ronaldo critica congestionamento na BR-324 durante evento de ACM Neto em Feira de Santana",
-      "link": "https://www.deolhonacidade.net/ze-ronaldo-critica-congestionamento-na-br-324-durante-evento-de-acm-neto-em-feira-de-santana",
-      "fonte": "deolhonacidade.net",
-      "data": "2026-08-18T06:13:07.878732-03:00",
-      "resumo": "Prefeito de Feira de Santana relatou dificuldades para chegar ao município e voltou a cobrar melhorias na principal ligação rodoviária entre...",
-      "hoje": true
-    },
-    {
-      "titulo": "“Buraco do Jero”: ACM Neto relata congestionamento na BR-324 e critica Jerônimo durante agenda política com José Ronaldo em Feira de Santana",
-      "link": "https://jornalgrandebahia.com.br/2026/08/buraco-do-jero-acm-neto-relata-congestionamento-na-br-324-e-critica-jeronimo-durante-agenda-politica-com-jose-ronaldo-em-feira-de-santana/",
-      "fonte": "Jornal Grande Bahia",
-      "data": "2026-08-18T06:13:07.878693-03:00",
-      "resumo": "Em viagem de Salvador a Feira de Santana, ACM Neto relata congestionamento na BR-324 e volta a cobrar solução para a cratera existente em...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-08-19T00:23:07.666896-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
     "totalObras": 0,
-    "totalCongestionamento": 1,
+    "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
