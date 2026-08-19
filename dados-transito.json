@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-19T12:34:35.409669-03:00",
+  "ultimaAtualizacao": "2026-08-19T13:20:29.918074-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "Dnit contrata consórcio por R$ 81,5 milhões para operar tráfego nas BRs-324 e 116 na Bahia",
+      "link": "https://www.metro1.com.br/noticias/bahia/187010,dnit-contrata-consorcio-por-rdollar-815-milhoes-para-operar-trafego-nas-brs-324-e-116-na-bahia",
+      "fonte": "Rádio Metrópole",
+      "data": "2026-08-19T12:49:34.663902-03:00",
+      "resumo": "Contrato prevê atendimento a acidentes, panes, incêndios e outras ocorrências nos trechos entre Salvador, Feira de Santana e a divisa com...",
+      "hoje": true
+    },
+    {
       "titulo": "Água em aterro causa cratera na BR-324, revela DNIT",
       "link": "https://correiodopovopenedo.com.br/noticia/2026/08/19/agua-em-aterro-causa-cratera-na-br-324-revela-dnit",
       "fonte": "Correio do Povo Penedo",
-      "data": "2026-08-19T03:34:47.012112-03:00",
+      "data": "2026-08-19T03:20:34.663939-03:00",
       "resumo": "O Departamento Nacional de Infraestrutura de Transportes (DNIT) concluiu que a circulação de água no interior de um aterro provocou os...",
       "hoje": true
     }
