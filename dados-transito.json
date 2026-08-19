@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-19T13:53:41.131157-03:00",
+  "ultimaAtualizacao": "2026-08-19T14:18:31.151103-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,15 +25,23 @@
       "titulo": "Dnit contrata consórcio por R$ 81,5 milhões para operar tráfego nas BRs-324 e 116 na Bahia",
       "link": "https://www.metro1.com.br/noticias/bahia/187010,dnit-contrata-consorcio-por-rdollar-815-milhoes-para-operar-trafego-nas-brs-324-e-116-na-bahia",
       "fonte": "Rádio Metrópole",
-      "data": "2026-08-19T12:53:43.739826-03:00",
+      "data": "2026-08-19T13:18:39.393890-03:00",
       "resumo": "Contrato prevê atendimento a acidentes, panes, incêndios e outras ocorrências nos trechos entre Salvador, Feira de Santana e a divisa com...",
+      "hoje": true
+    },
+    {
+      "titulo": "Dnit identifica causa de afundamento na BR-324",
+      "link": "https://sociedadeonline.com/dnit-identifica-causa-de-afundamento-na-br-324",
+      "fonte": "Sociedade ON",
+      "data": "2026-08-19T11:18:39.393904-03:00",
+      "resumo": "Acompanhe as últimas notícias de Salvador, Bahia e do Brasil. Ouça a Rádio Sociedade ao vivo, debates, podcasts, esportes e muito mais.",
       "hoje": true
     },
     {
       "titulo": "Água em aterro causa cratera na BR-324, revela DNIT",
       "link": "https://correiodopovopenedo.com.br/noticia/2026/08/19/agua-em-aterro-causa-cratera-na-br-324-revela-dnit",
       "fonte": "Correio do Povo Penedo",
-      "data": "2026-08-19T02:53:43.739863-03:00",
+      "data": "2026-08-19T03:18:39.393953-03:00",
       "resumo": "O Departamento Nacional de Infraestrutura de Transportes (DNIT) concluiu que a circulação de água no interior de um aterro provocou os...",
       "hoje": true
     }
