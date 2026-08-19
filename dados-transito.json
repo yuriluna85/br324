@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-19T16:46:59.438345-03:00",
+  "ultimaAtualizacao": "2026-08-19T17:16:46.662781-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "BR-324 e BR-116 terão operação especial de tráfego com contrato de R$ 81,5 milhões",
+      "link": "https://www.deolhonacidade.net/br-324-e-br-116-terao-operacao-especial-de-trafego-com-contrato-de-r-81-5-milhoes",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-08-19T17:08:54.326980-03:00",
+      "resumo": "Contrato prevê atendimento a acidentes, remoção de veículos, suporte médico e monitoramento de 676 quilômetros de rodovias até 2027.",
+      "hoje": true
+    },
+    {
       "titulo": "Dnit contrata consórcio por R$ 81,5 milhões para operar tráfego nas BRs-324 e 116 na Bahia",
       "link": "https://www.metro1.com.br/noticias/bahia/187010,dnit-contrata-consorcio-por-rdollar-815-milhoes-para-operar-trafego-nas-brs-324-e-116-na-bahia",
       "fonte": "Rádio Metrópole",
-      "data": "2026-08-19T12:47:07.415312-03:00",
+      "data": "2026-08-19T13:16:54.326988-03:00",
       "resumo": "Contrato prevê atendimento a acidentes, panes, incêndios e outras ocorrências nos trechos entre Salvador, Feira de Santana e a divisa com...",
       "hoje": true
     },
@@ -33,7 +41,7 @@
       "titulo": "Dnit identifica causa de afundamento na BR-324",
       "link": "https://sociedadeonline.com/dnit-identifica-causa-de-afundamento-na-br-324",
       "fonte": "Sociedade ON",
-      "data": "2026-08-19T10:47:07.415323-03:00",
+      "data": "2026-08-19T11:16:54.326998-03:00",
       "resumo": "Acompanhe as últimas notícias de Salvador, Bahia e do Brasil. Ouça a Rádio Sociedade ao vivo, debates, podcasts, esportes e muito mais.",
       "hoje": true
     }
