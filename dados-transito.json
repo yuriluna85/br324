@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-08-19T23:11:21.250808-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-08-20T00:22:39.059086-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,39 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "BR-324 e BR-116 terão operação especial de tráfego com contrato de R$ 81,5 milhões",
-      "link": "https://www.deolhonacidade.net/br-324-e-br-116-terao-operacao-especial-de-trafego-com-contrato-de-r-81-5-milhoes",
-      "fonte": "deolhonacidade.net",
-      "data": "2026-08-19T17:11:30.400903-03:00",
-      "resumo": "Contrato prevê atendimento a acidentes, remoção de veículos, suporte médico e monitoramento de 676 quilômetros de rodovias até 2027.",
-      "hoje": true
-    },
-    {
-      "titulo": "Dnit identifica causa de afundamento na BR-324",
-      "link": "https://sociedadeonline.com/dnit-identifica-causa-de-afundamento-na-br-324",
-      "fonte": "Sociedade ON",
-      "data": "2026-08-19T11:11:30.400970-03:00",
-      "resumo": "Acompanhe as últimas notícias de Salvador, Bahia e do Brasil. Ouça a Rádio Sociedade ao vivo, debates, podcasts, esportes e muito mais.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 e BR-116 têm trechos interditados após acidentes na Bahia; saiba onde",
-      "link": "https://www.correio24horas.com.br/minha-bahia/br-324-e-br-116-tem-trechos-interditados-apos-acidentes-na-bahia-saiba-onde-0826",
-      "fonte": "Jornal Correio",
-      "data": "2026-08-19T07:11:30.400755-03:00",
-      "resumo": "Colisão entre carretas provocou derramamento de soja em Candeias; em Quijingue, uma carreta tombou.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-08-20T00:22:39.059086-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
