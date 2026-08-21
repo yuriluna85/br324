@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-08-20T23:18:36.206765-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-08-21T00:27:31.662812-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,23 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Obras do VLT Salvador na BR-324 alteram trânsito noturno até setembro",
-      "link": "https://www.portalsalvadorfm.com.br/salvador/obras-do-vlt-salvador-provocam-desvios-noturnos-na-br-324/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-08-20T08:18:41.373749-03:00",
-      "resumo": "Obras do VLT Salvador na BR-324 causam desvios noturnos no trânsito até 1º de setembro. Motoristas devem ficar atentos.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-08-21T00:27:31.662812-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 1,
+    "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
