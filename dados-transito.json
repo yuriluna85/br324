@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-21T18:14:40.526734-03:00",
+  "ultimaAtualizacao": "2026-08-21T18:45:31.746393-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-08-21T00:27:31.662812-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Caminhão bate em guard rail e interdita BR-324 em Conceição do Jacuípe",
+      "link": "https://www.portalsalvadorfm.com.br/bahia/caminhao-bate-em-guard-rail-e-interdita-br-324-em-conceicao-do-jacuipe/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-08-21T09:45:35.245242-03:00",
+      "resumo": "Um caminhão bateu em um guard rail e deixou a BR-324 interditada nas imediações de Conceição do Jacuípe. O caso aconteceu na manhã dest.",
+      "hoje": true
     }
   ],
   "metricas": {
