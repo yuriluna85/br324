@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-08-26T17:23:34.664201-03:00",
+  "ultimaAtualizacao": "2026-08-26T20:52:37.129285-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,34 @@
   ],
   "noticias": [
     {
+      "titulo": "Engavetamento entre ônibus da Cidade Sol, carreta e cinco carros bloqueia trecho da BR-324, em Feira de Santana (BA), nesta quarta-feira (26)",
+      "link": "https://diariodotransporte.com.br/2026/08/26/engavetamento-entre-onibus-da-cidade-sol-carreta-e-cinco-carros-bloqueia-trecho-da-br-324-em-feira-de-santana-ba-nesta-quarta-feira-26/",
+      "fonte": "Diário do Transporte",
+      "data": "2026-08-26T20:02:45.211124-03:00",
+      "resumo": "",
+      "hoje": true
+    },
+    {
+      "titulo": "Cinco carros, um ônibus e uma carreta colidem na BR-324",
+      "link": "https://www.correio24horas.com.br/bahia/cinco-carros-um-onibus-e-uma-carreta-colidem-na-br-324-0826",
+      "fonte": "Jornal Correio",
+      "data": "2026-08-26T19:52:45.211114-03:00",
+      "resumo": "",
+      "hoje": true
+    },
+    {
+      "titulo": "Engavetamento com carreta, cinco carros e ônibus interdita BR-324 em Feira de Santana",
+      "link": "https://www.metro1.com.br/noticias/bahia/187383,engavetamento-com-carreta-cinco-carros-e-onibus-interdita-br-324-em-feira-de-santana",
+      "fonte": "Rádio Metrópole",
+      "data": "2026-08-26T19:52:45.210973-03:00",
+      "resumo": "",
+      "hoje": true
+    },
+    {
       "titulo": "ACM Neto critica situação da BR-324 e chama rodovia de “símbolo da falta de liderança” do governo",
       "link": "https://classepolitica.com.br/noticia/acm-neto-critica-situacao-da-br-324-e-chama-rodovia-de-simbolo-da-falta-de-lideranca-do-governo",
       "fonte": "Classe Politica",
-      "data": "2026-08-26T15:23:39.085635-03:00",
+      "data": "2026-08-26T14:52:45.211132-03:00",
       "resumo": "",
       "hoje": true
     },
@@ -33,7 +57,7 @@
       "titulo": "Mulher fica presa às ferragens em acidente grave na BR-324, na Bahia",
       "link": "https://www.portalsalvadorfm.com.br/bahia/mulher-fica-presa-as-ferragens-apos-carro-ser-atingido-por-carreta-na-br-324/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-08-26T09:23:39.085785-03:00",
+      "data": "2026-08-26T09:52:45.211147-03:00",
       "resumo": "",
       "hoje": true
     }
