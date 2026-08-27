@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-08-26T20:52:37.129285-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-08-27T02:55:43.650826-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,55 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Engavetamento entre ônibus da Cidade Sol, carreta e cinco carros bloqueia trecho da BR-324, em Feira de Santana (BA), nesta quarta-feira (26)",
-      "link": "https://diariodotransporte.com.br/2026/08/26/engavetamento-entre-onibus-da-cidade-sol-carreta-e-cinco-carros-bloqueia-trecho-da-br-324-em-feira-de-santana-ba-nesta-quarta-feira-26/",
-      "fonte": "Diário do Transporte",
-      "data": "2026-08-26T20:02:45.211124-03:00",
-      "resumo": "",
-      "hoje": true
-    },
-    {
-      "titulo": "Cinco carros, um ônibus e uma carreta colidem na BR-324",
-      "link": "https://www.correio24horas.com.br/bahia/cinco-carros-um-onibus-e-uma-carreta-colidem-na-br-324-0826",
-      "fonte": "Jornal Correio",
-      "data": "2026-08-26T19:52:45.211114-03:00",
-      "resumo": "",
-      "hoje": true
-    },
-    {
-      "titulo": "Engavetamento com carreta, cinco carros e ônibus interdita BR-324 em Feira de Santana",
-      "link": "https://www.metro1.com.br/noticias/bahia/187383,engavetamento-com-carreta-cinco-carros-e-onibus-interdita-br-324-em-feira-de-santana",
-      "fonte": "Rádio Metrópole",
-      "data": "2026-08-26T19:52:45.210973-03:00",
-      "resumo": "",
-      "hoje": true
-    },
-    {
-      "titulo": "ACM Neto critica situação da BR-324 e chama rodovia de “símbolo da falta de liderança” do governo",
-      "link": "https://classepolitica.com.br/noticia/acm-neto-critica-situacao-da-br-324-e-chama-rodovia-de-simbolo-da-falta-de-lideranca-do-governo",
-      "fonte": "Classe Politica",
-      "data": "2026-08-26T14:52:45.211132-03:00",
-      "resumo": "",
-      "hoje": true
-    },
-    {
-      "titulo": "Mulher fica presa às ferragens em acidente grave na BR-324, na Bahia",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/mulher-fica-presa-as-ferragens-apos-carro-ser-atingido-por-carreta-na-br-324/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-08-26T09:52:45.211147-03:00",
-      "resumo": "",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-08-27T02:55:43.650826-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
