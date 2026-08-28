@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-27T14:11:13.731222-03:00",
+  "ultimaAtualizacao": "2026-08-27T22:34:32.964537-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,10 @@
   ],
   "noticias": [
     {
-      "titulo": "Feira de Santana: Engavetamento com bitrem destrói carros e congestiona BR-324",
-      "link": "https://www.bahianoticias.com.br/amp/municipios/noticia/52273-feira-de-santana-engavetamento-com-bitrem-destroi-carros-e-congestiona-br-324",
-      "fonte": "Bahia Notícias",
-      "data": "2026-08-27T12:11:17.516419-03:00",
+      "titulo": "Engavetamento com carreta, cinco carros e ônibus interdita BR-324 em Feira de Santana",
+      "link": "https://www.jornalfolhadoestado.com/municipios/engavetamento-com-carreta-cinco-carros-e-onibus-interdita-br-324-em-feira-de-santana/",
+      "fonte": "Folha do Estado da Bahia",
+      "data": "2026-08-27T06:34:37.637308-03:00",
       "resumo": "",
       "hoje": true
     }
