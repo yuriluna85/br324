@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-27T22:34:32.964537-03:00",
+  "ultimaAtualizacao": "2026-08-28T10:35:30.318104-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,12 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "Engavetamento com carreta, cinco carros e ônibus interdita BR-324 em Feira de Santana",
-      "link": "https://www.jornalfolhadoestado.com/municipios/engavetamento-com-carreta-cinco-carros-e-onibus-interdita-br-324-em-feira-de-santana/",
-      "fonte": "Folha do Estado da Bahia",
-      "data": "2026-08-27T06:34:37.637308-03:00",
-      "resumo": "",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-08-28T10:35:30.318104-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
