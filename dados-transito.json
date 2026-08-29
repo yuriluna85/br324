@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-29T08:14:52.666051-03:00",
+  "ultimaAtualizacao": "2026-08-29T12:42:16.579873-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,20 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-08-29T01:14:08.455722-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Caminhão tomba na BR-324 em Feira de Santana",
+      "link": "https://sociedadeonline.com/caminhao-tomba-na-br-324-em-feira-de-santana",
+      "fonte": "Sociedade ON",
+      "data": "2026-08-29T10:42:24.238198-03:00",
+      "resumo": "",
+      "hoje": true
+    },
+    {
+      "titulo": "Caminhão tomba na BR-324 e deixa faixa de pista interditada em Feira de Santana",
+      "link": "https://www.correio24horas.com.br/bahia/caminhao-tomba-na-br-324-e-deixa-faixa-de-pista-interditada-em-feira-de-santana-0826",
+      "fonte": "Jornal Correio",
+      "data": "2026-08-29T09:42:24.238031-03:00",
+      "resumo": "",
+      "hoje": true
     }
   ],
   "metricas": {
