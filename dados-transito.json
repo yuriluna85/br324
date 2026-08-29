@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-29T16:01:07.704004-03:00",
+  "ultimaAtualizacao": "2026-08-29T18:50:21.348339-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,7 +25,7 @@
       "titulo": "Caminhão tomba e deixa trecho da BR-324 parcialmente interditado",
       "link": "https://atarde.com.br/bahia/caminhao-tomba-e-deixa-trecho-da-br-324-parcialmente-interditado-1400158",
       "fonte": "A TARDE",
-      "data": "2026-08-29T12:01:11.446703-03:00",
+      "data": "2026-08-29T11:50:30.720384-03:00",
       "resumo": "",
       "hoje": true
     },
@@ -33,7 +33,7 @@
       "titulo": "Caminhão tomba na BR-324 em Feira de Santana",
       "link": "https://sociedadeonline.com/caminhao-tomba-na-br-324-em-feira-de-santana",
       "fonte": "Sociedade ON",
-      "data": "2026-08-29T10:01:11.446713-03:00",
+      "data": "2026-08-29T09:50:30.720392-03:00",
       "resumo": "",
       "hoje": true
     },
@@ -41,7 +41,7 @@
       "titulo": "Caminhão tomba na BR-324 e deixa faixa de pista interditada em Feira de Santana",
       "link": "https://www.correio24horas.com.br/bahia/caminhao-tomba-na-br-324-e-deixa-faixa-de-pista-interditada-em-feira-de-santana-0826",
       "fonte": "Jornal Correio",
-      "data": "2026-08-29T10:01:11.446540-03:00",
+      "data": "2026-08-29T09:50:30.720375-03:00",
       "resumo": "",
       "hoje": true
     }
