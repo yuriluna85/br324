@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-31T14:08:09.576859-03:00",
+  "ultimaAtualizacao": "2026-08-31T18:57:19.214519-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-08-31T06:05:56.791073-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Colbert defende prioridade para aeroporto e solução da BR-324",
+      "link": "https://bahianapolitica.com.br/colbert-defende-prioridade-para-aeroporto-e-solucao-da-br-324/",
+      "fonte": "Bahia Na Política",
+      "data": "2026-08-31T11:57:25.010733-03:00",
+      "resumo": "",
+      "hoje": true
     }
   ],
   "metricas": {
