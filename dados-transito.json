@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-08-31T21:58:23.505033-03:00",
+  "ultimaAtualizacao": "2026-09-01T03:03:03.387437-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,20 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "Feira de Santana vai ganhar novo shopping outlet às margens BR-324",
-      "link": "https://glomes.com.br/feira-de-santana-vai-ganhar-novo-shopping-outlet-as-margens-br-324/",
-      "fonte": "glomes.com.br",
-      "data": "2026-08-31T16:58:28.192728-03:00",
-      "resumo": "",
-      "hoje": true
-    },
-    {
-      "titulo": "Colbert defende prioridade para aeroporto e solução da BR-324",
-      "link": "https://bahianapolitica.com.br/colbert-defende-prioridade-para-aeroporto-e-solucao-da-br-324/",
-      "fonte": "Bahia Na Política",
-      "data": "2026-08-31T11:58:28.192894-03:00",
-      "resumo": "",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-09-01T03:03:03.387437-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
