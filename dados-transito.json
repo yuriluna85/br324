@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-02T04:11:48.205911-03:00",
+  "ultimaAtualizacao": "2026-09-02T09:10:47.922631-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-09-02T04:11:48.205911-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Feira de Santana vai ganhar novo shopping outlet às margens BR-324",
+      "link": "https://www.jornalfolhadoestado.com/feira-de-santana/feira-de-santana-vai-ganhar-novo-shopping-outlet-as-margens-br-324/",
+      "fonte": "Folha do Estado da Bahia",
+      "data": "2026-09-02T01:10:54.944331-03:00",
+      "resumo": "",
+      "hoje": true
     }
   ],
   "metricas": {
