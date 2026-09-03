@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-02T19:11:04.932819-03:00",
+  "ultimaAtualizacao": "2026-09-02T21:24:20.912611-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,10 @@
   ],
   "noticias": [
     {
-      "titulo": "Feira de Santana vai ganhar novo shopping outlet às margens BR-324",
-      "link": "https://www.jornalfolhadoestado.com/feira-de-santana/feira-de-santana-vai-ganhar-novo-shopping-outlet-as-margens-br-324/",
-      "fonte": "Folha do Estado da Bahia",
-      "data": "2026-09-02T01:10:54.944331-03:00",
+      "titulo": "Carro capota na BR-324 no sentido Feira de Santana",
+      "link": "https://www.portalsalvadorfm.com.br/transito/carro-capota-na-br-324-no-sentido-feira-de-santana-2/",
+      "fonte": "portalsalvadorfm.com.br",
+      "data": "2026-09-02T20:24:24.113704-03:00",
       "resumo": "",
       "hoje": true
     }
