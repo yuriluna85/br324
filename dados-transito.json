@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-02T21:24:20.912611-03:00",
+  "ultimaAtualizacao": "2026-09-03T01:47:49.536871-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,12 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "Carro capota na BR-324 no sentido Feira de Santana",
-      "link": "https://www.portalsalvadorfm.com.br/transito/carro-capota-na-br-324-no-sentido-feira-de-santana-2/",
-      "fonte": "portalsalvadorfm.com.br",
-      "data": "2026-09-02T20:24:24.113704-03:00",
-      "resumo": "",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-09-03T01:47:49.536871-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
