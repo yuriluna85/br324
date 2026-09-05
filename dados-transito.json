@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-09-05T17:36:20.563585-03:00",
+  "ultimaAtualizacao": "2026-09-05T19:29:55.400411-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,7 +25,7 @@
       "titulo": "BR-324 e BR-116 terão nova concessão na Bahia com R$ 14,3 bilhões em investimentos",
       "link": "https://muitainformacao.com.br/cidades/br-324-e-br-116-terao-nova-concessao-na-bahia-com-r-143-bilhoes-em-investimentos/",
       "fonte": "Muita Informação",
-      "data": "2026-09-05T10:36:25.700072-03:00",
+      "data": "2026-09-05T10:29:57.105471-03:00",
       "resumo": "A Agência Nacional de Transportes Terrestres (ANTT) aprovou, nesta última quinta-feira (3), o edital da Rota 2 de Julho,...",
       "hoje": true
     },
@@ -33,7 +33,7 @@
       "titulo": "Rodovia da Bahia terá mais de 40 obras e novos pedágios em 8 anos, diz projeto",
       "link": "https://www.bra1.com.br/economia/id-689099/rodovia_da_bahia_tera_mais_de_40_obras_e_novos_pedagios_em_8_anos__diz_projeto",
       "fonte": "bra1.com.br",
-      "data": "2026-09-05T09:36:25.700094-03:00",
+      "data": "2026-09-05T09:29:57.105482-03:00",
       "resumo": "Governo prevê R 14 bilhões em investimentos para duplicar e triplicar faixas das BR-116 e BR-324, com foco na segurança e fluidez do ...",
       "hoje": true
     },
@@ -41,7 +41,7 @@
       "titulo": "BR-324 tem fluxo intenso e congestionamento no sentido Feira de Santana",
       "link": "https://www.portalsalvadorfm.com.br/bahia/br-324-tem-fluxo-intenso-e-congestionamento-no-sentido-feira-de-santana/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-09-05T09:36:25.700058-03:00",
+      "data": "2026-09-05T09:29:57.105457-03:00",
       "resumo": "Motoristas que seguem pela BR-324, no sentido Feira de Santana, enfrentam trânsito intenso na manhã deste sábado (5)",
       "hoje": true
     },
@@ -49,8 +49,16 @@
       "titulo": "CONCESSÃO DAS RODOVIAS BR-116 E BR-324 GARANTEM INVESTIMENTOS DE R$ 14,33 BI EM OBRAS",
       "link": "https://bahiaeconomica.com.br/wp/2026/09/05/concessao-das-rodovias-br-116-e-br-324-garantem-investimentos-de-r-1433-bi-em-obras/",
       "fonte": "- Bahia Economica",
-      "data": "2026-09-05T09:36:25.699972-03:00",
+      "data": "2026-09-05T09:29:57.105306-03:00",
       "resumo": "O maior portal de Economia da Bahia BAHIA INVEST, DESTAQUE DO DIA, ECONOMIA / POLÍTICA Bahia Economica Com a previsão de requalificações,...",
+      "hoje": true
+    },
+    {
+      "titulo": "“Rota 2 de Julho”: Nova concessão das BRs 116 e 324 promete mais de 450 obras em até 8° ano de operação",
+      "link": "https://www.bahianoticias.com.br/amp/municipios/noticia/52414-rota-2-de-julho-nova-concessao-das-brs-116-e-324-promete-mais-de-450-obras-em-ate-8-ano-de-operacao",
+      "fonte": "Bahia Notícias",
+      "data": "2026-09-05T00:29:57.105502-03:00",
+      "resumo": "O edital da Rota 2 de Julho, projeto que prevê a concessão de 653,3 quilômetros das rodovias BR-116 e BR-324, na Bahia, conta com a previsão...",
       "hoje": true
     }
   ],
