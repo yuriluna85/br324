@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-06T09:59:28.814665-03:00",
+  "ultimaAtualizacao": "2026-09-06T13:01:57.261466-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-09-06T01:54:14.235993-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Feira de Santana ganhará um novo centro de #compras com proposta que combina varejo de oportunidade, gastronomia, entretenimento e espaços de convivência. O Outlet Feira Premium, atualmente em fase de implantação, será apresentado oficialmente",
+      "link": "https://www.instagram.com/p/Dc8yr5aFZMr/",
+      "fonte": "Instagram",
+      "data": "2026-09-06T12:02:01.163113-03:00",
+      "resumo": "há 1 hora",
+      "hoje": true
     }
   ],
   "metricas": {
