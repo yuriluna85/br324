@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-09-05T21:08:49.264456-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-09-06T01:54:14.235993-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,71 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "RADIO LIDER FM 96,5",
-      "link": "https://www.liderfm965.com.br/noticiaatual/ba_caminhao-tomba-derrama-carga-e-provoca-engavetamento-entre-varios-veiculos-na-br324",
-      "fonte": "liderfm965.com.br",
-      "data": "2026-09-05T20:15:52.858025-03:00",
-      "resumo": "Caminhão tomba e provoca engavetamento na BR-324. Um caminhão tombou e derramou parte da carga na BR-324, em Amélia Rodrigues,...",
-      "hoje": true
-    },
-    {
-      "titulo": "Caminhão tomba, derrama carga e provoca engavetamento entre vários veículos na BR-324",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/05/acidente-na-324.ghtml",
-      "fonte": "G1",
-      "data": "2026-09-05T19:08:52.857819-03:00",
-      "resumo": "Acidente aconteceu no trecho de Amélia Rodrigues, no sentido Salvador, no fim da tarde deste sábado (5). Segundo a PRF, houve vítimas leves.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 e BR-116 terão nova concessão na Bahia com R$ 14,3 bilhões em investimentos",
-      "link": "https://muitainformacao.com.br/cidades/br-324-e-br-116-terao-nova-concessao-na-bahia-com-r-143-bilhoes-em-investimentos/",
-      "fonte": "Muita Informação",
-      "data": "2026-09-05T11:08:52.858007-03:00",
-      "resumo": "A Agência Nacional de Transportes Terrestres (ANTT) aprovou, nesta última quinta-feira (3), o edital da Rota 2 de Julho,...",
-      "hoje": true
-    },
-    {
-      "titulo": "Rodovia da Bahia terá mais de 40 obras e novos pedágios em 8 anos, diz projeto",
-      "link": "https://www.bra1.com.br/economia/id-689099/rodovia_da_bahia_tera_mais_de_40_obras_e_novos_pedagios_em_8_anos__diz_projeto",
-      "fonte": "bra1.com.br",
-      "data": "2026-09-05T09:08:52.858016-03:00",
-      "resumo": "Governo prevê R 14 bilhões em investimentos para duplicar e triplicar faixas das BR-116 e BR-324, com foco na segurança e fluidez do ...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 tem fluxo intenso e congestionamento no sentido Feira de Santana",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/br-324-tem-fluxo-intenso-e-congestionamento-no-sentido-feira-de-santana/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-09-05T09:08:52.857997-03:00",
-      "resumo": "Motoristas que seguem pela BR-324, no sentido Feira de Santana, enfrentam trânsito intenso na manhã deste sábado (5)",
-      "hoje": true
-    },
-    {
-      "titulo": "CONCESSÃO DAS RODOVIAS BR-116 E BR-324 GARANTEM INVESTIMENTOS DE R$ 14,33 BI EM OBRAS",
-      "link": "https://bahiaeconomica.com.br/wp/2026/09/05/concessao-das-rodovias-br-116-e-br-324-garantem-investimentos-de-r-1433-bi-em-obras/",
-      "fonte": "- Bahia Economica",
-      "data": "2026-09-05T09:08:52.857982-03:00",
-      "resumo": "O maior portal de Economia da Bahia BAHIA INVEST, DESTAQUE DO DIA, ECONOMIA / POLÍTICA Bahia Economica Com a previsão de requalificações,...",
-      "hoje": true
-    },
-    {
-      "titulo": "“Rota 2 de Julho”: Nova concessão das BRs 116 e 324 promete mais de 450 obras em até 8° ano de operação",
-      "link": "https://www.bahianoticias.com.br/amp/municipios/noticia/52414-rota-2-de-julho-nova-concessao-das-brs-116-e-324-promete-mais-de-450-obras-em-ate-8-ano-de-operacao",
-      "fonte": "Bahia Notícias",
-      "data": "2026-09-05T00:08:52.858033-03:00",
-      "resumo": "O edital da Rota 2 de Julho, projeto que prevê a concessão de 653,3 quilômetros das rodovias BR-116 e BR-324, na Bahia, conta com a previsão...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-09-06T01:54:14.235993-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 1,
+    "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
