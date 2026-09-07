@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-07T13:12:53.243115-03:00",
+  "ultimaAtualizacao": "2026-09-07T17:03:21.140287-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "Feira de Santana ganhará um novo centro de #compras com proposta que combina varejo de oportunidade, gastronomia, entretenimento e espaços de convivência. O Outlet Feira Premium, atualmente em fase de implantação, será apresentado oficialmente",
-      "link": "https://www.instagram.com/p/Dc8yr5aFZMr/",
-      "fonte": "Instagram",
-      "data": "2026-09-07T00:12:55.319987-03:00",
-      "resumo": "há 13 horas",
+      "titulo": "BR-324 é parcialmente interditada após tombamento em Amélia Rodrigues",
+      "link": "https://www.jornalfolhadoestado.com/municipios/br-324-e-parcialmente-interditada-apos-tombamento-em-amelia-rodrigues/",
+      "fonte": "Folha do Estado da Bahia",
+      "data": "2026-09-07T12:03:23.636079-03:00",
+      "resumo": "Acidente ocorreu na manhã desta segunda-feira (7) e provocou derramamento de carga na pista.",
       "hoje": true
     }
   ],
