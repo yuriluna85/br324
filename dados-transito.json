@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-07T17:03:21.140287-03:00",
+  "ultimaAtualizacao": "2026-09-07T19:54:44.364225-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,26 @@
   ],
   "noticias": [
     {
+      "titulo": "Leilão para concessão da BR-324 e BR-116 tem data definida; saiba detalhes",
+      "link": "https://glomes.com.br/leilao-para-concessao-da-br-324-e-br-116-tem-data-definida-saiba-detalhes/",
+      "fonte": "Grupo Lomes de Comunicação",
+      "data": "2026-09-07T19:37:47.434336-03:00",
+      "resumo": "o edital da Rota 2 de Julho, que prevê a concessão de 653,3 quilômetros das rodovias BR-116 e BR-324, na Bahia.",
+      "hoje": true
+    },
+    {
+      "titulo": "O tombamento de um caminhão causa derramamento de carga e interdita a BR-324, próximo a Amélia Rodrigues, no centro-norte da Bahia. O incidente ocorreu na manhã desta segunda-feira (7) e causou um grande engarrafamento para quem segue em dir",
+      "link": "https://www.instagram.com/reel/Dc_j9uxDvy7/",
+      "fonte": "Instagram",
+      "data": "2026-09-07T19:34:47.434163-03:00",
+      "resumo": "há 20 minutos",
+      "hoje": true
+    },
+    {
       "titulo": "BR-324 é parcialmente interditada após tombamento em Amélia Rodrigues",
       "link": "https://www.jornalfolhadoestado.com/municipios/br-324-e-parcialmente-interditada-apos-tombamento-em-amelia-rodrigues/",
       "fonte": "Folha do Estado da Bahia",
-      "data": "2026-09-07T12:03:23.636079-03:00",
+      "data": "2026-09-07T11:54:47.434324-03:00",
       "resumo": "Acidente ocorreu na manhã desta segunda-feira (7) e provocou derramamento de carga na pista.",
       "hoje": true
     }
