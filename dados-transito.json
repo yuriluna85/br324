@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-07T19:54:44.364225-03:00",
+  "ultimaAtualizacao": "2026-09-07T21:49:17.943574-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -23,25 +23,33 @@
   "noticias": [
     {
       "titulo": "Leilão para concessão da BR-324 e BR-116 tem data definida; saiba detalhes",
-      "link": "https://glomes.com.br/leilao-para-concessao-da-br-324-e-br-116-tem-data-definida-saiba-detalhes/",
-      "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-09-07T19:37:47.434336-03:00",
-      "resumo": "o edital da Rota 2 de Julho, que prevê a concessão de 653,3 quilômetros das rodovias BR-116 e BR-324, na Bahia.",
+      "link": "https://www.jornalfolhadoestado.com/municipios/leilao-para-concessao-da-br-324-e-br-116-tem-data-definida-saiba-detalhes/",
+      "fonte": "Folha do Estado da Bahia",
+      "data": "2026-09-07T21:43:22.059900-03:00",
+      "resumo": "A Agência Nacional de Transportes Terrestres (ANTT) aprovou, na quinta-feira (3), durante a 102ª Reunião Extraordinária de Diretoria,...",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324 tem longo engarrafamento no retorno do feriadão e viagem até Salvador chega a 2h40",
+      "link": "https://mundoba.com.br/bahia/br-324-tem-longo-engarrafamento-no-retorno-do-feriadao-e-viagem-ate-salvador-chega-a-2h40/",
+      "fonte": "MundoBA",
+      "data": "2026-09-07T19:49:22.059888-03:00",
+      "resumo": "A volta para Salvador pela BR-324 nesta segunda-feira (7) após o feriado prolongado está marcada por um longo engarrafamento ao longo da...",
       "hoje": true
     },
     {
       "titulo": "O tombamento de um caminhão causa derramamento de carga e interdita a BR-324, próximo a Amélia Rodrigues, no centro-norte da Bahia. O incidente ocorreu na manhã desta segunda-feira (7) e causou um grande engarrafamento para quem segue em dir",
       "link": "https://www.instagram.com/reel/Dc_j9uxDvy7/",
       "fonte": "Instagram",
-      "data": "2026-09-07T19:34:47.434163-03:00",
-      "resumo": "há 20 minutos",
+      "data": "2026-09-07T19:49:22.059725-03:00",
+      "resumo": "há 2 horas",
       "hoje": true
     },
     {
       "titulo": "BR-324 é parcialmente interditada após tombamento em Amélia Rodrigues",
       "link": "https://www.jornalfolhadoestado.com/municipios/br-324-e-parcialmente-interditada-apos-tombamento-em-amelia-rodrigues/",
       "fonte": "Folha do Estado da Bahia",
-      "data": "2026-09-07T11:54:47.434324-03:00",
+      "data": "2026-09-07T11:49:22.059929-03:00",
       "resumo": "Acidente ocorreu na manhã desta segunda-feira (7) e provocou derramamento de carga na pista.",
       "hoje": true
     }
