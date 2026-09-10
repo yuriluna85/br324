@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-10T15:50:05.035757-03:00",
+  "ultimaAtualizacao": "2026-09-10T18:18:49.474084-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-09-10T03:12:22.872419-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "ACM Neto critica dificuldade de deslocamento entre Salvador e Feira de Santana pela BR-324",
+      "link": "https://glomes.com.br/acm-neto-critica-dificuldade-de-deslocamento-entre-salvador-e-feira-de-santana-pela-br-324/",
+      "fonte": "Grupo Lomes de Comunicação",
+      "data": "2026-09-10T18:01:53.033076-03:00",
+      "resumo": "O candidato ao governo da Bahia, ACM Neto, criticou, nesta quinta-feira (10), a situação da BR-324 e a dificuldade de deslocamento.",
+      "hoje": true
     }
   ],
   "metricas": {
