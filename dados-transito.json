@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-10T22:16:05.692795-03:00",
+  "ultimaAtualizacao": "2026-09-11T03:15:48.425431-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,28 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "ACM Neto critica situação da BR-324 e cobra articulação de Jerônimo para melhorias na rodovia",
-      "link": "https://muitainformacao.com.br/eleicoes/acm-neto-critica-situacao-da-br-324-e-cobra-articulacao-de-jeronimo-para-melhorias-na-rodovia/",
-      "fonte": "Muita Informação",
-      "data": "2026-09-10T19:16:09.117957-03:00",
-      "resumo": "Candidato ao governo estadual esteve em Feira de Santana e afirmou que problemas na ligação com Salvador prejudicam transporte e economia...",
-      "hoje": true
-    },
-    {
-      "titulo": "ACM Neto volta a criticar situação da BR-324 e cobra Jerônimo por solução para rodovia",
-      "link": "https://mundoba.com.br/eleicoes/acm-neto-volta-a-criticar-situacao-da-br-324-e-cobra-jeronimo-por-solucao-para-rodovia/",
-      "fonte": "MundoBA",
-      "data": "2026-09-10T18:16:09.117969-03:00",
-      "resumo": "Candidato ao governo da Bahia afirmou que viagem entre Salvador e Feira de Santana pode levar duas horas e meia e citou problemas também nas...",
-      "hoje": true
-    },
-    {
-      "titulo": "#Eleições2026: ACM Neto critica dificuldade de deslocamento entre Salvador e Feira de Santana e aponta omissão de Jerônimo com BR-324",
-      "link": "https://jornaldachapada.com.br/2026/09/10/eleicoes2026-acm-neto-critica-dificuldade-de-deslocamento-entre-salvador-e-feira-de-santana-e-aponta-omissao-de-jeronimo-com-br-324/",
-      "fonte": "Jornal da Chapada",
-      "data": "2026-09-10T17:16:09.117795-03:00",
-      "resumo": "O candidato ao governo da Bahia, ACM Neto, criticou, nesta quinta-feira (10), a situação da BR-324 e a dificuldade de deslocamento entre...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-09-11T03:15:48.425431-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
