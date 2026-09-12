@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-09-12T14:18:51.572408-03:00",
+  "ultimaAtualizacao": "2026-09-12T16:30:44.162415-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,26 @@
   ],
   "noticias": [
     {
+      "titulo": "Foragido do Paraná é preso na BR-324, em Simões Filho",
+      "link": "https://www.portalsalvadorfm.com.br/policia/foragido-do-parana-e-preso-na-br-324-em-simoes-filho/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-09-12T14:30:48.389163-03:00",
+      "resumo": "Um homem com mandado de prisão expedido pela Justiça do Paraná foi preso na manhã deste sábado (12) na BR-324, na cidade de Simões Filho,...",
+      "hoje": true
+    },
+    {
+      "titulo": "Foragido do Paraná por tentativa de homicídio é preso na BR-324",
+      "link": "https://www.correio24horas.com.br/bahia/foragido-do-parana-por-tentativa-de-homicidio-e-preso-na-br-324-0926",
+      "fonte": "Jornal Correio",
+      "data": "2026-09-12T14:30:48.389009-03:00",
+      "resumo": "Um homem foi preso na manhã deste sábado (12), na BR-324, na cidade de Simões Filho, Região Metropolitana de Salvador (RMS).",
+      "hoje": true
+    },
+    {
       "titulo": "FICCO Bahia e DHPP interceptam na BR-324 homicida foragido da Justiça do Paraná",
       "link": "https://www.trbn.com.br/materia/I163200/ficco-bahia-e-dhpp-interceptam-na-br-324-homicida-foragido-da-justica-do-parana",
       "fonte": "Tribuna da Bahia",
-      "data": "2026-09-12T09:18:55.319281-03:00",
+      "data": "2026-09-12T09:30:48.389190-03:00",
       "resumo": "Captura ocorreu na manhã deste sábado (12), durante mais uma fase da Operação Artemis.",
       "hoje": true
     },
@@ -33,7 +49,7 @@
       "titulo": "Perseguição na BR-324 termina em colisão em Salvador",
       "link": "https://sociedadeonline.com/perseguicao-na-br-324-termina-em-colisao-em-salvador",
       "fonte": "Sociedade ON",
-      "data": "2026-09-12T07:18:55.319121-03:00",
+      "data": "2026-09-12T07:30:48.389179-03:00",
       "resumo": "Acompanhe as últimas notícias de Salvador, Bahia e do Brasil. Ouça a Rádio Sociedade ao vivo, debates, podcasts, esportes e muito mais.",
       "hoje": true
     }
