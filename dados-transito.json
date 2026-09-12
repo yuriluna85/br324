@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-09-12T11:15:15.823383-03:00",
+  "ultimaAtualizacao": "2026-09-12T14:18:51.572408-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "FICCO Bahia e DHPP interceptam na BR-324 homicida foragido da Justiça do Paraná",
+      "link": "https://www.trbn.com.br/materia/I163200/ficco-bahia-e-dhpp-interceptam-na-br-324-homicida-foragido-da-justica-do-parana",
+      "fonte": "Tribuna da Bahia",
+      "data": "2026-09-12T09:18:55.319281-03:00",
+      "resumo": "Captura ocorreu na manhã deste sábado (12), durante mais uma fase da Operação Artemis.",
+      "hoje": true
+    },
+    {
       "titulo": "Perseguição na BR-324 termina em colisão em Salvador",
       "link": "https://sociedadeonline.com/perseguicao-na-br-324-termina-em-colisao-em-salvador",
       "fonte": "Sociedade ON",
-      "data": "2026-09-12T07:15:20.062790-03:00",
+      "data": "2026-09-12T07:18:55.319121-03:00",
       "resumo": "Acompanhe as últimas notícias de Salvador, Bahia e do Brasil. Ouça a Rádio Sociedade ao vivo, debates, podcasts, esportes e muito mais.",
       "hoje": true
     }
