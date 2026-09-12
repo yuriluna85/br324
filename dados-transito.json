@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-11T20:27:21.812739-03:00",
+  "ultimaAtualizacao": "2026-09-11T22:20:39.975875-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-09-11T03:15:48.425431-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Feira volta a ter outlet na BR-324; novo empreendimento será inaugurado em dezembro",
+      "link": "https://oprotagonistafsa.com.br/noticia/2130/atracao-de-investimentos-feira-de-santana-recebe-apresentacao-do-outlet-feira-premium",
+      "fonte": "O Protagonista FSA",
+      "data": "2026-09-11T10:20:44.353696-03:00",
+      "resumo": "O fortalecimento do ambiente de negócios e a atração de empreendimentos privados voltados à geração de emprego e renda em Feira de Santana...",
+      "hoje": true
     }
   ],
   "metricas": {
