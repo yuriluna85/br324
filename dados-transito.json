@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-13T04:33:16.928200-03:00",
+  "ultimaAtualizacao": "2026-09-13T09:58:12.871529-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-09-13T04:33:16.928200-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Foragido da Justiça do Paraná é preso na BR-324 na região de Salvador",
+      "link": "https://glomes.com.br/foragido-da-justica-do-parana-e-preso-na-br-324-na-regiao-de-salvador/",
+      "fonte": "Grupo Lomes de Comunicação",
+      "data": "2026-09-13T07:58:16.415908-03:00",
+      "resumo": "Um foragido da Justiça do Paraná foi preso no sábado (12) na BR-324, em Simões Filho, durante ação da FICCO Bahia e do DHPP.",
+      "hoje": true
     }
   ],
   "metricas": {
