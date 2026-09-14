@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-14T05:20:30.991585-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Lento",
+  "ultimaAtualizacao": "2026-09-14T12:07:28.491151-03:00",
+  "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Lento",
+      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,22 +22,71 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-09-14T05:20:30.991585-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Filho De Lazinho, Do Olodum, Morre Em Acidente Na BR-324, Em Salvador",
+      "link": "https://takta.com.br/municipios/filho-de-lazinho-do-olodum-morre-em-acidente-na-br-324-em-salvador/",
+      "fonte": "Taktá No AR",
+      "data": "2026-09-14T11:27:32.251194-03:00",
+      "resumo": "O motociclista Inaiê Araújo dos Santos, de 39 anos, morreu após bater em uma máquina pavimentadora de asfalto na BR-324, sentido Salvador,...",
+      "hoje": true
+    },
+    {
+      "titulo": "Filho de cantor do Olodum morre após bater moto em rolo compactador na BR-324, em Salvador",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/14/filho-de-cantor-do-olodum-morre-apos-bater-moto-em-rolo-compactador-na-br-324-em-salvador.ghtml",
+      "fonte": "G1",
+      "data": "2026-09-14T11:25:32.250964-03:00",
+      "resumo": "Um homem de 39 anos morreu após bater a moto que pilotava contra um rolo compactador usado em obras na BR-324, em Salvador.",
+      "hoje": true
+    },
+    {
+      "titulo": "Motociclista morre após bater em rolo compressor sem sinalização na BR-324",
+      "link": "https://sociedadeonline.com/motociclista-morre-apos-bater-em-rolo-compressor-sem-sinalizacao-na-br-324",
+      "fonte": "Sociedade ON",
+      "data": "2026-09-14T07:07:32.251172-03:00",
+      "resumo": "Acompanhe as últimas notícias de Salvador, Bahia e do Brasil. Ouça a Rádio Sociedade ao vivo, debates, podcasts, esportes e muito mais.",
+      "hoje": true
+    },
+    {
+      "titulo": "Motociclista morre em acidente na BR-324; celular e pertences são furtados após colisão",
+      "link": "https://seliguebahia.com.br/seguranca/motociclista-morre-em-acidente-na-br-324-celular-e-pertences-sao-furtados-apos-colisao/",
+      "fonte": "Se Ligue Bahia",
+      "data": "2026-09-14T07:07:32.251156-03:00",
+      "resumo": "Vítima bateu contra uma máquina pavimentadora que estava parada no acostamento; acidente aconteceu próximo ao Acesso Norte, em Salvador.",
+      "hoje": true
+    },
+    {
+      "titulo": "Motociclista morre após bater em rolo compressor na BR-324, em trecho de obras",
+      "link": "https://www.correio24horas.com.br/minha-bahia/motociclista-morre-apos-bater-em-rolo-compressor-na-br-324-em-trecho-de-obras-0926",
+      "fonte": "Jornal Correio",
+      "data": "2026-09-14T07:07:32.251105-03:00",
+      "resumo": "Acidente aconteceu por volta de 1h desta segunda-feira (14), no sentido Salvador.",
+      "hoje": true
+    },
+    {
+      "titulo": "Motociclista morre após bater em máquina na BR-324",
+      "link": "https://www.portalsalvadorfm.com.br/salvador/motociclista-morre-apos-bater-em-maquina-na-br-324/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-09-14T06:07:32.251147-03:00",
+      "resumo": "Um motociclista morreu após bater em uma máquina pavimentadora de asfalto. O acidente fatal aconteceu na madrugada desta segunda-feira (14),...",
+      "hoje": true
+    },
+    {
+      "titulo": "Motociclista Bate Em Máquina De Recuperação Do Asfalto Na BR-324",
+      "link": "https://takta.com.br/ultimas-noticias/motociclista-bate-em-maquina-de-recuperacao-do-asfalto-na-br-324/",
+      "fonte": "Taktá No AR",
+      "data": "2026-09-14T06:07:32.251117-03:00",
+      "resumo": "Um motociclista se envolveu em um acidente com um maquinário utilizado nas obras de requalificação do asfalto na BR-324, no sentido Salvador...",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
+    "percentualFluido": 50.0,
     "percentualAtencao": 0.0,
-    "percentualLento": 33.3,
-    "totalAcidentes": 2,
+    "percentualLento": 50.0,
+    "totalAcidentes": 3,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 85.0
   }
 }
