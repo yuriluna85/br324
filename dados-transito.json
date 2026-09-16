@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-09-15T21:54:05.834439-03:00",
+  "ultimaAtualizacao": "2026-09-16T02:30:20.383485-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,75 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "Obras do VLT provocam mudanças no trânsito da BR-324 em Águas Claras",
-      "link": "https://seliguebahia.com.br/bahia/obras-do-vlt-provocam-mudancas-no-transito-da-br-324-em-aguas-claras/",
-      "fonte": "Se Ligue Bahia",
-      "data": "2026-09-15T18:54:09.423915-03:00",
-      "resumo": "Um trecho da BR-324, na altura de Águas Claras, em Salvador, terá alterações no trânsito durante 11 noites entre esta quarta-feira (16) e o...",
-      "hoje": true
-    },
-    {
-      "titulo": "Vai Passar Pela BR-324 à Noite? Veja O Que Muda Por Causa Das Obras Do VLT",
-      "link": "https://takta.com.br/municipios/vai-passar-pela-br-324-a-noite-veja-o-que-muda-por-causa-das-obras-do-vlt/",
-      "fonte": "Taktá No AR",
-      "data": "2026-09-15T14:54:09.423935-03:00",
-      "resumo": "Um trecho da BR-324, na altura de Águas Claras, em Salvador, terá alterações no trânsito durante as noites entre quarta-feira (16) e sábado...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 será interditado durante a noite para obras do VLT em Salvador",
-      "link": "https://aloalobahia.com/noticias/2026/09/15/trecho-da-br-324-sera-interditado-durante-a-noite-para-obras-do-vlt-em-salvador/",
-      "fonte": "Alô Alô Bahia",
-      "data": "2026-09-15T14:54:09.423879-03:00",
-      "resumo": "Um trecho da BR-324, em Salvador, será interditado temporariamente a partir desta quarta-feira (16) por causa das obras do VLT Salvador e...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 terá interdição noturna em Águas Claras para obras do VLT",
-      "link": "https://www.portaldocase.com.br/categoria/salvador/noticias/br-324-tera-interdicao-noturna-em-aguas-claras-para-obras-do-vlt",
-      "fonte": "Portal do Casé",
-      "data": "2026-09-15T10:54:09.423952-03:00",
-      "resumo": "O bloqueio ocorrerá diariamente, das 22h às 4h, até 26 de setembro.",
-      "hoje": true
-    },
-    {
-      "titulo": "Obras do VLT interditam trecho da BR-324 em Salvador; veja rotas",
-      "link": "https://avozdocampo.com/salvador/obras-do-vlt-interditam-trecho-da-br-324-em-salvador-veja-rotas/",
-      "fonte": "avozdocampo",
-      "data": "2026-09-15T10:54:09.423944-03:00",
-      "resumo": "As obras do VLT em Salvador causam interdições na BR-324, em Águas Claras, entre 16 e 26 de setembro, exigindo atenção dos motoristas a...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 terá interdição em Salvador para obras do VLT; saiba datas e horários",
-      "link": "https://atarde.com.br/salvador/br-324-tera-interdicao-em-aguas-claras-para-obras-do-vlt-veja-horario-1402123",
-      "fonte": "A TARDE",
-      "data": "2026-09-15T10:54:09.423905-03:00",
-      "resumo": "Motoristas que trafegam pela BR-324, na altura de Águas Claras, em Salvador, terão que ficar atentos às mudanças no fluxo da rodovia entre...",
-      "hoje": true
-    },
-    {
-      "titulo": "Obras do VLT vão interditar trecho da BR-324 durante 11 noites em Salvador; veja rotas alternativas",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/09/15/obras-do-vlt-vao-interditar-trecho-da-br-324-durante-11-noites-em-salvador-veja-rotas-alternativas.ghtml",
-      "fonte": "G1",
-      "data": "2026-09-15T10:54:09.423737-03:00",
-      "resumo": "As obras do VLT em Salvador causam interdições na BR-324, em Águas Claras, entre 16 e 26 de setembro, exigindo atenção dos motoristas a...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 terá bloqueios noturnos em Salvador para obras do VLT",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/br-324-tera-bloqueios-noturnos-em-salvador-para-obras-do-vlt/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-09-15T08:54:09.423925-03:00",
-      "resumo": "Motoristas que circulam pela BR-324, na região de Águas Claras, em Salvador, durante a noite, terão que enfrentar alterações no tráfego a...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 em Salvador será interditado para obras; veja horários",
-      "link": "https://www.correio24horas.com.br/salvador/trecho-da-br-324-em-salvador-sera-interditado-para-obras-veja-horarios-0926",
-      "fonte": "Jornal Correio",
-      "data": "2026-09-15T08:54:09.423894-03:00",
-      "resumo": "Um trecho da BR-324, em Salvador, será interditado temporariamente a partir desta quarta-feira (16) devido às obras do VLT Salvador e Região...",
+      "titulo": "ATENÇÃO: Obras do VLT vão alterar trânsito na BR-324 durante 11 noites",
+      "link": "https://falacajazeiras.com.br/atencao-obras-do-vlt-vao-alterar-transito-na-br-324-durante-11-noites/",
+      "fonte": "Fala Cajazeiras",
+      "data": "2026-09-16T01:58:26.917443-03:00",
+      "resumo": "Intervenções acontecem na região de Águas Claras, sempre das 22h às 4h; motoristas deverão seguir os desvios sinalizados.",
       "hoje": true
     }
   ],
