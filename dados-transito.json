@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-09-16T15:58:45.318992-03:00",
+  "ultimaAtualizacao": "2026-09-16T18:56:14.901954-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "Obras do VLT avançam com intervenção temporária no trânsito na BR-324",
+      "link": "https://www.paripe.net/noticia?url=obras-do-vlt-avancam-com-intervencao-temporaria-no-transito-na-br-324",
+      "fonte": "Paripe.net",
+      "data": "2026-09-16T10:56:18.257617-03:00",
+      "resumo": "Em razão do avanço das obras do VLT Salvador e RMS, será realizada uma interdição temporária na BR-324, na altura de Águas Claras,...",
+      "hoje": true
+    },
+    {
       "titulo": "ATENÇÃO: Obras do VLT vão alterar trânsito na BR-324 durante 11 noites",
       "link": "https://falacajazeiras.com.br/atencao-obras-do-vlt-vao-alterar-transito-na-br-324-durante-11-noites/",
       "fonte": "Fala Cajazeiras",
-      "data": "2026-09-16T01:58:50.909159-03:00",
+      "data": "2026-09-16T01:56:18.257657-03:00",
       "resumo": "Intervenções acontecem na região de Águas Claras, sempre das 22h às 4h; motoristas deverão seguir os desvios sinalizados.",
       "hoje": true
     }
