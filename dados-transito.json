@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-09-16T18:56:14.901954-03:00",
+  "ultimaAtualizacao": "2026-09-16T21:00:49.720158-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,19 +22,19 @@
   ],
   "noticias": [
     {
-      "titulo": "Obras do VLT avançam com intervenção temporária no trânsito na BR-324",
-      "link": "https://www.paripe.net/noticia?url=obras-do-vlt-avancam-com-intervencao-temporaria-no-transito-na-br-324",
-      "fonte": "Paripe.net",
-      "data": "2026-09-16T10:56:18.257617-03:00",
-      "resumo": "Em razão do avanço das obras do VLT Salvador e RMS, será realizada uma interdição temporária na BR-324, na altura de Águas Claras,...",
+      "titulo": "Jorge Araújo denuncia aumento dos pontos de pedágio na BR-324 e BR-116 e cobra garantias antes de nova cobrança",
+      "link": "https://classepolitica.com.br/noticia/jorge-araujo-denuncia-aumento-dos-pontos-de-pedagio-na-br-324-e-br-116-e-cobra-garantias-antes-de-nova-cobranca",
+      "fonte": "Classe Politica",
+      "data": "2026-09-16T14:00:58.996745-03:00",
+      "resumo": "O deputado federal e candidato à reeleição Jorge Araújo (PP-BA) voltou a denunciar a situação das rodovias federais que cortam a Bahia.",
       "hoje": true
     },
     {
-      "titulo": "ATENÇÃO: Obras do VLT vão alterar trânsito na BR-324 durante 11 noites",
-      "link": "https://falacajazeiras.com.br/atencao-obras-do-vlt-vao-alterar-transito-na-br-324-durante-11-noites/",
-      "fonte": "Fala Cajazeiras",
-      "data": "2026-09-16T01:56:18.257657-03:00",
-      "resumo": "Intervenções acontecem na região de Águas Claras, sempre das 22h às 4h; motoristas deverão seguir os desvios sinalizados.",
+      "titulo": "Obras do VLT avançam com intervenção temporária no trânsito na BR-324",
+      "link": "https://www.paripe.net/noticia?url=obras-do-vlt-avancam-com-intervencao-temporaria-no-transito-na-br-324",
+      "fonte": "Paripe.net",
+      "data": "2026-09-16T11:00:58.996776-03:00",
+      "resumo": "Em razão do avanço das obras do VLT Salvador e RMS, será realizada uma interdição temporária na BR-324, na altura de Águas Claras,...",
       "hoje": true
     }
   ],
