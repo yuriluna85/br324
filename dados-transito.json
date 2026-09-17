@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-09-16T21:00:49.720158-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-09-17T02:03:06.687489-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,31 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Jorge Araújo denuncia aumento dos pontos de pedágio na BR-324 e BR-116 e cobra garantias antes de nova cobrança",
-      "link": "https://classepolitica.com.br/noticia/jorge-araujo-denuncia-aumento-dos-pontos-de-pedagio-na-br-324-e-br-116-e-cobra-garantias-antes-de-nova-cobranca",
-      "fonte": "Classe Politica",
-      "data": "2026-09-16T14:00:58.996745-03:00",
-      "resumo": "O deputado federal e candidato à reeleição Jorge Araújo (PP-BA) voltou a denunciar a situação das rodovias federais que cortam a Bahia.",
-      "hoje": true
-    },
-    {
-      "titulo": "Obras do VLT avançam com intervenção temporária no trânsito na BR-324",
-      "link": "https://www.paripe.net/noticia?url=obras-do-vlt-avancam-com-intervencao-temporaria-no-transito-na-br-324",
-      "fonte": "Paripe.net",
-      "data": "2026-09-16T11:00:58.996776-03:00",
-      "resumo": "Em razão do avanço das obras do VLT Salvador e RMS, será realizada uma interdição temporária na BR-324, na altura de Águas Claras,...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-09-17T02:03:06.687489-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 1,
+    "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
