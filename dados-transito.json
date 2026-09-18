@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-09-17T21:31:47.897623-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-09-18T02:24:38.740579-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,39 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Prefeitura renova por três anos licença para requalificação urbana do entorno da BR-324, no Cabula",
-      "link": "https://www.bahianoticias.com.br/noticia/321267-prefeitura-renova-por-tres-anos-licenca-para-requalificacao-urbana-do-entorno-da-br-324-no-cabula",
-      "fonte": "Bahia Notícias",
-      "data": "2026-09-17T16:31:52.319955-03:00",
-      "resumo": "A prefeitura de Salvador renovou a licença ambiental para obras de requalificação viária no entorno da BR-324, entre a Via Expressa e a...",
-      "hoje": true
-    },
-    {
-      "titulo": "Obras do VLT provocam interdição de trecho da BR-324 em Salvador",
-      "link": "https://mundoba.com.br/salvador/obras-do-vlt-provocam-interdicao-de-trecho-da-br-324-em-salvador/",
-      "fonte": "MundoBA",
-      "data": "2026-09-17T09:31:52.319944-03:00",
-      "resumo": "Um trecho da BR-324, em Salvador, foi totalmente interditado no sentido crescente da pista principal na noite de quarta-feira (16).",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 é interditado totalmente em Salvador por causa de obras",
-      "link": "https://www.correio24horas.com.br/salvador/trecho-da-br-324-e-interditado-totalmente-em-salvador-por-causa-de-obras-0926",
-      "fonte": "Jornal Correio",
-      "data": "2026-09-17T07:31:52.319928-03:00",
-      "resumo": "Um trecho da BR-324, em Salvador, foi totalmente interditado no sentido crescente da pista principal na noite de quarta-feira (16).",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-09-18T02:24:38.740579-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 1,
+    "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
