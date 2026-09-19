@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-19T10:35:27.222503-03:00",
+  "ultimaAtualizacao": "2026-09-19T13:55:56.230543-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-09-19T02:19:17.527482-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "‘Laranjada’: conheça o ultramaratonista que transforma as ruas de Salvador e até a BR-324 em pista de corrida",
+      "link": "https://www.correio24horas.com.br/salvador/laranjada-conheca-o-ultramaratonista-que-transforma-as-ruas-de-salvador-e-ate-a-br-324-em-pista-de-corrida-0926",
+      "fonte": "Jornal Correio",
+      "data": "2026-09-19T11:56:06.354257-03:00",
+      "resumo": "Cinco shoppings de Salvador em um percurso de quinze quilômetros - tudo isso, antes das 6h da manhã. Depois, 12 quilômetros numa rota entre...",
+      "hoje": true
     }
   ],
   "metricas": {
