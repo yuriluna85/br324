@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-19T23:32:41.910407-03:00",
+  "ultimaAtualizacao": "2026-09-20T05:06:34.365949-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,20 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "‘Laranjada’: conheça o ultramaratonista que transforma as ruas de Salvador e até a BR-324 em pista de corrida",
-      "link": "https://aloalobahia.com/noticias/2026/09/19/laranjada-conheca-o-ultramaratonista-que-transforma-as-ruas-de-salvador-e-ate-a-br-324-em-pista-de-corrida/",
-      "fonte": "Alô Alô Bahia",
-      "data": "2026-09-19T15:32:44.949922-03:00",
-      "resumo": "Cinco shoppings de Salvador em um percurso de quinze quilômetros – tudo isso, antes das 6h da manhã. Depois, 12 quilômetros numa rota entre...",
-      "hoje": true
-    },
-    {
-      "titulo": "Homem é encontrado morto na ligação Lobato-BR-324",
-      "link": "https://bahia.ba/salvador/homem-e-encontrado-morto-na-ligacao-lobato-br-324/",
-      "fonte": "bahia.ba",
-      "data": "2026-09-19T13:32:44.949939-03:00",
-      "resumo": "O corpo de um homem foi localizado na manhã deste sábado (19), em um trecho da ligação entre Lobato e a BR-324, em Salvador.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-09-20T05:06:34.365949-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
