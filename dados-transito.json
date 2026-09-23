@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-23T04:01:49.374262-03:00",
+  "ultimaAtualizacao": "2026-09-23T09:50:37.673514-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-09-23T04:01:49.374262-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "PRF intercepta carregamento de 96 kg de maconha na BR-324, em Feira de Santana",
+      "link": "https://www.deolhonacidade.net/prf-intercepta-carregamento-de-96-kg-de-maconha-na-br-324-em-feira-de-santana",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-09-23T09:40:40.804427-03:00",
+      "resumo": "A Polícia Rodoviária Federal (PRF) apreendeu, na noite desta terça-feira (22), cerca de 96 quilos de maconha durante fiscalização no km 523...",
+      "hoje": true
     }
   ],
   "metricas": {
