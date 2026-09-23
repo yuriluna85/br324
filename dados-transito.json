@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-23T14:36:06.444903-03:00",
+  "ultimaAtualizacao": "2026-09-23T17:53:01.493527-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,34 @@
   ],
   "noticias": [
     {
+      "titulo": "PRF apreende cerca de 96 kg de maconha em veículo na BR-324 em Feira de Santana",
+      "link": "https://www.sudoestebahia.com/noticias/bahia/prf-apreende-cerca-de-96-kg-de-maconha-em-veiculo-na-br-324-em-feira-de-santana",
+      "fonte": "Sudoeste Bahia",
+      "data": "2026-09-23T14:53:10.868728-03:00",
+      "resumo": "PRF apreende cerca de 96 kg de maconha em veículo na BR-324 em Feira de Santana.",
+      "hoje": true
+    },
+    {
+      "titulo": "Polícia intercepta carga de 96kg de maconha na BR-324, em Feira de Santana",
+      "link": "https://glomes.com.br/policia-intercepta-carga-de-96kg-de-maconha-na-br-324-em-feira-de-santana/",
+      "fonte": "Grupo Lomes de Comunicação",
+      "data": "2026-09-23T14:53:10.868702-03:00",
+      "resumo": "A PRF apreendeu cerca de 96 quilos de maconha na noite desta terça-feira (22), durante fiscalização no km 523 da BR-324, em Feira de Santana...",
+      "hoje": true
+    },
+    {
+      "titulo": "PRF apreende quase 100 kg de maconha durante fiscalização em trecho da BR-324, em Feira de Santana",
+      "link": "https://www.bahianoticias.com.br/amp/municipios/noticia/52643-prf-apreende-quase-100-kg-de-maconha-em-trecho-da-br-324-em-feira-de-santana",
+      "fonte": "Bahia Notícias",
+      "data": "2026-09-23T13:53:10.868717-03:00",
+      "resumo": "A Polícia Rodoviária Federal (PRF) apreendeu cerca de 96 quilos de maconha na noite desta terça-feira (22), durante uma fiscalização no km...",
+      "hoje": true
+    },
+    {
       "titulo": "RADIO LIDER FM 96,5",
       "link": "https://www.liderfm965.com.br/noticiaatual/ba_quase-100-kg-de-droga-sao-apreendidos-em-carro-na-br324-na-bahia",
       "fonte": "liderfm965.com.br",
-      "data": "2026-09-23T12:36:10.349351-03:00",
+      "data": "2026-09-23T11:53:10.868749-03:00",
       "resumo": "Quase 100kg de droga foram apreendidos em picape na BR-324. Polícia Rodoviária Federal Quase 100 quilos de drogas foram apreendidos na noite...",
       "hoje": true
     },
@@ -33,7 +57,7 @@
       "titulo": "Quase 100 kg de droga são apreendidos em carro na BR-324, na Bahia",
       "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/09/23/apreensao-droga-interior-da-bahia.ghtml",
       "fonte": "G1",
-      "data": "2026-09-23T11:36:10.349264-03:00",
+      "data": "2026-09-23T10:53:10.868568-03:00",
       "resumo": "Apreensão ocorreu em Feira de Santana. Carga estava na caçamba de uma picape. Homem foi detido.",
       "hoje": true
     }
