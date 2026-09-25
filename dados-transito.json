@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-09-24T23:39:02.781359-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-09-25T05:21:46.730113-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,39 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "MEGA BLITZ NA BR-324 COM AÇÕES EDUCATIVAS MARCA SEMANA NACIONAL DE TRÂNSITO EM SALVADOR",
-      "link": "https://bahiaeconomica.com.br/wp/2026/09/24/mega-blitz-na-br-324-com-acoes-educativas-marca-semana-nacional-de-transito-em-salvador/",
-      "fonte": "- Bahia Economica",
-      "data": "2026-09-24T15:39:07.056252-03:00",
-      "resumo": "O maior portal de Economia da Bahia MUNICÍPIOS Bahia Economica Uma ação conjunta realizada nesta quinta-feira (24), na BR-324,...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 em Salvador recebe mega blitz com fiscalização",
-      "link": "https://aloalobahia.com/noticias/2026/09/24/trecho-da-br-324-em-salvador-recebe-mega-blitz-com-fiscalizacao/",
-      "fonte": "Alô Alô Bahia",
-      "data": "2026-09-24T13:39:07.056094-03:00",
-      "resumo": "Um trecho da BR-324, próximo ao Shopping Bela Vista, em Salvador, recebe uma mega blitz nesta quinta-feira (24).",
-      "hoje": true
-    },
-    {
-      "titulo": "Acidente na BR-324 deixa uma pessoa ferida no sentido Feira de Santana",
-      "link": "https://www.portalsalvadorfm.com.br/salvador/acidente-na-br-324-deixa-uma-pessoa-ferida-no-sentido-feira-de-santana/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-09-24T08:39:07.056268-03:00",
-      "resumo": "Um acidente entre dois carros deixou uma pessoa ferida na BR-324, no sentido Feira de Santana. A batida aconteceu na manhã desta...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-09-25T05:21:46.730113-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
