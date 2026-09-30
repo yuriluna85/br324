@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-09-30T03:11:09.177028-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Lento",
+  "ultimaAtualizacao": "2026-09-30T09:50:39.837473-03:00",
+  "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Lento",
+      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,22 +22,31 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-09-30T03:11:09.177028-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Motociclista morre em acidente envolvendo carreta na BR-324",
+      "link": "https://www.bahianoticias.com.br/noticia/321724-motociclista-morre-em-acidente-envolvendo-carreta-na-br-324",
+      "fonte": "Bahia Notícias",
+      "data": "2026-09-30T06:50:42.688870-03:00",
+      "resumo": "O acidente ocorreu na via marginal da rodovia, por volta do km 613, na altura do bairro da Palestina, na capital baiana, no sentido Feira de...",
+      "hoje": true
+    },
+    {
+      "titulo": "Motociclista morre após perder controle da direção e bater em caminhão na BR-324, em Salvador",
+      "link": "https://www.correio24horas.com.br/salvador/motociclista-morre-apos-perder-controle-da-direcao-e-bater-em-caminhao-na-br-324-em-salvador-0926",
+      "fonte": "Jornal Correio",
+      "data": "2026-09-30T06:50:42.688705-03:00",
+      "resumo": "Um motociclista morreu após perder o controle da direção e bater em um caminhão que estava parado no km 613 da BR-324, na altura do bairro...",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
+    "percentualFluido": 50.0,
     "percentualAtencao": 0.0,
-    "percentualLento": 33.3,
-    "totalAcidentes": 2,
+    "percentualLento": 50.0,
+    "totalAcidentes": 3,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 85.0
   }
 }
