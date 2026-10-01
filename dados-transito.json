@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-10-01T04:23:01.338859-03:00",
+  "ultimaAtualizacao": "2026-10-01T11:37:55.183581-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,20 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-10-01T04:23:01.338859-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "PRF apreende 140 quilos de droga na BR-324",
+      "link": "https://www.sociedadeon.com/prf-apreende-140-quilos-de-droga-na-br-324",
+      "fonte": "Sociedade ON",
+      "data": "2026-10-01T10:37:58.634069-03:00",
+      "resumo": "Acompanhe as últimas notícias de Salvador, Bahia e do Brasil. Ouça a Rádio Sociedade ao vivo, debates, podcasts, esportes e muito mais.",
+      "hoje": true
+    },
+    {
+      "titulo": "PRF apreende 140 kg de maconha em veículo na BR-324",
+      "link": "https://bahia.ba/salvador/prf-apreende-140-kg-de-maconha-em-veiculo-na-br-324/",
+      "fonte": "bahia.ba",
+      "data": "2026-10-01T06:37:58.634060-03:00",
+      "resumo": "A PRF apreendeu cerca de 140 quilos de substância análoga à maconha durante uma fiscalização no km 601 da BR-324, em Salvador.",
+      "hoje": true
     }
   ],
   "metricas": {
