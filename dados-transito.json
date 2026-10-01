@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-09-30T22:23:27.086647-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-10-01T04:23:01.338859-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,47 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Motociclista morre após colidir em caminhão na BR-324",
-      "link": "https://www.portalsalvadorfm.com.br/salvador/motociclista-morre-apos-colidir-em-caminhao-na-br-324/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-09-30T07:23:33.173680-03:00",
-      "resumo": "Um motociclista morreu após colidir em um caminhão. O acidente aconteceu na madrugada desta quarta-feira (30), por volta das 3h,...",
-      "hoje": true
-    },
-    {
-      "titulo": "Motociclista morre em acidente envolvendo carreta na BR-324",
-      "link": "https://www.bahianoticias.com.br/noticia/321724-motociclista-morre-em-acidente-envolvendo-carreta-na-br-324",
-      "fonte": "Bahia Notícias",
-      "data": "2026-09-30T06:23:33.173634-03:00",
-      "resumo": "O acidente ocorreu na via marginal da rodovia, por volta do km 613, na altura do bairro da Palestina, na capital baiana, no sentido Feira de...",
-      "hoje": true
-    },
-    {
-      "titulo": "VÍDEO: Carro capota em acidente na BR-324, nas proximidades do Bom Juá",
-      "link": "https://www.portalsalvadorfm.com.br/salvador/video-carro-capota-em-acidente-na-br-324-nas-proximidades-de-bom-jua/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-09-30T06:23:33.173619-03:00",
-      "resumo": "Um acidente envolvendo dois carros chamou a atenção de motoristas na noite desta terça-feira (29), na BR-324, em Salvador.",
-      "hoje": true
-    },
-    {
-      "titulo": "Motociclista morre após perder controle da direção e bater em caminhão na BR-324, em Salvador",
-      "link": "https://www.correio24horas.com.br/salvador/motociclista-morre-apos-perder-controle-da-direcao-e-bater-em-caminhao-na-br-324-em-salvador-0926",
-      "fonte": "Jornal Correio",
-      "data": "2026-09-30T06:23:33.173479-03:00",
-      "resumo": "Um motociclista morreu após perder o controle da direção e bater em um caminhão que estava parado no km 613 da BR-324, na altura do bairro...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-10-01T04:23:01.338859-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
