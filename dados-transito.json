@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-10-02T21:04:04.108229-03:00",
+  "ultimaAtualizacao": "2026-10-03T02:31:10.616140-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,12 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "Carro tomba e deixa trânsito lento na BR-324 em Salvador",
-      "link": "https://www.portalsalvadorfm.com.br/salvador/carro-tomba-e-deixa-transito-lento-na-br-324-em-salvador/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-10-02T18:04:08.113199-03:00",
-      "resumo": "Um carro tombou no acostamento da BR-324, após a região da Jaqueira do Carneiro, em Salvador, na tarde desta sexta-feira (2)",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-10-03T02:31:10.616140-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
