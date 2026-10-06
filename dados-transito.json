@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-10-06T16:14:33.903230-03:00",
+  "ultimaAtualizacao": "2026-10-06T20:09:56.722100-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "Motorista fica preso a ferragens em acidente na BR-324",
+      "link": "https://bahia.ba/municipios/motorista-fica-preso-a-ferragens-em-acidente-na-br-324/",
+      "fonte": "bahia.ba",
+      "data": "2026-10-06T15:10:01.788563-03:00",
+      "resumo": "Um micro-ônibus, uma carreta e um veículo de pequeno porte bateram frontalmente na madrugada de segunda-feira (5)",
+      "hoje": true
+    },
+    {
       "titulo": "Ciclista morre após colisão com veículo na BR-324",
       "link": "https://www.portalsalvadorfm.com.br/bahia/ciclista-morre-apos-colisao-com-veiculo-na-br-324/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-10-06T06:48:21.018998-03:00",
+      "data": "2026-10-06T06:10:01.788577-03:00",
       "resumo": "Um ciclista morreu após colisão com um veículo. O acidente aconteceu na madrugada desta terça-feira (6), no km 564 da BR-324,...",
       "hoje": true
     }
