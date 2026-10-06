@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-10-05T21:30:01.609080-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-10-06T03:44:29.931849-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,55 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Micro-ônibus com 27 pessoas se envolve em acidente na BR-324 e deixa 10 feridos",
-      "link": "https://www.jornalfolhadoestado.com/municipios/micro-onibus-com-27-pessoas-se-envolve-em-acidente-na-br-324-e-deixa-10-feridos/",
-      "fonte": "Folha do Estado da Bahia",
-      "data": "2026-10-05T19:30:12.903864-03:00",
-      "resumo": "Veículo transportava pacientes e acompanhantes de Curaçá para Salvador quando colidiu com uma carreta e um carro em Riachão do Jacuípe.",
-      "hoje": true
-    },
-    {
-      "titulo": "Acidente com micro-ônibus que levava pacientes deixa dez feridos na BR-324",
-      "link": "https://www.deolhonacidade.net/acidente-com-micro-onibus-que-levava-pacientes-deixa-dez-feridos-na-br-324",
-      "fonte": "deolhonacidade.net",
-      "data": "2026-10-05T19:30:12.903838-03:00",
-      "resumo": "Veículo seguia de Curaçá para Salvador quando colidiu com uma carreta e um carro em Riachão do Jacuípe. Victória Silva...",
-      "hoje": true
-    },
-    {
-      "titulo": "RADIO LIDER FM 96,5",
-      "link": "https://www.liderfm965.com.br/noticiaatual/ba_microonibus-com-27-pessoas-se-envolve-em-acidente-na-br324-passageiros-ficaram-feridos-",
-      "fonte": "liderfm965.com.br",
-      "data": "2026-10-05T13:30:12.903895-03:00",
-      "resumo": "Micro-ônibus com 27 pessoas se envolveu em acidente na BR-324. Redes Sociais Um micro-ônibus que transportava 27 pessoas, entre pacientes,...",
-      "hoje": true
-    },
-    {
-      "titulo": "Micro-ônibus com 27 pessoas se envolve em acidente na BR-324; passageiros ficaram feridos",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/05/acidente-br-324-interior-da-bahia.ghtml",
-      "fonte": "G1",
-      "data": "2026-10-05T12:30:12.903701-03:00",
-      "resumo": "Veículo transportava pacientes e acompanhantes de Curaçá quando bateu em carreta e carro em Riachão do Jacuípe. Motorista ficou preso às...",
-      "hoje": true
-    },
-    {
-      "titulo": "VÍDEO: Acidente com micro-ônibus, carro e carreta deixa vítimas na BR-324",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/video-acidente-com-micro-onibus-carro-e-carreta-deixa-vitimas-na-br-324/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-10-05T11:30:12.903853-03:00",
-      "resumo": "Um acidente envolvendo um micro-ônibus, uma carreta e um carro deixou pessoas feridas na BR-324, em Riachão do Jacuípe. O ca.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-10-06T03:44:29.931849-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
