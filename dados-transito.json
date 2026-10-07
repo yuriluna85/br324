@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-10-06T23:32:56.697471-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-10-07T06:33:46.481874-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,31 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Motorista fica preso a ferragens em acidente na BR-324",
-      "link": "https://bahia.ba/municipios/motorista-fica-preso-a-ferragens-em-acidente-na-br-324/",
-      "fonte": "bahia.ba",
-      "data": "2026-10-06T14:33:05.652601-03:00",
-      "resumo": "Um micro-ônibus, uma carreta e um veículo de pequeno porte bateram frontalmente na madrugada de segunda-feira (5)",
-      "hoje": true
-    },
-    {
-      "titulo": "Ciclista morre após colisão com veículo na BR-324",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/ciclista-morre-apos-colisao-com-veiculo-na-br-324/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-10-06T06:33:05.652626-03:00",
-      "resumo": "Um ciclista morreu após colisão com um veículo. O acidente aconteceu na madrugada desta terça-feira (6), no km 564 da BR-324,...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-10-07T06:33:46.481874-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
