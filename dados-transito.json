@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-10-11T15:12:39.258128-03:00",
+  "ultimaAtualizacao": "2026-10-11T19:10:59.102503-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "Carro fica preso sob caminhão após batida e causa congestionamento na BR-324, em Salvador",
+      "link": "https://seliguebahia.com.br/cidade/carro-fica-preso-sob-caminhao-apos-batida-e-causa-congestionamento-na-br-324-em-salvador/",
+      "fonte": "Se Ligue Bahia",
+      "data": "2026-10-11T16:11:09.920192-03:00",
+      "resumo": "Uma colisão entre um carro de passeio e um caminhão provocou congestionamento na BR-324, em Salvador, na manhã deste domingo (11).",
+      "hoje": true
+    },
+    {
       "titulo": "VÍDEO: Acidente entre caminhão e carro deixa BR-324 congestionada",
       "link": "https://www.portalsalvadorfm.com.br/salvador/video-acidente-entre-caminhao-e-carro-deixa-br-324-congestionada/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-10-11T08:12:43.481461-03:00",
+      "data": "2026-10-11T08:11:09.920050-03:00",
       "resumo": "Um acidente entre um carro de passeio e uma caminhão deixou a BR-324 congestionada, no sentido Feira de Santana. O acidente aconteceu na m.",
       "hoje": true
     }
