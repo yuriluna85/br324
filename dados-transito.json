@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-10-12T14:09:25.796511-03:00",
+  "ultimaAtualizacao": "2026-10-12T20:40:31.439426-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,26 @@
   ],
   "noticias": [
     {
+      "titulo": "Vítimas de acidente na BR-324 morreram carbonizadas, confirma polícia",
+      "link": "https://www.correio24horas.com.br/minha-bahia/vitimas-de-acidente-na-br-324-morreram-carbonizadas-confirma-policia-1026",
+      "fonte": "Jornal Correio",
+      "data": "2026-10-12T13:40:41.068048-03:00",
+      "resumo": "Carro pegou fogo em Simões Filho, na Região Metropolitana de Salvador, na manhã desta segunda-feira (12)",
+      "hoje": true
+    },
+    {
+      "titulo": "Duas pessoas morrem carbonizadas após carro bater em poste na BR-324",
+      "link": "https://www.faroldabahia.com.br/noticia/duas-pessoas-morrem-carbonizadas-apos-carro-bater-em-poste-na-br-324",
+      "fonte": "Farol da Bahia",
+      "data": "2026-10-12T12:40:41.068064-03:00",
+      "resumo": "O acidente ocorreu em Simões Filho, na Região Metropolitana de Salvador.",
+      "hoje": true
+    },
+    {
       "titulo": "Acidente na BR-324 mata duas pessoas em Simões Filho",
       "link": "https://www.portalsalvadorfm.com.br/cidades/acidente-na-br-324-mata-duas-pessoas-em-simoes-filho/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-10-12T11:09:28.384932-03:00",
+      "data": "2026-10-12T10:40:41.068058-03:00",
       "resumo": "Duas pessoas morreram após um grave acidente na BR-324, em Simões Filho, na Região Metropolitana de Salvador. O caso aconteceu na manhã...",
       "hoje": true
     },
@@ -33,7 +49,7 @@
       "titulo": "Duas pessoas morrem carbonizadas após carro bater em poste e pegar fogo na BR-324, na Bahia",
       "link": "https://g1.globo.com/ba/bahia/noticia/2026/10/12/duas-pessoas-morrem-carbonizadas-apos-carro-bater-em-poste-e-pegar-fogo-na-br-324-na-bahia.ghtml",
       "fonte": "G1",
-      "data": "2026-10-12T11:09:28.384783-03:00",
+      "data": "2026-10-12T10:40:41.067893-03:00",
       "resumo": "Um grave acidente na BR-324 deixou duas vítimas fatais em Simões Filho após o veículo colidir com um poste e incendiar na manhã desta...",
       "hoje": true
     }
