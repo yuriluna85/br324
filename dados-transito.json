@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-10-21T03:12:30.809845-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-10-21T09:07:21.567945-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,22 +22,23 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-10-21T03:12:30.809845-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Carreta tomba e causa interdição de trecho da BR-324 por 3h",
+      "link": "https://www.portalsalvadorfm.com.br/bahia/carreta-tomba-e-causa-interdicao-de-trecho-da-br-324-por-3h/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-10-21T06:07:26.110051-03:00",
+      "resumo": "Um trecho da BR-324 ficou interditado por 3h após uma carreta tombar. O acidente de trânsito aconteceu na madrugada desta quarta-feira (21),...",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
