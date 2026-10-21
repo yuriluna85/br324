@@ -1,18 +1,18 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-10-21T14:27:17.993294-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Lento",
+  "ultimaAtualizacao": "2026-10-21T17:47:21.398285-03:00",
+  "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Lento",
+      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,10 +22,26 @@
   ],
   "noticias": [
     {
+      "titulo": "Colisão Entre Carro E Moto Deixa Motociclista Morto Na BR-324, Em Salvador",
+      "link": "https://takta.com.br/municipios/colisao-entre-carro-e-moto-deixa-motociclista-morto-na-br-324-em-salvador/",
+      "fonte": "Taktá No AR",
+      "data": "2026-10-21T16:47:26.737171-03:00",
+      "resumo": "Um motociclista morreu após uma colisão traseira envolvendo um carro e uma motocicleta, na BR-324, em Salvador, nesta quarta-feira (21).",
+      "hoje": true
+    },
+    {
+      "titulo": "Motociclista morre após bater na traseira de carro na BR-324",
+      "link": "https://atarde.com.br/salvador/motociclista-morre-apos-bater-na-traseira-de-carro-na-br-324-1406567",
+      "fonte": "A TARDE",
+      "data": "2026-10-21T15:47:26.737000-03:00",
+      "resumo": "Rubim Lucas Fontes Santos morreu após bater na traseira de um carro na BR-324, em frente à nova Rodoviária de Salvador, nesta quarta-feira...",
+      "hoje": true
+    },
+    {
       "titulo": "Carreta tomba e causa interdição de trecho da BR-324 por 3h",
       "link": "https://www.portalsalvadorfm.com.br/bahia/carreta-tomba-e-causa-interdicao-de-trecho-da-br-324-por-3h/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-10-21T06:27:27.484794-03:00",
+      "data": "2026-10-21T06:47:26.737191-03:00",
       "resumo": "Um trecho da BR-324 ficou interditado por 3h após uma carreta tombar. O acidente de trânsito aconteceu na madrugada desta quarta-feira (21),...",
       "hoje": true
     }
@@ -33,12 +49,12 @@
   "metricas": {
     "totalRegistros": 6,
     "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
-    "percentualLento": 33.3,
-    "totalAcidentes": 2,
-    "totalObras": 1,
+    "percentualAtencao": 0.0,
+    "percentualLento": 50.0,
+    "totalAcidentes": 3,
+    "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 85.0
   }
 }
