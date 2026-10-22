@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-10-21T23:36:10.003538-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-10-22T05:08:16.987005-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,39 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Vídeo: Colisão Entre Carro E Moto Deixa Motociclista Morto Na BR-324, Em Salvador",
-      "link": "https://takta.com.br/municipios/colisao-entre-carro-e-moto-deixa-motociclista-morto-na-br-324-em-salvador/",
-      "fonte": "Taktá No AR",
-      "data": "2026-10-21T16:36:18.147485-03:00",
-      "resumo": "Um motociclista morreu após uma colisão traseira envolvendo um carro e uma motocicleta, na BR-324, em Salvador, nesta quarta-feira (21).",
-      "hoje": true
-    },
-    {
-      "titulo": "Motociclista morre após bater na traseira de carro na BR-324",
-      "link": "https://atarde.com.br/salvador/motociclista-morre-apos-bater-na-traseira-de-carro-na-br-324-1406567",
-      "fonte": "A TARDE",
-      "data": "2026-10-21T16:36:18.147339-03:00",
-      "resumo": "Rubim Lucas Fontes Santos morreu após bater na traseira de um carro na BR-324, em frente à nova Rodoviária de Salvador, nesta quarta-feira...",
-      "hoje": true
-    },
-    {
-      "titulo": "Carreta tomba e causa interdição de trecho da BR-324 por 3h",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/carreta-tomba-e-causa-interdicao-de-trecho-da-br-324-por-3h/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-10-21T06:36:18.147493-03:00",
-      "resumo": "Um trecho da BR-324 ficou interditado por 3h após uma carreta tombar. O acidente de trânsito aconteceu na madrugada desta quarta-feira (21),...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-10-22T05:08:16.987005-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
