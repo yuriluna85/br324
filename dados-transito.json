@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-10-23T16:23:08.602363-03:00",
+  "ultimaAtualizacao": "2026-10-23T19:25:52.403051-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,26 @@
   ],
   "noticias": [
     {
+      "titulo": "Acidente causa congestionamento intenso na BR-324, sentido Salvador",
+      "link": "https://seliguebahia.com.br/bahia/acidente-causa-congestionamento-intenso-na-br-324-sentido-salvador/",
+      "fonte": "Se Ligue Bahia",
+      "data": "2026-10-23T18:41:06.015461-03:00",
+      "resumo": "Um acidente envolvendo um carro e três caminhões provocou um longo congestionamento na BR-324, em Feira de Santana, nesta sexta-feira (23).",
+      "hoje": true
+    },
+    {
+      "titulo": "Acidente provoca congestionamento de 7 km na Bahia; PRF registrou outras três ocorrências na mesma rodovia",
+      "link": "https://g1.globo.com/google/amp/ba/feira-de-santana-regiao/noticia/2026/10/23/acidente-provoca-congestionamento-na-bahia.ghtml",
+      "fonte": "G1",
+      "data": "2026-10-23T17:26:06.015302-03:00",
+      "resumo": "Tombamento de carreta interditou totalmente a pista da BR-324, no trecho de Conceição do Jacuípe, nesta sexta-feira (23). Ninguém morreu.",
+      "hoje": true
+    },
+    {
       "titulo": "Carreta tombada provoca congestionamento na BR-324",
       "link": "https://seliguebahia.com.br/bahia/carreta-tombada-provoca-congestionamento-na-br-324/",
       "fonte": "Se Ligue Bahia",
-      "data": "2026-10-23T11:23:13.471832-03:00",
+      "data": "2026-10-23T11:26:06.015476-03:00",
       "resumo": "A retirada de uma carreta tombada provocou congestionamento na BR-324, no sentido Feira de Santana, na manhã desta sexta-feira (23).",
       "hoje": true
     },
@@ -33,7 +49,7 @@
       "titulo": "Carreta tombada provoca congestionamento na BR-324 em direção a Feira de Santana",
       "link": "https://www.portalsalvadorfm.com.br/bahia/carreta-tombada-provoca-congestionamento-na-br-324-em-direcao-a-feira-de-santana/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-10-23T10:23:13.471822-03:00",
+      "data": "2026-10-23T10:26:06.015453-03:00",
       "resumo": "Trânsito ficou parado nas proximidades da Bartofil durante operação para retirar o veículo da pista nesta sexta-feira (23).",
       "hoje": true
     },
@@ -41,7 +57,7 @@
       "titulo": "Acidente envolvendo carro e três caminhões causa lentidão na BR-324, em Feira de Santana",
       "link": "https://takta.com.br/ultimas-noticias/acidente-envolvendo-carro-e-tres-caminhoes-causa-lentidao-na-br-324-em-feira-de-santana/",
       "fonte": "Taktá No AR",
-      "data": "2026-10-23T07:23:13.471669-03:00",
+      "data": "2026-10-23T07:26:06.015442-03:00",
       "resumo": "Um acidente envolvendo um carro e três caminhões foi registrado por volta das 5h40 desta sexta-feira (23), na BR-324, nas proximidades do...",
       "hoje": true
     }
