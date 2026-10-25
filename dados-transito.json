@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-10-24T21:24:23.777463-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-10-25T02:00:48.425505-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -16,29 +16,28 @@
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
-      "status": "Atenção",
-      "mensagem": "Aumento no fluxo habitual de veículos com retenção localizada."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     }
   ],
   "noticias": [
     {
-      "titulo": "Carreta tomba e provoca congestionamento de sete quilômetros na BR-324",
-      "link": "https://www.deolhonacidade.net/carreta-tomba-e-provoca-congestionamento-de-sete-quilometros-na-br-324",
-      "fonte": "deolhonacidade.net",
-      "data": "2026-10-24T06:24:27.451179-03:00",
-      "resumo": "Acidente aconteceu no sentido Feira de Santana e deixou a rodovia bloqueada durante algumas horas; outras três ocorrências foram registradas...",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-10-25T02:00:48.425505-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
     "totalObras": 0,
-    "totalCongestionamento": 1,
+    "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
