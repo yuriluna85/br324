@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-10-26T19:47:37.057065-03:00",
+  "ultimaAtualizacao": "2026-10-26T22:44:26.942284-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "Mulher é atropelada e morre em acidente na BR-324, na Bahia",
-      "link": "https://www.correio24horas.com.br/minha-bahia/mulher-e-atropelada-e-morre-em-acidente-na-br-324-na-bahia-1026",
-      "fonte": "Jornal Correio",
-      "data": "2026-10-26T07:47:46.298289-03:00",
-      "resumo": "Uma mulher morreu após ser atropelada na BR-324, no trecho do município de Amélia Rodrigues, na Região Metropolitana de Feira de Santana...",
+      "titulo": "Acidente entre caminhão e moto deixa uma pessoa morta na BR-324",
+      "link": "https://www.portalsalvadorfm.com.br/bahia/acidente-entre-caminhao-e-moto-deixa-uma-pessoa-morta-na-br-324/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-10-26T20:44:31.537032-03:00",
+      "resumo": "Uma pessoa morreu após uma colisão frontal entre um caminhão e uma motocicleta na BR-324, no trecho do município de Gavião, na Bahia.",
       "hoje": true
     }
   ],
