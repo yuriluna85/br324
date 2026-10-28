@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-10-28T16:59:13.735604-03:00",
+  "ultimaAtualizacao": "2026-10-28T20:55:02.589909-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,18 @@
   ],
   "noticias": [
     {
+      "titulo": "VÍDEO: Acidente entre dois caminhões interdita trecho da BR-324",
+      "link": "https://www.portalsalvadorfm.com.br/bahia/video-acidente-entre-dois-caminhoes-interdita-trecho-da-br-324/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-10-28T20:25:10.083981-03:00",
+      "resumo": "Um acidente envolvendo dois caminhões provocou a interdição total da pista da BR-324, em Feira de Santana, no sentido Salvador.",
+      "hoje": true
+    },
+    {
       "titulo": "Colisão entre caminhões interdita trecho da BR-324 em Feira de Santana",
       "link": "https://www.deolhonacidade.net/colisao-entre-caminhoes-interdita-trecho-da-br-324-em-feira-de-santana",
       "fonte": "deolhonacidade.net",
-      "data": "2026-10-28T16:49:17.410151-03:00",
+      "data": "2026-10-28T16:55:10.083853-03:00",
       "resumo": "Um acidente envolvendo dois caminhões provocou a interdição total da pista da BR-324, em Feira de Santana, na tarde desta quarta-feira (28).",
       "hoje": true
     }
