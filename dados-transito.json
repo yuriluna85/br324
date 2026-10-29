@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-10-28T20:55:02.589909-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-10-29T00:38:30.946415-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,31 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "VÍDEO: Acidente entre dois caminhões interdita trecho da BR-324",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/video-acidente-entre-dois-caminhoes-interdita-trecho-da-br-324/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-10-28T20:25:10.083981-03:00",
-      "resumo": "Um acidente envolvendo dois caminhões provocou a interdição total da pista da BR-324, em Feira de Santana, no sentido Salvador.",
-      "hoje": true
-    },
-    {
-      "titulo": "Colisão entre caminhões interdita trecho da BR-324 em Feira de Santana",
-      "link": "https://www.deolhonacidade.net/colisao-entre-caminhoes-interdita-trecho-da-br-324-em-feira-de-santana",
-      "fonte": "deolhonacidade.net",
-      "data": "2026-10-28T16:55:10.083853-03:00",
-      "resumo": "Um acidente envolvendo dois caminhões provocou a interdição total da pista da BR-324, em Feira de Santana, na tarde desta quarta-feira (28).",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-10-29T00:38:30.946415-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
