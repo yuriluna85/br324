@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-10-29T18:54:39.993089-03:00",
+  "ultimaAtualizacao": "2026-10-29T22:27:33.355252-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -25,7 +25,7 @@
       "titulo": "BR-324: caminhão tomba em viaduto em Feira de Santana; trânsito na área urbana precisou de intervenção",
       "link": "https://glomes.com.br/caminhao-tomba-em-viaduto-em-feira-de-santana-transito-na-area-urbana-precisou-de-intervencao/",
       "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-10-29T14:54:44.544595-03:00",
+      "data": "2026-10-29T15:27:37.286496-03:00",
       "resumo": "Um caminhão que transportava combustível tombou nesta quinta-feira (29), no viaduto do Tomba, no km 05 da BR-324, em Feira de Santana.",
       "hoje": true
     }
