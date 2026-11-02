@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-02T07:19:56.786397-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-11-02T17:26:38.396227-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,22 +22,95 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-11-02T07:19:56.786397-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Engarrafamento na BR-324 é registrado após buraco interditar parcialmente rodovia em Simões Filho",
+      "link": "https://www.bahianoticias.com.br/noticia/323259-engarrafamento-na-br-324-e-registrado-apos-buraco-interditar-parcialmente-rodovia-em-simoes-filho",
+      "fonte": "Bahia Notícias",
+      "data": "2026-11-02T15:26:45.493688-03:00",
+      "resumo": "Um engarrafamento foi registrado na BR-324, na altura do km 603, em Simões Filho, na Região Metropolitana de Salvador, nesta segunda-feira...",
+      "hoje": true
+    },
+    {
+      "titulo": "VÍDEO: Buraco na BR-324 provoca congestionamento intenso nesta segunda-feira",
+      "link": "https://www.portalsalvadorfm.com.br/transito/video-buraco-na-br-324-provoca-congestionamento-intenso-nesta-segunda-feira/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-11-02T14:26:45.493699-03:00",
+      "resumo": "Um buraco de grandes proporções na pista provocou a interdição da BR-324 e gerou um grande congestionamento no sentido Salvador.",
+      "hoje": true
+    },
+    {
+      "titulo": "Buraco interdita BR-324 em Simões Filho e obriga motoristas a desviar no retorno do feriadão",
+      "link": "https://www.faroldabahia.com.br/noticia/buraco-interdita-br-324-em-simoes-filho-e-obriga-motoristas-a-desviar-no-retorno-do-feriadao",
+      "fonte": "Farol da Bahia",
+      "data": "2026-11-02T13:26:45.493704-03:00",
+      "resumo": "Um buraco de grandes dimensões interditou totalmente um trecho da BR-324 em Simões Filho, na região metropolitana de Salvador,...",
+      "hoje": true
+    },
+    {
+      "titulo": "Buraco de grandes proporções interdita parcialmente BR-324 em Simões Filho",
+      "link": "https://www.metro1.com.br/noticias/bahia/190853,buraco-de-grandes-proporcoes-interdita-parcialmente-br-324-em-simoes-filho",
+      "fonte": "Rádio Metrópole",
+      "data": "2026-11-02T12:26:45.493709-03:00",
+      "resumo": "Trecho já havia registrado afundamentos em julho, provocados por problemas estruturais em um antigo bueiro; novo buraco foi identificado na...",
+      "hoje": true
+    },
+    {
+      "titulo": "Buraco Interdita Parcialmente Trecho Da BR-324 Em Simões Filho",
+      "link": "https://takta.com.br/municipios/buraco-interdita-parcialmente-trecho-da-br-324-em-simoes-filho/",
+      "fonte": "Taktá No AR",
+      "data": "2026-11-02T11:26:45.493718-03:00",
+      "resumo": "Um buraco de grandes dimensões na pista provocou a interdição parcial de um trecho da BR-324, em Simões Filho, na Região Metropolitana de...",
+      "hoje": true
+    },
+    {
+      "titulo": "Vídeo: Buraco provoca interdição total de trecho da BR-324 em Simões Filho",
+      "link": "https://atarde.com.br/bahia/video-buraco-provoca-interdicao-total-de-trecho-da-br-324-em-simoes-filho-1408004",
+      "fonte": "A TARDE",
+      "data": "2026-11-02T11:26:45.493714-03:00",
+      "resumo": "Um buraco de grandes dimensões provocou a interdição total de um trecho da BR-324, em Simões Filho, na Região Metropolitana de Salvador,...",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324 tem trecho totalmente interditado após abertura de buraco na pista",
+      "link": "https://www.deolhonacidade.net/br-324-tem-trecho-totalmente-interditado-apos-abertura-de-buraco-na-pista",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-11-02T11:26:45.493694-03:00",
+      "resumo": "Interdição ocorre no sentido Salvador e motoristas que seguem de Feira de Santana precisam utilizar rota alternativa. Victória Silva...",
+      "hoje": true
+    },
+    {
+      "titulo": "Cratera interdita parcialmente trecho da BR-324 em Simões Filho",
+      "link": "https://www.correio24horas.com.br/bahia/cratera-interdita-parcialmente-trecho-da-br-324-em-simoes-filho-1126",
+      "fonte": "Jornal Correio",
+      "data": "2026-11-02T11:26:45.493683-03:00",
+      "resumo": "Um buraco de grandes proporções que se abriu na pista provocou a interdição parcial da BR-324, na altura do km 603, em Simões Filho,...",
+      "hoje": true
+    },
+    {
+      "titulo": "Um buraco de grandes dimensões provoca a interdição total da BR-324, em Simões Filho, na Região Metropolitana de Salvador. A ocorrência foi confirmada por volta das 11h desta segunda-feira (2). Segundo a Polícia Rodoviária Federal (PRF), o bloqueio",
+      "link": "https://www.instagram.com/reel/DfPjCbLinjf/",
+      "fonte": "Instagram",
+      "data": "2026-11-02T11:26:45.493674-03:00",
+      "resumo": "há 6 horas",
+      "hoje": true
+    },
+    {
+      "titulo": "Buraco na pista causa interdição de parte da BR-324, na Região Metropolitana de Salvador",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/02/buraco-na-pista-causa-interdicao-de-parte-da-br-324-na-ba.ghtml",
+      "fonte": "G1",
+      "data": "2026-11-02T11:26:45.493522-03:00",
+      "resumo": "Interdição foi iniciada nesta segunda-feira (2), em Simões Filho, e atinge todo o sentido crescente da rodovia no sentindo Salvador.",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
