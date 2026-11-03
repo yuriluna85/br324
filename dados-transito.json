@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-11-03T14:56:52.216449-03:00",
+  "ultimaAtualizacao": "2026-11-03T19:49:31.297125-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,26 @@
   ],
   "noticias": [
     {
+      "titulo": "O Departamento Nacional de Infraestrutura de Transportes (Dnit) suspendeu o trânsito no local do buraco na BR-324, no km 603, determinando a interdição total da via, no sentido Salvador. A medida foi tomada às 18h desta terça-feira (3). Todo o tráfego foi",
+      "link": "https://www.instagram.com/reel/DfS-Lg5ES3m/",
+      "fonte": "Instagram",
+      "data": "2026-11-03T19:38:35.185728-03:00",
+      "resumo": "há 11 minutos",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324 deve ser totalmente interditada por quatro dias para obras em Simões Filho",
+      "link": "https://www.faroldabahia.com.br/noticia/br-324-deve-ser-totalmente-interditada-por-quatro-dias-para-obras-em-simoes-filho",
+      "fonte": "Farol da Bahia",
+      "data": "2026-11-03T16:49:35.185801-03:00",
+      "resumo": "PRF orienta motoristas a evitar a rodovia e alerta para riscos do uso irregular dos acostamentos.",
+      "hoje": true
+    },
+    {
       "titulo": "Buraco na BR-324 causa lentidão no fluxo entre Salvador e interior",
       "link": "https://noticias.r7.com/bahia/buraco-na-br-324-causa-lentidao-no-fluxo-entre-salvador-e-interior-03112026/",
       "fonte": "R7",
-      "data": "2026-11-03T11:57:00.826712-03:00",
+      "data": "2026-11-03T11:49:35.185754-03:00",
       "resumo": "Um novo buraco na BR-324, principal ligação entre Salvador e cidades do interior da Bahia, tem provocado congestionamentos e transtornos...",
       "hoje": true
     },
@@ -33,7 +49,7 @@
       "titulo": "DNIT inicia nesta terça recuperação de trecho da BR-324 após buraco provocar fila de caminhões",
       "link": "https://www.metro1.com.br/noticias/bahia/190886,dnit-inicia-nesta-terca-recuperacao-de-trecho-da-br-324-apos-buraco-provocar-fila-de-caminhoes",
       "fonte": "Rádio Metrópole",
-      "data": "2026-11-03T09:57:00.826721-03:00",
+      "data": "2026-11-03T09:49:35.185765-03:00",
       "resumo": "Interdição parcial no km 603, em Simões Filho, mantém restrições ao tráfego nesta terça-feira (3); congestionamento chegou a 20 km na...",
       "hoje": true
     },
@@ -41,7 +57,7 @@
       "titulo": "BR-324 tem nova erosão em Simões Filho(BA) e congestionamento chega a 20 km",
       "link": "https://estradas.com.br/br-324-tem-nova-erosao-em-simoes-filhoba-e-congestionamento-chega-a-20-km/",
       "fonte": "Estradas",
-      "data": "2026-11-03T09:57:00.826702-03:00",
+      "data": "2026-11-03T09:49:35.185742-03:00",
       "resumo": "A conservação da BR-324 entre Salvador e Feira de Santana estão sob responsabilidade do DNIT, após o encerramento do contrato com a...",
       "hoje": true
     },
@@ -49,7 +65,7 @@
       "titulo": "Buraco na BR-324 causa congestionamento de 2 horas no sentido Salvador",
       "link": "https://atarde.com.br/bahia/motoristas-enfrentam-quase-2h-de-engarrafamento-na-br-324-1408092",
       "fonte": "A TARDE",
-      "data": "2026-11-03T08:57:00.826731-03:00",
+      "data": "2026-11-03T08:49:35.185790-03:00",
       "resumo": "Um buraco aberto em um viaduto da BR-324, em Simões Filho, provoca quase duas horas de congestionamento no sentido Feira de...",
       "hoje": true
     },
@@ -57,7 +73,7 @@
       "titulo": "Cratera na BR-324 causa engarrafamento de duas horas no sentido Salvador",
       "link": "https://www.correio24horas.com.br/bahia/cratera-na-br-324-causa-engarrafamento-de-duas-horas-no-sentido-salvador-1126",
       "fonte": "Jornal Correio",
-      "data": "2026-11-03T07:57:00.826674-03:00",
+      "data": "2026-11-03T07:49:35.185710-03:00",
       "resumo": "A cratera que se abriu ba BR-324, na altura do km 603, em Simões Filho, na Região Metropolitana de Salvador (RMS), causa um engarrafamento...",
       "hoje": true
     },
@@ -65,7 +81,7 @@
       "titulo": "Movimento de chegada a Salvador é intenso na BR-324",
       "link": "https://www.portalsalvadorfm.com.br/salvador/movimento-de-chegada-a-salvador-fica-intenso-na-br-324/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-11-03T06:57:00.826741-03:00",
+      "data": "2026-11-03T06:49:35.185811-03:00",
       "resumo": "Após o feriadão de Finados (2), a volta para casa foi de trânsito intenso na BR-324, nas primeiras horas desta terça-feira (3),...",
       "hoje": true
     },
@@ -73,8 +89,8 @@
       "titulo": "Buraco na BR-324 provoca fila de caminhões em Simões Filho; DNIT anuncia início de obras",
       "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/03/buraco-na-br-324-provoca-fila-de-caminhoes-em-simoes-filho-dnit-anuncia-inicio-de-obras.ghtml",
       "fonte": "G1",
-      "data": "2026-11-03T06:57:00.826497-03:00",
-      "resumo": "O buraco que provocou a interdição parcial de um trecho da BR-324, em Simões Filho, na Região Metropolitana de Salvador, tem causado uma...",
+      "data": "2026-11-03T06:49:35.185557-03:00",
+      "resumo": "Interdição parcial ocorre no sentido Salvador e foi provocada por processo erosivo no aterro de acesso a um viaduto.",
       "hoje": true
     }
   ],
