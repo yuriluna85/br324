@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-11-02T23:31:00.190710-03:00",
+  "ultimaAtualizacao": "2026-11-03T07:18:38.209720-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,83 +22,19 @@
   ],
   "noticias": [
     {
+      "titulo": "Buraco na pista causa interdição de parte da BR-324, na Região Metropolitana de Salvador",
+      "link": "https://www.jornalfolhadoestado.com/municipios/buraco-na-pista-causa-interdicao-de-parte-da-br-324-na-regiao-metropolitana-de-salvador/",
+      "fonte": "Folha do Estado da Bahia",
+      "data": "2026-11-03T01:18:45.407912-03:00",
+      "resumo": "Interdição foi iniciada na segunda-feira (2), em Simões Filho, e atinge rodovia no sentindo Salvador.",
+      "hoje": true
+    },
+    {
       "titulo": "Um buraco de grandes dimensões provoca a interdição total da BR-324, em Simões Filho, na Região Metropolitana de Salvador. A ocorrência foi confirmada por volta das 11h desta segunda-feira (2). Segundo a Polícia Rodoviária Federal (PRF), o bloqueio",
       "link": "https://www.instagram.com/reel/DfPjCbLinjf/",
       "fonte": "Instagram",
-      "data": "2026-11-02T21:31:08.510627-03:00",
-      "resumo": "há 2 horas",
-      "hoje": true
-    },
-    {
-      "titulo": "Buraco Aberto Em Pista Interdita Parcialmente A BR-324 Na Altura De Simões Filho",
-      "link": "https://takta.com.br/municipios/buraco-aberto-em-pista-interdita-parcialmente-a-br-324-na-altura-de-simoes-filho/",
-      "fonte": "Taktá No AR",
-      "data": "2026-11-02T18:31:08.510660-03:00",
-      "resumo": "A interdição da BR-324 aconteceu na altura do Km 603, em Simões Filho, na Região Metropolitana de Salvador, após uma cratera de grandes...",
-      "hoje": true
-    },
-    {
-      "titulo": "PRF libera parcialmente trecho da BR-324 após buraco em Simões Filho",
-      "link": "https://atarde.com.br/bahia/prf-libera-parcialmente-trecho-da-br-324-apos-buraco-em-simoes-filho-1408050",
-      "fonte": "A TARDE",
-      "data": "2026-11-02T17:31:08.510680-03:00",
-      "resumo": "A Polícia Rodoviária Federal (PRF) flexibilizou a interdição de um trecho da BR-324, em Simões Filho, na Região Metropolitana de Salvador.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 é liberada parcialmente em Simões Filho após bloqueio por buraco",
-      "link": "https://www.portalsalvadorfm.com.br/bahia/apos-bloqueio-total-br-324-permite-passagem-de-veiculos-pequenos/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-11-02T17:31:08.510667-03:00",
-      "resumo": "A BR-324, em Simões Filho, foi liberada parcialmente para veículos pequenos após bloqueio por buraco. Desvios para pesados.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 tem congestionamento no sentido Salvador após interdição de via em Simões Filho",
-      "link": "https://www.metro1.com.br/noticias/cidade/190868,br-324-tem-congestionamento-no-sentido-salvador-apos-interdicao-de-via-em-simoes-filho",
-      "fonte": "Rádio Metrópole",
-      "data": "2026-11-02T17:31:08.510654-03:00",
-      "resumo": "Até a última atualização, retenção já ultrapassava o km 587, enquanto trecho no km 603 permanecia interditado por conta de um buraco.",
-      "hoje": true
-    },
-    {
-      "titulo": "Buraco na pista causa interdição parcial da BR-324 sentido Salvador",
-      "link": "https://glomes.com.br/buraco-na-pista-causa-interdicao-parcial-da-br-324-sentido-salvador/",
-      "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-11-02T17:31:08.510647-03:00",
-      "resumo": "A PRF informou nesta segunda-feira (2) a interdição parcial da BR-324, no km 603, em Simões Filho, sentido Salvador, devido a um buraco de...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 segue parcialmente interditada após abertura de buraco na pista",
-      "link": "https://www.correio24horas.com.br/minha-bahia/br-324-segue-parcialmente-interditada-apos-abertura-de-buraco-na-pista-1126",
-      "fonte": "Jornal Correio",
-      "data": "2026-11-02T17:31:08.510639-03:00",
-      "resumo": "A interdição da BR-324, na altura do km 603, em Simões Filho, na Região Metropolitana de Salvador, segue parcial na tarde desta...",
-      "hoje": true
-    },
-    {
-      "titulo": "Engarrafamento na BR-324 é registrado após buraco interditar parcialmente rodovia em Simões Filho",
-      "link": "https://www.bahianoticias.com.br/noticia/323259-engarrafamento-na-br-324-e-registrado-apos-buraco-interditar-parcialmente-rodovia-em-simoes-filho",
-      "fonte": "Bahia Notícias",
-      "data": "2026-11-02T15:31:08.510686-03:00",
-      "resumo": "Um engarrafamento foi registrado na BR-324, na altura do km 603, em Simões Filho, na Região Metropolitana de Salvador, nesta segunda-feira...",
-      "hoje": true
-    },
-    {
-      "titulo": "Buraco interdita BR-324 em Simões Filho e obriga motoristas a desviar no retorno do feriadão",
-      "link": "https://www.faroldabahia.com.br/noticia/buraco-interdita-br-324-em-simoes-filho-e-obriga-motoristas-a-desviar-no-retorno-do-feriadao",
-      "fonte": "Farol da Bahia",
-      "data": "2026-11-02T13:31:08.510674-03:00",
-      "resumo": "Um buraco de grandes dimensões interditou totalmente um trecho da BR-324 em Simões Filho, na região metropolitana de Salvador,...",
-      "hoje": true
-    },
-    {
-      "titulo": "Buraco na pista causa interdição de parte da BR-324, na Região Metropolitana de Salvador; engarrafamento chegou a 20 km",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/02/buraco-na-pista-causa-interdicao-de-parte-da-br-324-na-ba.ghtml",
-      "fonte": "G1",
-      "data": "2026-11-02T11:31:08.510487-03:00",
-      "resumo": "Interdição foi iniciada nesta segunda-feira (2), em Simões Filho, e atinge rodovia no sentindo Salvador.",
+      "data": "2026-11-03T00:18:45.407889-03:00",
+      "resumo": "há 7 horas",
       "hoje": true
     }
   ],
