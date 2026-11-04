@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-11-04T15:07:04.824977-03:00",
+  "ultimaAtualizacao": "2026-11-04T20:49:19.827171-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,34 +22,42 @@
   ],
   "noticias": [
     {
+      "titulo": "Interdição na BR-324 provoca congestionamento de 8 km e viagem de até seis horas entre Feira e Salvador",
+      "link": "https://www.deolhonacidade.net/interdicao-na-br-324-provoca-congestionamento-de-8-km-e-viagem-de-ate-seis-horas-entre-feira-e-salvador",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-11-04T16:49:22.804509-03:00",
+      "resumo": "Buraco na pista, em trecho de Simões Filho, obrigou o bloqueio completo da rodovia. DNIT prevê concluir os reparos até o fim de semana.",
+      "hoje": true
+    },
+    {
       "titulo": "VÍDEO: Congestionamento na BR-324 já ultrapassa 8km",
       "link": "https://www.portalsalvadorfm.com.br/bahia/video-congestionamento-na-br-324-ja-ultrapassa-dos-8km/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-11-04T12:07:09.043979-03:00",
+      "data": "2026-11-04T12:49:22.804500-03:00",
       "resumo": "O congestionamento na BR-324, sentido Salvador, já ultrapassa os 6km devido a uma cratera que se abriu durante o feriado de Finados, na seg.",
+      "hoje": true
+    },
+    {
+      "titulo": "Com trecho completamente interditado, engarrafamento da BR-324 chega a 8 km na Bahia",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/04/engarrafamento-da-br-324-na-bahia.ghtml",
+      "fonte": "G1",
+      "data": "2026-11-04T12:49:22.804284-03:00",
+      "resumo": "Situação foi causada por um buraco aberto na pista na altura de Simões Filho, cidade da Região Metropolitana de Salvador.",
       "hoje": true
     },
     {
       "titulo": "Motoristas Que Seguem Para Salvador Devem Desviar Após Interdição Total Na BR-324",
       "link": "https://takta.com.br/municipios/motoristas-que-seguem-para-salvador-devem-desviar-apos-interdicao-total-na-br-324/",
       "fonte": "Taktá No AR",
-      "data": "2026-11-04T10:07:09.043957-03:00",
+      "data": "2026-11-04T09:49:22.804483-03:00",
       "resumo": "O trânsito na BR-324 foi totalmente interditado no km 604, em Simões Filho, no sentido crescente (Salvador), após a abertura de um buraco de...",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 tem trecho bloqueado em Simões Filho; veja caminhos alternativos",
-      "link": "https://www.metro1.com.br/noticias/bahia/190930,br-324-tem-trecho-bloqueado-em-simoes-filho-veja-caminhos-alternativos",
-      "fonte": "Rádio Metrópole",
-      "data": "2026-11-04T09:07:09.043968-03:00",
-      "resumo": "Interdição foi provocada por um buraco na pista, no sentido Salvador, e afeta quem segue pela rodovia.",
       "hoje": true
     },
     {
       "titulo": "Buraco na pista provoca interdição total de trecho da BR-324 sentido Salvador",
       "link": "https://www.faroldabahia.com.br/noticia/buraco-na-pista-provoca-interdicao-total-de-trecho-da-br-324-sentido-salvador",
       "fonte": "Farol da Bahia",
-      "data": "2026-11-04T08:07:09.043934-03:00",
+      "data": "2026-11-04T08:49:22.804473-03:00",
       "resumo": "Trecho no sentido Feira de Santana-Salvador foi fechado para obras.",
       "hoje": true
     },
@@ -57,15 +65,15 @@
       "titulo": "DNIT interdita totalmente trecho da BR-324 após abertura de buraco na via",
       "link": "https://www.jornalfolhadoestado.com/municipios/dnit-interdita-totalmente-trecho-da-br-324-apos-abertura-de-buraco-na-via/",
       "fonte": "Folha do Estado da Bahia",
-      "data": "2026-11-04T06:07:09.043999-03:00",
-      "resumo": "Bloqueio no sentido Salvador foi ampliado na noite desta terça-feira (3), e todo o fluxo de veículos passou a ser direcionado para a via...",
+      "data": "2026-11-04T06:49:22.804518-03:00",
+      "resumo": "Trânsito na BR-324 sofre interdição total na pista sentido Salvador devido a buraco. Desvio recomendado para motoristas.",
       "hoje": true
     },
     {
       "titulo": "Novo buraco na BR-324 acende alerta para o trânsito no Natal",
       "link": "https://www.trbn.com.br/materia/I166856/novo-buraco-na-br-324-acende-alerta-para-o-transito-no-natal",
       "fonte": "Tribuna da Bahia",
-      "data": "2026-11-04T03:07:09.043989-03:00",
+      "data": "2026-11-04T02:49:22.804491-03:00",
       "resumo": "Segundo informações da Polícia Rodoviária Federal (PRF), a interdição parcial provocou retenções que chegaram a cerca de 20 quilômetros.",
       "hoje": true
     }
