@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-04T07:11:39.095618-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-11-04T15:07:04.824977-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,23 +22,63 @@
   ],
   "noticias": [
     {
+      "titulo": "VÍDEO: Congestionamento na BR-324 já ultrapassa 8km",
+      "link": "https://www.portalsalvadorfm.com.br/bahia/video-congestionamento-na-br-324-ja-ultrapassa-dos-8km/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-11-04T12:07:09.043979-03:00",
+      "resumo": "O congestionamento na BR-324, sentido Salvador, já ultrapassa os 6km devido a uma cratera que se abriu durante o feriado de Finados, na seg.",
+      "hoje": true
+    },
+    {
+      "titulo": "Motoristas Que Seguem Para Salvador Devem Desviar Após Interdição Total Na BR-324",
+      "link": "https://takta.com.br/municipios/motoristas-que-seguem-para-salvador-devem-desviar-apos-interdicao-total-na-br-324/",
+      "fonte": "Taktá No AR",
+      "data": "2026-11-04T10:07:09.043957-03:00",
+      "resumo": "O trânsito na BR-324 foi totalmente interditado no km 604, em Simões Filho, no sentido crescente (Salvador), após a abertura de um buraco de...",
+      "hoje": true
+    },
+    {
+      "titulo": "BR-324 tem trecho bloqueado em Simões Filho; veja caminhos alternativos",
+      "link": "https://www.metro1.com.br/noticias/bahia/190930,br-324-tem-trecho-bloqueado-em-simoes-filho-veja-caminhos-alternativos",
+      "fonte": "Rádio Metrópole",
+      "data": "2026-11-04T09:07:09.043968-03:00",
+      "resumo": "Interdição foi provocada por um buraco na pista, no sentido Salvador, e afeta quem segue pela rodovia.",
+      "hoje": true
+    },
+    {
+      "titulo": "Buraco na pista provoca interdição total de trecho da BR-324 sentido Salvador",
+      "link": "https://www.faroldabahia.com.br/noticia/buraco-na-pista-provoca-interdicao-total-de-trecho-da-br-324-sentido-salvador",
+      "fonte": "Farol da Bahia",
+      "data": "2026-11-04T08:07:09.043934-03:00",
+      "resumo": "Trecho no sentido Feira de Santana-Salvador foi fechado para obras.",
+      "hoje": true
+    },
+    {
       "titulo": "DNIT interdita totalmente trecho da BR-324 após abertura de buraco na via",
       "link": "https://www.jornalfolhadoestado.com/municipios/dnit-interdita-totalmente-trecho-da-br-324-apos-abertura-de-buraco-na-via/",
       "fonte": "Folha do Estado da Bahia",
-      "data": "2026-11-04T06:27:43.578351-03:00",
+      "data": "2026-11-04T06:07:09.043999-03:00",
       "resumo": "Bloqueio no sentido Salvador foi ampliado na noite desta terça-feira (3), e todo o fluxo de veículos passou a ser direcionado para a via...",
+      "hoje": true
+    },
+    {
+      "titulo": "Novo buraco na BR-324 acende alerta para o trânsito no Natal",
+      "link": "https://www.trbn.com.br/materia/I166856/novo-buraco-na-br-324-acende-alerta-para-o-transito-no-natal",
+      "fonte": "Tribuna da Bahia",
+      "data": "2026-11-04T03:07:09.043989-03:00",
+      "resumo": "Segundo informações da Polícia Rodoviária Federal (PRF), a interdição parcial provocou retenções que chegaram a cerca de 20 quilômetros.",
       "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
