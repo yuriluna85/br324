@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-11-05T09:36:14.994011-03:00",
+  "ultimaAtualizacao": "2026-11-05T17:24:50.869117-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,18 +22,34 @@
   ],
   "noticias": [
     {
+      "titulo": "PRF cumpre mandado de prisão e recupera veículo clonado na BR-324, em Feira de Santana",
+      "link": "https://glomes.com.br/prf-cumpre-mandado-de-prisao-e-recupera-veiculo-clonado-na-br-324-em-feira-de-santana/",
+      "fonte": "Grupo Lomes de Comunicação",
+      "data": "2026-11-05T15:24:55.496212-03:00",
+      "resumo": "A Polícia Rodoviária Federal (PRF) cumpriu um mandado de prisão em aberto e recuperou um automóvel com registro de roubo.",
+      "hoje": true
+    },
+    {
       "titulo": "BR-324 É LIBERADA APÓS OBRAS DE RECUPERAÇÃO",
       "link": "https://bahiaeconomica.com.br/destaque-do-dia/br-324-e-liberada-apos-obras-de-recuperacao-210736",
       "fonte": "Bahia Econômica",
-      "data": "2026-11-05T08:42:19.252308-03:00",
+      "data": "2026-11-05T08:24:55.496205-03:00",
       "resumo": "O trecho do km 603 da BR-324, nas proximidades de Simões Filho, na Região Metropolitana de Salvador (RMS), foi liberado no início da manhã...",
+      "hoje": true
+    },
+    {
+      "titulo": "Após 3 dias, trecho da BR-324 interditado por buraco é liberado",
+      "link": "https://atarde.com.br/bahia/apos-3-dias-trecho-da-br-324-interditado-por-buraco-e-liberado-1408405",
+      "fonte": "A TARDE",
+      "data": "2026-11-05T07:24:55.496233-03:00",
+      "resumo": "O trecho da BR-324 interditado no km 603, em Simões Filho, na Região Metropolitana de Salvador, foi liberado na manhã desta quinta-feira (5)...",
       "hoje": true
     },
     {
       "titulo": "Rodovias federais da Bahia desafiam quarto mandato de Lula; Feira de Santana cobra novo Anel de Contorno, ampliação da BR-324 e integração ferroviária | Por Carlos Augusto",
       "link": "https://jornalgrandebahia.com.br/2026/11/rodovias-federais-da-bahia-desafiam-quarto-mandato-de-lula-feira-de-santana-cobra-novo-anel-de-contorno-ampliacao-da-br-324-e-integracao-ferroviaria-por-carlos-augusto/",
       "fonte": "Jornal Grande Bahia",
-      "data": "2026-11-05T07:36:19.252300-03:00",
+      "data": "2026-11-05T07:24:55.496195-03:00",
       "resumo": "Rodovias federais da Bahia enfrentam gargalos. Feira de Santana cobra novo anel, ampliação da BR-324 e integração ferroviária no quarto...",
       "hoje": true
     },
@@ -41,7 +57,7 @@
       "titulo": "Feira de Santana: a cratera da BR 324 prejudica quem vai para Salvador e a cidade em silêncio",
       "link": "https://bahianapolitica.com.br/feira-de-santana-a-cratera-da-br-324-prejudica-quem-vai-para-salvador-e-a-cidade-em-silencio/",
       "fonte": "Bahia Na Política",
-      "data": "2026-11-05T06:36:19.252338-03:00",
+      "data": "2026-11-05T06:24:55.496247-03:00",
       "resumo": "Na segunda-feira (2) para terça-feira (3), a BR 324 amanheceu com uma cratera próximo de Simões de Filho, que acabou criando transtorno para...",
       "hoje": true
     },
@@ -49,7 +65,7 @@
       "titulo": "Trecho da BR-324 é liberado após interdição por buraco que provocou engarrafamento de até 30 km na Bahia",
       "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/05/br-324-e-liberada-apos-interdicao-por-buraco-na-bahia.ghtml",
       "fonte": "G1",
-      "data": "2026-11-05T06:36:19.252114-03:00",
+      "data": "2026-11-05T06:24:55.496035-03:00",
       "resumo": "O trecho da BR-324 em Simões Filho foi liberado nesta quinta-feira (5) após obras do DNIT encerrarem o caos que gerou congestionamentos de...",
       "hoje": true
     }
