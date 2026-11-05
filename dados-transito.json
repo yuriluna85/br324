@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-05T01:24:30.153986-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-11-05T09:36:14.994011-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,22 +22,47 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-11-05T01:24:30.153986-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "BR-324 É LIBERADA APÓS OBRAS DE RECUPERAÇÃO",
+      "link": "https://bahiaeconomica.com.br/destaque-do-dia/br-324-e-liberada-apos-obras-de-recuperacao-210736",
+      "fonte": "Bahia Econômica",
+      "data": "2026-11-05T08:42:19.252308-03:00",
+      "resumo": "O trecho do km 603 da BR-324, nas proximidades de Simões Filho, na Região Metropolitana de Salvador (RMS), foi liberado no início da manhã...",
+      "hoje": true
+    },
+    {
+      "titulo": "Rodovias federais da Bahia desafiam quarto mandato de Lula; Feira de Santana cobra novo Anel de Contorno, ampliação da BR-324 e integração ferroviária | Por Carlos Augusto",
+      "link": "https://jornalgrandebahia.com.br/2026/11/rodovias-federais-da-bahia-desafiam-quarto-mandato-de-lula-feira-de-santana-cobra-novo-anel-de-contorno-ampliacao-da-br-324-e-integracao-ferroviaria-por-carlos-augusto/",
+      "fonte": "Jornal Grande Bahia",
+      "data": "2026-11-05T07:36:19.252300-03:00",
+      "resumo": "Rodovias federais da Bahia enfrentam gargalos. Feira de Santana cobra novo anel, ampliação da BR-324 e integração ferroviária no quarto...",
+      "hoje": true
+    },
+    {
+      "titulo": "Feira de Santana: a cratera da BR 324 prejudica quem vai para Salvador e a cidade em silêncio",
+      "link": "https://bahianapolitica.com.br/feira-de-santana-a-cratera-da-br-324-prejudica-quem-vai-para-salvador-e-a-cidade-em-silencio/",
+      "fonte": "Bahia Na Política",
+      "data": "2026-11-05T06:36:19.252338-03:00",
+      "resumo": "Na segunda-feira (2) para terça-feira (3), a BR 324 amanheceu com uma cratera próximo de Simões de Filho, que acabou criando transtorno para...",
+      "hoje": true
+    },
+    {
+      "titulo": "Trecho da BR-324 é liberado após interdição por buraco que provocou engarrafamento de até 30 km na Bahia",
+      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/05/br-324-e-liberada-apos-interdicao-por-buraco-na-bahia.ghtml",
+      "fonte": "G1",
+      "data": "2026-11-05T06:36:19.252114-03:00",
+      "resumo": "O trecho da BR-324 em Simões Filho foi liberado nesta quinta-feira (5) após obras do DNIT encerrarem o caos que gerou congestionamentos de...",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
