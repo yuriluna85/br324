@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-11-05T21:59:54.546868-03:00",
+  "ultimaAtualizacao": "2026-11-06T04:47:24.570601-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,51 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "PRF cumpre mandado de prisão e recupera veículo clonado na BR-324, em Feira de Santana",
-      "link": "https://glomes.com.br/prf-cumpre-mandado-de-prisao-e-recupera-veiculo-clonado-na-br-324-em-feira-de-santana/",
-      "fonte": "Grupo Lomes de Comunicação",
-      "data": "2026-11-05T15:59:56.651780-03:00",
-      "resumo": "A Polícia Rodoviária Federal (PRF) cumpriu um mandado de prisão em aberto e recuperou um automóvel com registro de roubo.",
-      "hoje": true
-    },
-    {
-      "titulo": "BR-324 É LIBERADA APÓS OBRAS DE RECUPERAÇÃO",
-      "link": "https://bahiaeconomica.com.br/destaque-do-dia/br-324-e-liberada-apos-obras-de-recuperacao-210736",
-      "fonte": "Bahia Econômica",
-      "data": "2026-11-05T08:59:56.651789-03:00",
-      "resumo": "O trecho do km 603 da BR-324, nas proximidades de Simões Filho, na Região Metropolitana de Salvador (RMS), foi liberado no início da manhã...",
-      "hoje": true
-    },
-    {
-      "titulo": "Após 3 dias, trecho da BR-324 interditado por buraco é liberado",
-      "link": "https://atarde.com.br/bahia/apos-3-dias-trecho-da-br-324-interditado-por-buraco-e-liberado-1408405",
-      "fonte": "A TARDE",
-      "data": "2026-11-05T06:59:56.651806-03:00",
-      "resumo": "O trecho da BR-324 interditado no km 603, em Simões Filho, na Região Metropolitana de Salvador, foi liberado na manhã desta quinta-feira (5)...",
-      "hoje": true
-    },
-    {
-      "titulo": "Rodovias federais da Bahia desafiam quarto mandato de Lula; Feira de Santana cobra novo Anel de Contorno, ampliação da BR-324 e integração ferroviária | Por Carlos Augusto",
-      "link": "https://jornalgrandebahia.com.br/2026/11/rodovias-federais-da-bahia-desafiam-quarto-mandato-de-lula-feira-de-santana-cobra-novo-anel-de-contorno-ampliacao-da-br-324-e-integracao-ferroviaria-por-carlos-augusto/",
-      "fonte": "Jornal Grande Bahia",
-      "data": "2026-11-05T06:59:56.651760-03:00",
-      "resumo": "Rodovias federais da Bahia enfrentam gargalos. Feira de Santana cobra novo anel, ampliação da BR-324 e integração ferroviária no quarto...",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 é liberado após três dias de interdição por cratera na pista",
-      "link": "https://www.correio24horas.com.br/bahia/trecho-da-br-324-e-liberado-apos-tres-dias-de-interdicao-por-cratera-na-pista-1126",
-      "fonte": "Jornal Correio",
-      "data": "2026-11-05T06:59:56.651735-03:00",
-      "resumo": "Afundamento no asfalto foi provocado pelas chuvas em Simões Filho.",
-      "hoje": true
-    },
-    {
-      "titulo": "Trecho da BR-324 é liberado após interdição por buraco que provocou engarrafamento de até 30 km na Bahia",
-      "link": "https://g1.globo.com/ba/bahia/noticia/2026/11/05/br-324-e-liberada-apos-interdicao-por-buraco-na-bahia.ghtml",
-      "fonte": "G1",
-      "data": "2026-11-05T06:59:56.651597-03:00",
-      "resumo": "O trecho da BR-324 em Simões Filho foi liberado nesta quinta-feira (5) após obras do DNIT encerrarem o caos que gerou congestionamentos de...",
+      "titulo": "Seguem as obras de duplicação do Anel de Contorno de Feira de Santana, na BR-324/BA",
+      "link": "https://www.google.com/url?opi=89978449&q=CAESqAEBxCJF1ziHA91tx7Af5nk6ReCpwhZWsuNm0EZJQFP1pN_ROK-x_XGv5CzRQv5y-8HJt63VsSLBGP0Q6pJoYYkF4tiah9WlMCSn8umKK4LKEiEe561Gm7y5GX0v_QajuTT-7ammrIK_-wjCHuLoYhvEav74tjf9WC_waYCxy9Q8TdtRMzPHmTjxLlfMtcon2P6Q6s-P0OWNx3mnsPbOBaUBo-hVYcVuLCI&sa=U&uoh=3&ved=2ahUKEwjlwu6W7fKXAxVVFFkFHXv6JZMQxfQBegQIAxAC&usg=AOvVaw1rQJ7O_uokCE6YundrJS4Q",
+      "fonte": "Estradas",
+      "data": "2026-11-06T00:47:28.605109-03:00",
+      "resumo": "Com 7,2 km de extensão, a obra prevê duplicação da pista principal, vias marginais, construção de três viadutos e passarelas para pedestres.",
       "hoje": true
     }
   ],
