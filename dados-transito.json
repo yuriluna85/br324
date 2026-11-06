@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-11-06T12:29:06.696592-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-11-06T17:59:07.646139-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,39 +22,39 @@
   ],
   "noticias": [
     {
+      "titulo": "Incêndio em carreta interdita trecho da BR-324 por 14 horas no sentido Feira de Santana",
+      "link": "https://www.google.com/url?opi=89978449&q=CAESswEBxCJF11TFPH5N7bUye0o3NC-gJSizYq-Kxu_VmFeiCNxH7h6pO5jWCJ5jwGr0vua4vnuD4fOkCbrfIilX20bBMhbeFQaOGaq054JdQS9RjF9z7IadGfVR7_uy6QxZXQxT9QYUv2EZ1GmCorEFHG4oOLf_GaRZEg2xbe1UGYlxt6k3cZTK2DhOCcy9mNvLqa4TnTy_puoYehXc1gFDPpdV17CYZhgTRq2-wy8a_3mDphGRHg&sa=U&uoh=3&ved=2ahUKEwiF86qSnvSXAxXPg4kEHWfEFpYQxfQBegQIChAC&usg=AOvVaw2u8Je1P6ZawS1ijTe3SH86",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-11-06T11:59:12.344092-03:00",
+      "resumo": "Veículo carregado com produtos de perfumaria pegou fogo em São Sebastião do Passé. Rodovia foi totalmente liberada na manhã desta...",
+      "hoje": true
+    },
+    {
       "titulo": "Carreta Pega Fogo E Provoca Bloqueio Total Na BR-324 No Sentido Salvador",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESpgEBxCJF12_iPVdPJWng5S8E4AuWOOwSY03KKRaGY1FOFJV6_F1QhKHpEt1VR8r7aheJQbMQNrW9wanUQEzfHamFJ-T8MjPaqb7TzMkjYGIWwJ3Nqr8pqMG47IRTJaPnZxoespccaOXj4e0nuRqusYbhvnKGlDJmhn_BJSscUdBQ-9HdGtLsK3Yr3dU6eLEpHGO7lRoUE2owDwss4xriUj0ber4LafWL&sa=U&uoh=3&ved=2ahUKEwiOnKmx1POXAxVcD0QIHWdRFOQQxfQBegQIChAC&usg=AOvVaw1bBaMgV37wFuHulU0HSVYu",
+      "link": "https://takta.com.br/municipios/carreta-pega-fogo-e-provoca-bloqueio-total-na-br-324-no-sentido-salvador/",
       "fonte": "Taktá No AR",
-      "data": "2026-11-06T09:29:12.992725-03:00",
+      "data": "2026-11-06T09:59:12.344048-03:00",
       "resumo": "Um incêndio envolvendo uma carreta provocou a interdição total do km 569 da BR-324, em São Sebastião do Passé, na noite desta quinta-feira...",
       "hoje": true
     },
     {
-      "titulo": "José Carneiro repercute cratera na BR 324 sentido Salvador",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESlwEBxCJF1yyxdMfU20QuIF4pVLghM33ZnwgGkFKTNTrgCN7y0pFNnROV6VVmy5UYPxp_V6reQfFZCcMxaXg0G2m_jHJcyC-3J2lPiK2qNDlB2uodKsYy7Ngg9zqMy-6y6UIt8ls1T_A-2q8DNFfhAnxfq7BCWHsXDvblvIWtdK3TY0XXVc6IrYmhX2AM-0fBXL9yql32O8gN&sa=U&uoh=3&ved=2ahUKEwiOnKmx1POXAxVcD0QIHWdRFOQQxfQBegQIBRAC&usg=AOvVaw1hb4Rp61vrwElIFqywahAk",
+      "titulo": "Feira de Santana: problemas na BR 324 mostram a urgência de aeroporto funcionando",
+      "link": "https://www.google.com/url?opi=89978449&q=CAESrQEBxCJF1xCPgsTNEx85PQ0VVwTUiwNEivFie2l0VK4-3sMzl8CZymA8aBs0J9USdYON8LTdjZOeUsCMdpdW28WyEQELaFngX0pWnhgOBYTA5LTooOp0Q6--1sdWOkLCO5WCHQmcbKlXg17-q0yPQbEoBQyZkOYncYkvje6h17z0Ox5H0A19mVTwmv_cr1cXvznVOIFdcjpOQpBcYA1ka3xdqEHU9XoW_0B6KrFM7Q&sa=U&uoh=3&ved=2ahUKEwiF86qSnvSXAxXPg4kEHWfEFpYQxfQBegQIBhAC&usg=AOvVaw1AVQe0Ut9DRL7Md-U2ue7m",
       "fonte": "Bahia Na Política",
-      "data": "2026-11-06T06:29:12.992733-03:00",
-      "resumo": "O vereador José Carneiro (União Brasil – foto ilustração) usou a tribuna da Câmara Municipal de Feira de Santana, nesta quinta-feira (5),...",
-      "hoje": true
-    },
-    {
-      "titulo": "Seguem as obras de duplicação do Anel de Contorno de Feira de Santana, na BR-324/BA",
-      "link": "https://estradas.com.br/seguem-as-obras-de-duplicacao-do-anel-de-contorno-de-feira-de-santana-na-br-324-ba/",
-      "fonte": "Estradas",
-      "data": "2026-11-06T00:29:12.992684-03:00",
-      "resumo": "Com 7,2 km de extensão, a obra prevê duplicação da pista principal, vias marginais, construção de três viadutos e passarelas para pedestres.",
+      "data": "2026-11-06T06:59:12.344103-03:00",
+      "resumo": "Se o tamanho da região de Feira de Santana, com quase 2 milhões de habitantes, já é motivo urgente para que o aeroporto local funcione com...",
       "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 1,
+    "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
