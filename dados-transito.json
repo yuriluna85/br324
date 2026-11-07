@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-11-06T21:40:17.601282-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-11-07T03:43:25.768995-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,47 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Incêndio em carreta interdita trecho da BR-324 por 14 horas no sentido Feira de Santana",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESswEBxCJF1_9DDfaGKODnmyUWo-UPIn3oHKlQLrGEl8Jxt0HfjXGd0H2-qwEVUfmK6bOgAvXyC91cc7FiyQUr6lSyEbPCVmasHZ8csLHi8GALCMtpDiQAg8nJ6xvOgkkWJjDTgxrkec2fB42j_uc_yiv9uqi2BHhHjwYi5aO3dXlg69Nw9xDa9lSEdrISY072TuWXvFvKOWbUDGzZdW618vQvdrRcCIF26SsJmgf88eL9vmuhyQ&sa=U&uoh=3&ved=2ahUKEwj_6_zKz_SXAxXupIkEHbHwMXMQxfQBegQICBAC&usg=AOvVaw07FGlyCDqgozjlEPE1e2Jj",
-      "fonte": "deolhonacidade.net",
-      "data": "2026-11-06T12:40:24.441900-03:00",
-      "resumo": "Veículo carregado com produtos de perfumaria pegou fogo em São Sebastião do Passé. Rodovia foi totalmente liberada na manhã desta...",
-      "hoje": true
-    },
-    {
-      "titulo": "Carreta Pega Fogo E Provoca Bloqueio Total Na BR-324 No Sentido Salvador",
-      "link": "https://takta.com.br/municipios/carreta-pega-fogo-e-provoca-bloqueio-total-na-br-324-no-sentido-salvador/",
-      "fonte": "Taktá No AR",
-      "data": "2026-11-06T09:40:24.441845-03:00",
-      "resumo": "Um incêndio envolvendo uma carreta provocou a interdição total do km 569 da BR-324, em São Sebastião do Passé, na noite desta quinta-feira...",
-      "hoje": true
-    },
-    {
-      "titulo": "Feira de Santana: problemas na BR 324 mostram a urgência de aeroporto funcionando",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESrQEBxCJF19dj-sOib7nvgTRUaQlwtp6D7xqzkzRaVIDgKpZGpxRowwDC2ArYs-P8MQPPFe4d9ZS3lRZgLweSONVcp_lwlUFbROXKxQlKfIFAwbKtNQ2eMShv8g98be1fLr-9Pjj3sBQ9oUhlPylFz8Kk3jizE4EfIVNo8hgpEDAs-G1nqANbIr6cFO4B8oljKIN6KPK5RsxD9eRHVtH_9xAQGVIX6vevqhO09paMqQ&sa=U&uoh=3&ved=2ahUKEwj_6_zKz_SXAxXupIkEHbHwMXMQxfQBegQIBxAC&usg=AOvVaw1zSmk78FSXIjWudl_NB8Mc",
-      "fonte": "Bahia Na Política",
-      "data": "2026-11-06T06:40:24.441909-03:00",
-      "resumo": "Se o tamanho da região de Feira de Santana, com quase 2 milhões de habitantes, já é motivo urgente para que o aeroporto local funcione com...",
-      "hoje": true
-    },
-    {
-      "titulo": "Seguem as obras de duplicação do Anel de Contorno de Feira de Santana, na BR-324/BA",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESqAEBxCJF116PNSA6dxEbUOFFyU7W89-iAIw2Xk6MXwng9dQEgEi_6CiXeWIl2Mk21f50Q16e4k3Fbab95Jqm_5DcAbjgOtutTj0C75z0ZEhwQXwExY_70rY3xGE6ks2XmnXyMCtag4nH8Fz94Vfz9EzTOJ6eiVK8XSrO_HE9h8idKk3Tfg9NartZ0r1V5-KUEvOXL3W0LSiBzmMwClSiwM9SVtGZ7hp58CE&sa=U&uoh=3&ved=2ahUKEwj_6_zKz_SXAxXupIkEHbHwMXMQxfQBegQIBRAC&usg=AOvVaw1Pzc5PfPyAA8k67pYfaBgi",
-      "fonte": "Estradas",
-      "data": "2026-11-06T00:40:24.441891-03:00",
-      "resumo": "Com 7,2 km de extensão, a obra prevê duplicação da pista principal, vias marginais, construção de três viadutos e passarelas para pedestres.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-11-07T03:43:25.768995-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 1,
+    "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
