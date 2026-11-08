@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-08T05:21:06.508536-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Lento",
+  "ultimaAtualizacao": "2026-11-08T12:27:10.777236-03:00",
+  "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Lento",
+      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,22 +22,31 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-11-08T05:21:06.508536-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Grave acidente deixa três pessoas mortas na BR-324",
+      "link": "https://www.portalsalvadorfm.com.br/cidades/grave-acidente-deixa-tres-pessoas-mortas-na-br-324/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-11-08T08:27:21.245167-03:00",
+      "resumo": "Três pessoas morreram na noite deste sábado (7) em um acidente ocorrido na BR-324, no trecho do quilômetro 482, no município de Santa...",
+      "hoje": true
+    },
+    {
+      "titulo": "DNIT prevê a construção de 3 viadutos e 5 passarelas em obra de R$ 179 milhões na BR-324",
+      "link": "https://www.jornalcruzeiro.com.br/tendencias/dnit-preve-a-construcao-de-3-viadutos-e-5-passarelas-em-obra-de-r-179-milhoes-na-br-324/",
+      "fonte": "www.jornalcruzeiro.com.br",
+      "data": "2026-11-08T07:27:21.245124-03:00",
+      "resumo": "A duplicação de um trecho de 7,2 quilômetros do Anel de Contorno de Feira de Santana, na Bahia, está sendo executada pelo Departamento...",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
+    "percentualFluido": 50.0,
     "percentualAtencao": 0.0,
-    "percentualLento": 33.3,
-    "totalAcidentes": 2,
+    "percentualLento": 50.0,
+    "totalAcidentes": 3,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 85.0
   }
 }
