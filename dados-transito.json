@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-07T22:37:58.910637-03:00",
+  "ultimaAtualizacao": "2026-11-08T05:21:06.508536-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,12 +22,11 @@
   ],
   "noticias": [
     {
-      "titulo": "Com investimento de R$ 179 milhões, obra de 7,2 km na BR-324 avança em Feira de Santana e terá 3 viadutos, 5 passarelas, novas pistas e vias marginais, com entrega prevista para 2027",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESqwEBxCJF1_lRkJEdKYT36txtZ-k4twL9tusw_KQV17vSuqOAgqdpsIx9h8oqmiTx7AEFuyxMKTS0CDQ_Xmi2ei-2Gn-8_f8xIh1tZW-aIjmfydT6Q1EEOxxFSlq40D9GAFRfK9L4HE7zj5rtwnsmKLUrWdoaNpUINmnrLFrGJ72pxuds1KZy-aBbwrKygonLmJx73W0ZHB0V5bXqR6vwI7d1KwunjfL72KGZSSA&sa=U&uoh=3&ved=2ahUKEwiy26Lv_fWXAxVKkmoFHWaCNZwQxfQBegQIBhAC&usg=AOvVaw0paQZw1hSE9xNG18MwQ5_5",
-      "fonte": "CPG Click Petróleo e Gás",
-      "data": "2026-11-07T04:40:08.436623-03:00",
-      "resumo": "Duplicação da BR-324 em Feira de Santana recebe R$ 179 milhões para novas pistas, viadutos e passarelas, com entrega em 2027.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-11-08T05:21:06.508536-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
