@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-11-08T23:49:57.283875-03:00",
+  "ultimaAtualizacao": "2026-11-09T07:40:06.749196-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,19 +22,19 @@
   ],
   "noticias": [
     {
-      "titulo": "Grave acidente deixa três pessoas mortas na BR-324",
-      "link": "https://www.portalsalvadorfm.com.br/cidades/grave-acidente-deixa-tres-pessoas-mortas-na-br-324/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-11-08T08:50:04.587545-03:00",
-      "resumo": "Três pessoas morreram na noite deste sábado (7) em um acidente ocorrido na BR-324, no trecho do quilômetro 482, no município de Santa...",
+      "titulo": "Três pessoas morrem após carro bater de frente com carreta na BR-324",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/09/tres-pessoas-morrem-apos-carro-bater-de-frente-com-carreta-na-br-324.ghtml",
+      "fonte": "G1",
+      "data": "2026-11-09T06:40:13.637285-03:00",
+      "resumo": "Acidente na BR-324 mata três moradores de Tanquinho, de 20, 27 e 37 anos, após colisão frontal com carreta. Vítimas foram sepultadas sob...",
       "hoje": true
     },
     {
-      "titulo": "DNIT prevê a construção de 3 viadutos e 5 passarelas em obra de R$ 179 milhões na BR-324",
-      "link": "https://www.jornalcruzeiro.com.br/tendencias/dnit-preve-a-construcao-de-3-viadutos-e-5-passarelas-em-obra-de-r-179-milhoes-na-br-324/",
-      "fonte": "www.jornalcruzeiro.com.br",
-      "data": "2026-11-08T06:50:04.587508-03:00",
-      "resumo": "A duplicação de um trecho de 7,2 quilômetros do Anel de Contorno de Feira de Santana, na Bahia, está sendo executada pelo Departamento...",
+      "titulo": "Três pessoas morrem em grave acidente na BR-324 entre Feira de Santana e Tanquinho",
+      "link": "https://www.jornalfolhadoestado.com/municipios/tres-pessoas-morrem-em-grave-acidente-na-br-324-entre-feira-de-santana-e-tanquinho/",
+      "fonte": "Folha do Estado da Bahia",
+      "data": "2026-11-09T05:40:13.637419-03:00",
+      "resumo": "Três pessoas morreram em um grave acidente de trânsito registrado na noite de sábado (7), na BR-324, no trecho entre Feira de Santana e...",
       "hoje": true
     }
   ],
