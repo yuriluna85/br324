@@ -1,6 +1,6 @@
 {
   "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-11-09T07:40:06.749196-03:00",
+  "ultimaAtualizacao": "2026-11-09T18:12:28.979809-03:00",
   "tempoEstimadoMinutos": 95,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,19 +22,27 @@
   ],
   "noticias": [
     {
-      "titulo": "Três pessoas morrem após carro bater de frente com carreta na BR-324",
-      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/09/tres-pessoas-morrem-apos-carro-bater-de-frente-com-carreta-na-br-324.ghtml",
-      "fonte": "G1",
-      "data": "2026-11-09T06:40:13.637285-03:00",
-      "resumo": "Acidente na BR-324 mata três moradores de Tanquinho, de 20, 27 e 37 anos, após colisão frontal com carreta. Vítimas foram sepultadas sob...",
+      "titulo": "Deputado defende mudar regras de concessão da BR-324 e critica taxa de juros",
+      "link": "https://politicaaoponto.com.br/deputado-defende-mudar-regras-de-concessao-da-br-324-e-critica-taxa-de-juros/",
+      "fonte": "Política ao Ponto",
+      "data": "2026-11-09T12:12:33.015411-03:00",
+      "resumo": "Félix Mendonça Jr. afirma que pedágio só deve ser cobrado após entrega de obras e cobra transmissão ao vivo das reuniões do Copom.",
       "hoje": true
     },
     {
       "titulo": "Três pessoas morrem em grave acidente na BR-324 entre Feira de Santana e Tanquinho",
       "link": "https://www.jornalfolhadoestado.com/municipios/tres-pessoas-morrem-em-grave-acidente-na-br-324-entre-feira-de-santana-e-tanquinho/",
       "fonte": "Folha do Estado da Bahia",
-      "data": "2026-11-09T05:40:13.637419-03:00",
+      "data": "2026-11-09T06:12:33.015421-03:00",
       "resumo": "Três pessoas morreram em um grave acidente de trânsito registrado na noite de sábado (7), na BR-324, no trecho entre Feira de Santana e...",
+      "hoje": true
+    },
+    {
+      "titulo": "Três pessoas morrem após carro bater de frente com carreta na BR-324",
+      "link": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/11/09/tres-pessoas-morrem-apos-carro-bater-de-frente-com-carreta-na-br-324.ghtml",
+      "fonte": "G1",
+      "data": "2026-11-09T06:12:33.015263-03:00",
+      "resumo": "Acidente na BR-324 mata três moradores de Tanquinho, de 20, 27 e 37 anos, após colisão frontal com carreta. Vítimas foram sepultadas sob...",
       "hoje": true
     }
   ],
