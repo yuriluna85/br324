@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-12T15:30:27.193892-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-11-12T20:55:39.990099-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -16,29 +16,37 @@
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Aumento no fluxo habitual de veículos com retenção localizada."
     }
   ],
   "noticias": [
     {
+      "titulo": "Capotamento deixa três feridos e provoca congestionamento na BR-324",
+      "link": "https://www.deolhonacidade.net/capotamento-deixa-tres-feridos-e-provoca-congestionamento-na-br-324",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-11-12T11:55:45.727631-03:00",
+      "resumo": "Acidente ocorreu por volta das 7h desta quinta-feira (12). Motorista teria fraturado um braço, enquanto duas passageiras tiveram ferimentos...",
+      "hoje": true
+    },
+    {
       "titulo": "VÍDEO: Carro capota na BR-324 e deixa pessoas feridas",
       "link": "https://www.portalsalvadorfm.com.br/salvador/video-carro-capota-na-br-324-e-deixa-pessoas-feridas/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-11-12T09:30:32.107637-03:00",
+      "data": "2026-11-12T09:55:45.727473-03:00",
       "resumo": "Ao menos duas pessoas ficaram feridas após o capotamento de um carro. O acidente aconteceu na manhã desta quinta-feira (12), no km 625 da...",
       "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
     "totalObras": 0,
-    "totalCongestionamento": 0,
+    "totalCongestionamento": 1,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
