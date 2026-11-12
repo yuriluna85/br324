@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-12T07:29:07.451842-03:00",
+  "ultimaAtualizacao": "2026-11-12T15:30:27.193892-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-11-12T07:29:07.451842-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "VÍDEO: Carro capota na BR-324 e deixa pessoas feridas",
+      "link": "https://www.portalsalvadorfm.com.br/salvador/video-carro-capota-na-br-324-e-deixa-pessoas-feridas/",
+      "fonte": "Portal Salvador FM",
+      "data": "2026-11-12T09:30:32.107637-03:00",
+      "resumo": "Ao menos duas pessoas ficaram feridas após o capotamento de um carro. O acidente aconteceu na manhã desta quinta-feira (12), no km 625 da...",
+      "hoje": true
     }
   ],
   "metricas": {
