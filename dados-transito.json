@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-13T16:56:31.039950-03:00",
+  "ultimaAtualizacao": "2026-11-13T21:36:39.806133-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-11-13T01:27:41.649135-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Exclusivo: Concessão da BR-116 e BR-324 entra na mira de investigação do MPF",
+      "link": "https://www.jornalfolhadoestado.com/municipios/exclusivo-concessao-da-br-116-e-br-324-entra-na-mira-de-investigacao-do-mpf/",
+      "fonte": "Folha do Estado da Bahia",
+      "data": "2026-11-13T17:36:48.144671-03:00",
+      "resumo": "A concessão do sistema rodoviário BR-116/324, batizado de Rota 2 de Julho, passou a ser acompanhada pelo Ministério Público Federal (MPF).",
+      "hoje": true
     }
   ],
   "metricas": {
