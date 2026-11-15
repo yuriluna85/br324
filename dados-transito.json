@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-15T14:17:55.118273-03:00",
+  "ultimaAtualizacao": "2026-11-15T18:56:12.407643-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,11 +22,12 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-11-15T07:11:27.790573-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Jovem de 19 anos é sequestrada no estacionamento do Salvador Shopping e resgatada após perseguição na BR-324",
+      "link": "https://cadernodenoticias.com.br/noticias/jovem-de-19-anos-e-sequestrada-no-estacionamento-do-salvador-shopping-e-resgatada-apos-perseguicao-na-br-324/",
+      "fonte": "Caderno de Notícias",
+      "data": "2026-11-15T11:56:17.293845-03:00",
+      "resumo": "Uma jovem de 19 anos viveu momentos de terror neste sábado (14), após ser sequestrada em um dos estacionamentos do Salvador Shopping,...",
+      "hoje": true
     }
   ],
   "metricas": {
