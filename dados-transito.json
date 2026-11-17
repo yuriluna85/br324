@@ -1,13 +1,13 @@
 {
-  "statusGeral": "Lento",
-  "ultimaAtualizacao": "2026-11-16T23:31:37.452453-03:00",
-  "tempoEstimadoMinutos": 95,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-11-17T08:21:26.038292-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
       "ponto": "Pedágio de Simões Filho (Km 599)",
-      "status": "Lento",
-      "mensagem": "Lentidão acentuada devido a registro de acidente nas imediações."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
@@ -22,47 +22,22 @@
   ],
   "noticias": [
     {
-      "titulo": "Carro fica parcialmente capotado após atingir mureta na BR-324, em Salvador",
-      "link": "https://www.deolhonacidade.net/carro-fica-parcialmente-capotado-apos-atingir-mureta-na-br-324-em-salvador",
-      "fonte": "deolhonacidade.net",
-      "data": "2026-11-16T11:31:44.933038-03:00",
-      "resumo": "Acidente aconteceu nas primeiras horas desta segunda-feira (16), próximo ao Acesso Norte; pista molhada e interdição de faixa provocaram...",
-      "hoje": true
-    },
-    {
-      "titulo": "ACIDENTE COM CARRO PROVOCA CONGESTIONAMENTO NA BR-324",
-      "link": "https://bahiaeconomica.com.br/salvador/acidente-com-carro-provoca-congestionamento-na-br-324-211680",
-      "fonte": "Bahia Econômica",
-      "data": "2026-11-16T08:31:44.933218-03:00",
-      "resumo": "Um acidente com um Ford Ka na BR-324 causou congestionamento. Descubra os detalhes e como a chuva influenciou a situação.",
-      "hoje": true
-    },
-    {
-      "titulo": "Jovem é sequestrada em shopping de Salvador e resgatada após perseguição na BR-324",
-      "link": "https://www.portalabrantes.com.br/noticia/50109-jovem-e-sequestrada-em-shopping-de-salvador-e-resgatada-apos-perseguicao-na-br-324",
-      "fonte": "Portal Abrantes",
-      "data": "2026-11-16T06:31:44.933249-03:00",
-      "resumo": "Uma jovem de 19 anos foi sequestrada nesse sábado (14), em um dos estacionamentos do Salvador Shopping. Graças a uma ação rápida da polícia...",
-      "hoje": true
-    },
-    {
-      "titulo": "Carro fica preso no canteiro central da BR-324 e causa congestionamento",
-      "link": "https://www.portalsalvadorfm.com.br/salvador/carro-fica-preso-no-canteiro-central-da-br-324-e-causa-congestionamento/",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-11-16T06:31:44.933183-03:00",
-      "resumo": "Duas rodas do veículo ficaram suspensas na estrutura que divide as pistas da rodovia.",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-11-17T08:21:26.038292-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
+    "percentualFluido": 66.7,
     "percentualAtencao": 0.0,
-    "percentualLento": 50.0,
-    "totalAcidentes": 3,
+    "percentualLento": 33.3,
+    "totalAcidentes": 2,
     "totalObras": 0,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 85.0
+    "tempoMedioMinutos": 81.7
   }
 }
