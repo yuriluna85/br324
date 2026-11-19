@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-19T05:11:47.955341-03:00",
-  "tempoEstimadoMinutos": 75,
+  "statusGeral": "Atenção",
+  "ultimaAtualizacao": "2026-11-19T14:29:26.620605-03:00",
+  "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
@@ -22,22 +22,31 @@
   ],
   "noticias": [
     {
-      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
-      "link": "",
-      "fonte": "Mídias Locais",
-      "data": "2026-11-19T05:11:47.955341-03:00",
-      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
+      "titulo": "Buraco na BR-324 provoca bloqueio parcial em trecho de Candeias",
+      "link": "https://www.deolhonacidade.net/buraco-na-br-324-provoca-bloqueio-parcial-em-trecho-de-candeias",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-11-19T13:42:32.201465-03:00",
+      "resumo": "Interdição atinge uma faixa no sentido Feira de Santana–Salvador, no km 594. Reparos começaram na quarta-feira (18), mas ainda não há...",
+      "hoje": true
+    },
+    {
+      "titulo": "Novo buraco leva à interdição parcial da BR-324 em Candeias",
+      "link": "https://www.metro1.com.br/noticias/bahia/191646,novo-buraco-leva-a-interdicao-parcial-da-br-324-em-candeias",
+      "fonte": "Rádio Metrópole",
+      "data": "2026-11-19T12:29:32.201324-03:00",
+      "resumo": "Reparo ocorre no km 594, em Candeias; uma faixa segue liberada no sentido Interior–Capital.",
+      "hoje": true
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 66.7,
-    "percentualAtencao": 0.0,
+    "percentualFluido": 50.0,
+    "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 0,
+    "totalObras": 1,
     "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 81.7
+    "tempoMedioMinutos": 83.3
   }
 }
