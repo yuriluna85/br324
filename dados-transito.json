@@ -1,6 +1,6 @@
 {
   "statusGeral": "Fluido",
-  "ultimaAtualizacao": "2026-11-20T10:51:40.202009-03:00",
+  "ultimaAtualizacao": "2026-11-20T18:37:53.788925-03:00",
   "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,26 @@
   ],
   "noticias": [
     {
+      "titulo": "CAMINHÃO DE CERVEJA PEGA FOGO E CARGA É SAQUEADA NA BR-324",
+      "link": "https://bahiaeconomica.com.br/salvador/caminhao-de-cerveja-pega-fogo-e-carga-e-saqueada-na-br-324-212151",
+      "fonte": "Bahia Econômica",
+      "data": "2026-11-20T11:38:03.556102-03:00",
+      "resumo": "Um caminhão carregado de cerveja pegou fogo na manhã desta sexta-feira (20), na BR-324, nas proximidades do bairro de Valéria, em Salvador.",
+      "hoje": true
+    },
+    {
+      "titulo": "Carreta carregada com cerveja pega fogo na BR-324 e carga é saqueada durante a madrugada",
+      "link": "https://www.google.com/url?opi=89978449&q=CAEStAEBxCJF1wbeW8I9eS338NJ6clKlMPYWjFj1etogtabAGBvR5IikHHfBH56HRR3GarU0fZhLn4ZNtFSoIuTI7uMUdPUkCXapZXcAtQzV3mnFKv-qSC03p6s245rl2fCd7pnrXcUOAgLjol2YBwfkEfwSwEgsju7MrWJ-xbBGwt_D4lx3_PEkN6yNCIXADIecBlBxzHU5GOa7jEqJX0R-_MmCdhV_imsGWChSSvxGqRLLURtxNzo&sa=U&uoh=3&ved=2ahUKEwiJufP3wJeYAxXDRDABHWH3EE4QxfQBegQICxAC&usg=AOvVaw3LVMbftWdrGbXEDuG8wV9u",
+      "fonte": "deolhonacidade.net",
+      "data": "2026-11-20T10:38:03.556318-03:00",
+      "resumo": "Incêndio começou na noite de quinta-feira (19), próximo ao viaduto da CIA-Aeroporto; mercadoria que não foi destruída pelas chamas acabou...",
+      "hoje": true
+    },
+    {
       "titulo": "Valéria: caminhão carregado de cerveja pega fogo na BR-324 e tem carga saqueada",
       "link": "https://www.correio24horas.com.br/salvador/valeria-caminhao-carregado-de-cerveja-pega-fogo-na-br-324-e-tem-carga-saqueada-1126",
       "fonte": "Jornal Correio",
-      "data": "2026-11-20T09:51:45.206547-03:00",
+      "data": "2026-11-20T09:38:03.556303-03:00",
       "resumo": "Veículo foi atingido pelas chamas no km 607, sentido Salvador, nas proximidades da fábrica de biscoitos Águia.",
       "hoje": true
     },
@@ -33,7 +49,7 @@
       "titulo": "VÍDEO: Caminhão de cerveja pega fogo e moradores saqueiam carga na BR-324",
       "link": "https://www.portalsalvadorfm.com.br/salvador/video-caminhao-de-cerveja-pega-fogo-e-moradores-saqueiam-carga-na-br-324/",
       "fonte": "Portal Salvador FM",
-      "data": "2026-11-20T09:51:45.206531-03:00",
+      "data": "2026-11-20T09:38:03.556293-03:00",
       "resumo": "Um caminhão que transportava cerveja pegou fogo na BR-324, nas imediações do bairro de Valéria, em Salvador. O caso aconteceu na manhã d.",
       "hoje": true
     }
