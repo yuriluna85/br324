@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-11-26T06:01:37.945963-03:00",
+  "ultimaAtualizacao": "2026-11-26T16:10:50.866559-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -22,10 +22,26 @@
   ],
   "noticias": [
     {
+      "titulo": "Cabo de alta tensão provoca bloqueio na BR-324 e congestionamento de 14 km em Salvador",
+      "link": "https://www.google.com/url?opi=89978449&q=CAESsAEBxCJF12BOJFjzjQz0fn6kS1aQE_Mmk1nuM3TnAswVkhbcoauyNRhpcCy2JBSPNkYZ8Wvdk82alTkcaolLxPqcxxYyOYyPWEAyjlPiZOAXliO-GOJAVwdGjK3A1yv4wXUJYiEROaQM3liXnZGzo8GBMGSIkMzfJsT7ekcHhCqnvAQxqOj21zXs3sQTe7uxRDfAfAyDza0OnVAUjhcgT_UPfUTogTYeYvorXIw8xIN3Sg&sa=U&uoh=3&ved=2ahUKEwjNhZihq6aYAxVGJEQIHVRWK1gQxfQBegQICRAC&usg=AOvVaw1_SbCxl-ZFG6RGZIa4lOyo",
+      "fonte": "MundoBA",
+      "data": "2026-11-26T07:11:00.724446-03:00",
+      "resumo": "Um cabo de alta tensão rebaixado sobre a pista provocou a interdição de um trecho da BR-324, em Salvador, na tarde desta quarta-feira (25).",
+      "hoje": true
+    },
+    {
+      "titulo": "ViaBahia poderá disputar novo leilão após deixar BR-324 marcada por buracos e má conservação",
+      "link": "https://www.google.com/url?opi=89978449&q=CAESxgEBxCJF15xFTdV0WomytBeMIhcACbhLbMe7jHS6P1iLyVaOuvMu2u-hHUnnrpa6sHIDKh5qDTUJk5OUpWoPfndQ9t27HXO3DwXZr4dFNk9390XENkFvjWYi5ZWLz7tGiJwrPWbyRryBI6LoFpfg91aKolKMk-Vs_iZIoAbDfe9VxqBDTgfiffAdSTHFi-lwwmMo6upPp0J57NeDIht5DVorOw3-Rxg8IUB2OPbITFPTMmHwL9c1lEHVoSLw3PS5Hh3930iOnco&sa=U&uoh=3&ved=2ahUKEwjNhZihq6aYAxVGJEQIHVRWK1gQxfQBegQICxAC&usg=AOvVaw2kOmKAcEff3QG_N-o1lWZo",
+      "fonte": "Acesse Política",
+      "data": "2026-11-26T06:11:00.724433-03:00",
+      "resumo": "Decisão do TCU libera a ViaBahia para disputar a Rota 2 de Julho, apesar do histórico de falhas na conservação das rodovias.",
+      "hoje": true
+    },
+    {
       "titulo": "Queda de cabo de alta tensão interdita trecho da BR-324 e causa 14 km de congestionamento",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESzAEBxCJF18wNBjC7Hc4AD6qhXAX95xRYr0GLzvzCHSnbZn0byl-fwzzOl-Pp62GgRQOhzjzXwpJJ0f7EHDwKNkQ_1XRTeopeMTWDjWUZ_AqySRQ4Oc4Zoej_BlqKvkQEqI56G4w7MZ5KrXBa3M9gme44w0ayMPBIcQqj5bwiTAL08fPGUORKEZR5t_FbwASP6t9Pji5u1dEgbZ6Toj9WkMpRpLhRn5skXZ551UjQxvUrrBHKT0vnIbh2sGVr-QwtxoBjoXPorZ7nK9T_Im0&sa=U&uoh=3&ved=2ahUKEwjB7fyIo6WYAxUbnCYFHbkWH9IQxfQBegQIChAC&usg=AOvVaw3RMfTB9o4Y9m0uR0gj6KTS",
+      "link": "https://www.google.com/url?opi=89978449&q=CAESzAEBxCJF1_hE_S8OFtsSWlS3gZ7vhJxGkerAdTdN2_yWh0q2jCWQCsY1-1Vrw1WkIQkBBYDriaoYG1z842kNPOuw5qDkSV8zb0VBM_r1JXZ9YcEagRgqp-D71VBB1zUb6ffwVqCKAJFQfsNVolzf0PpaYH8B8P-O7XkVx_N5q1h_LSU7AtkNWDgNwn1bt9P3FSD3NQGJaMjSOsspChBsnYOZRMAyx3BN_1C1We9Zo6xK7TdjHzEsaugUUlXwS6ZKxzoCaIaEk8CM5O3yNdo&sa=U&uoh=3&ved=2ahUKEwjNhZihq6aYAxVGJEQIHVRWK1gQxfQBegQIAxAC&usg=AOvVaw0bZ8C0nb5XrkUUsSX5apKU",
       "fonte": "Folha do Estado da Bahia",
-      "data": "2026-11-26T04:01:42.588890-03:00",
+      "data": "2026-11-26T04:11:00.724459-03:00",
       "resumo": "Incidente aconteceu na altura de Salvador, no sentido Feira de Santana. Via ficou totalmente fechada, segundo informou a PRF.",
       "hoje": true
     }
