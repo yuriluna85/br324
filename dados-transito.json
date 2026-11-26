@@ -1,6 +1,6 @@
 {
   "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-11-25T21:46:37.350396-03:00",
+  "ultimaAtualizacao": "2026-11-26T06:01:37.945963-03:00",
   "tempoEstimadoMinutos": 85,
   "tempoNormalMinutos": 75,
   "alertas": [
@@ -11,69 +11,21 @@
     },
     {
       "ponto": "Trecho de Amélia Rodrigues (Km 545)",
-      "status": "Atenção",
-      "mensagem": "Fluxo com atenção redobrada devido a obras de manutenção na pista."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
-      "status": "Fluido",
-      "mensagem": "Fluxo normal."
+      "status": "Atenção",
+      "mensagem": "Aumento no fluxo habitual de veículos com retenção localizada."
     }
   ],
   "noticias": [
     {
-      "titulo": "Vídeo: Trecho da BR-324 é totalmente inteditado por queda de cabo elétrico na via",
-      "link": "https://www.google.com/url?opi=89978449&q=CAEStAEBxCJF1__bhSeFSBZKAyiNnhzMSRh4-gD0KSN_mx0ZgcmU0nodpj9lZqUfsxqP19wc3PpACzlwr7F1DfL1s9HjkWX0ZDCVHiESPP3y6iZs9HynTLO_KwxFmPuQqjY2fMhLz4r2hjWoAkgyqea4rWDbyLI6pEQ9e-sWCpu4I1-w2HJVTOZL87Vr1vKu8fcP-DzK1mIRQClxwzJUddp6CZKnSc-C5it93gVQLNyP42r4HTHbqts&sa=U&uoh=3&ved=2ahUKEwj0jJu3tKSYAxUZSTABHVwRFU4QxfQBegQICBAC&usg=AOvVaw2kWtCK5EwlRoSbzzTrcU26",
-      "fonte": "Farol da Bahia",
-      "data": "2026-11-25T19:46:42.642582-03:00",
-      "resumo": "A interdição é no sentido Salvador para Feira de Santana.",
-      "hoje": true
-    },
-    {
-      "titulo": "Uma queda de um cabo de alta tensão provocou a interdição total da BR-324, em Salvador, na altura do km 611, no sentido interior da Bahia. Segundo a Polícia Rodoviária Federal, o bloqueio foi registrado por volta das quatro da tarde desta quarta (25). Há",
-      "link": "https://www.instagram.com/reel/DgLgNGRgeHZ/",
-      "fonte": "Instagram",
-      "data": "2026-11-25T19:46:42.642550-03:00",
-      "resumo": "há 2 horas",
-      "hoje": true
-    },
-    {
-      "titulo": "Cabo de alta tensão interdita trecho da BR-324 e provoca congestionamento de 14 km em Salvador",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESzAEBxCJF1-f3DBInJJ0OPgI57O7-eFuGfbkW1PY4WJJJTw_BNHP98kJZPw9NH2u4CKxJT9J3lY8lImttOExEvzWFJ6wBfhdmQDh4JpU0Mj8jhvR7F-78v03KpBCjQiguiwjIWr-OcBlytMFLdxWl8M2Rxfoiuoy19eMhuccck6D5pHJUTVX7XL4efx3H-8C8abqb_SF4GzKntwi4n3M64AuvDP0Sem_hymBQhHG08GjNmz9R6VH9oFHTruMnf8Gm3UuGZ8AIaUGZz5VDia8&sa=U&uoh=3&ved=2ahUKEwj0jJu3tKSYAxUZSTABHVwRFU4QxfQBegQICRAC&usg=AOvVaw3Vylaa6xm8KI9HjjJot-OL",
-      "fonte": "Rádio Metrópole",
-      "data": "2026-11-25T18:46:42.642588-03:00",
-      "resumo": "Problema foi registrado na saída da capital, no sentido Feira de Santana; motoristas devem evitar a região e utilizar a Avenida Paralela...",
-      "hoje": true
-    },
-    {
-      "titulo": "CABO DE ALTA TENSÃO CAI NA BR-324 E INTERDITA TRECHO SENTIDO FEIRA",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESrAEBxCJF13tK28JFYtfaWloTcD36tXTHxt_GaAUxAQxriBLA3W3RLI-u3xqUf_CGSuZvSRWb2BONPTmH54_id-gYqTCg26_CZYB2jgOnZ-RPOgvjKJ3xZojcMibGJMBuLzqXCaNvUH9UBL30Z0fnK3Q1EYa6-ku-NaYjh_4mL1PXoHxMAqZT8PrFzhJBvG3qsKmu9yWy0AulgwqM4G4cXWNyX9KGAyBhD0kwJ1zr&sa=U&uoh=3&ved=2ahUKEwj0jJu3tKSYAxUZSTABHVwRFU4QxfQBegQIAxAC&usg=AOvVaw1Zoyv7d4V_hLQW43-l45fZ",
-      "fonte": "Bahia Econômica",
-      "data": "2026-11-25T17:46:42.642576-03:00",
-      "resumo": "A queda de um cabo de alta tensão provocou a interdição total de um trecho da BR-324, em Salvador, na tarde desta quarta-feira (25).",
-      "hoje": true
-    },
-    {
-      "titulo": "Vídeo: cabo de alta tensão cai e provoca caos na BR-324",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESwAEBxCJF17bYiMJDEmsgKlktRBrKsXJatO_WPCgbA-jRigdYuCwd85chak8x7sXk4pOMTmqtX3xHytmkIErKAHo5_IBmBT5h1Hd3kPDzswjr43q31GZ5G5HvICpUhfivQl4IMiyK75uPB-7UtGv-kXb3qK02jNF9_RuKoGuxQ0UjGprQpy489RLi_ZgvYd2cVVOUsPvSKNLQi5ShPZrMJSA7V7SrMwW_gXe6Ry2kZ3NmShdRHDWCIJdfxrgSzhtyubI&sa=U&uoh=3&ved=2ahUKEwj0jJu3tKSYAxUZSTABHVwRFU4QxfQBegQIBxAC&usg=AOvVaw1X5gg5BM5IHiRFcFDMPbL4",
-      "fonte": "Portal Salvador FM",
-      "data": "2026-11-25T17:46:42.642569-03:00",
-      "resumo": "A queda de um cabo de alta tensão provocou a interdição total de um trecho da BR-324, em Salvador, na tarde desta quarta-feira (25)",
-      "hoje": true
-    },
-    {
-      "titulo": "Problema em cabo de alta tensão interdita BR-324 e provoca congestionamento de 14 km em Salvador",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESygEBxCJF1-oSKs_if9iOI25gbaVKVyyp29_cflG4HPbrDb1wz0JtpeXgrQsIJi0SkSXjyLwJtKzOFCR7bnwRSwD2j3q_dK3hRp1RmyU01U0sSuJktWtXKDn1_rgB_bEJ_cOCNrWDGuJMESYnEhgFJSaGn56KIge8fGmf_rPb7jlFfJbXAEkao0WOd67vvaohLrEb65eBQut4uz8Ty9MT_45eDM2LabGYxSJIwCKgiS8mJpHyGZl444KPKE2OUWOukk0pKjWC-IJqTUzx&sa=U&uoh=3&ved=2ahUKEwj0jJu3tKSYAxUZSTABHVwRFU4QxfQBegQIDBAC&usg=AOvVaw3dklYN-ID9ZimWFicqfMnv",
-      "fonte": "Jornal Correio",
-      "data": "2026-11-25T17:46:42.642561-03:00",
-      "resumo": "A BR-324 foi interditada na tarde desta quarta-feira (25), em um trecho de Salvador. Segundo informações da Polícia Rodoviária Federal (PRF)...",
-      "hoje": true
-    },
-    {
-      "titulo": "Queda de cabo de alta tensão interdita trecho da BR-324 e causa 14 km de congestionamento; confira rota alternativa",
-      "link": "https://www.google.com/url?opi=89978449&q=CAESigEBxCJF18IbRJ7KipxtoUygqb_CVSQScsaMIug1PrjH8_nXHnHD620vy7SQulHzUsOn5HbbhIVR44u-Fdl-QG03yBqUGkX8CLhL0x5aju4xfu3P4yYGCNUtzTbI_D47dSHhMdKZWpEv6oShw_TbeJlM02P_9po12WHqoxa41lODgOxvbLBBLJGKDSw&sa=U&uoh=3&ved=2ahUKEwj0jJu3tKSYAxUZSTABHVwRFU4QxfQBegQIBhAC&usg=AOvVaw0S074pwIK9XRH-YcA4bsg8",
-      "fonte": "G1",
-      "data": "2026-11-25T17:46:42.642412-03:00",
+      "titulo": "Queda de cabo de alta tensão interdita trecho da BR-324 e causa 14 km de congestionamento",
+      "link": "https://www.google.com/url?opi=89978449&q=CAESzAEBxCJF18wNBjC7Hc4AD6qhXAX95xRYr0GLzvzCHSnbZn0byl-fwzzOl-Pp62GgRQOhzjzXwpJJ0f7EHDwKNkQ_1XRTeopeMTWDjWUZ_AqySRQ4Oc4Zoej_BlqKvkQEqI56G4w7MZ5KrXBa3M9gme44w0ayMPBIcQqj5bwiTAL08fPGUORKEZR5t_FbwASP6t9Pji5u1dEgbZ6Toj9WkMpRpLhRn5skXZ551UjQxvUrrBHKT0vnIbh2sGVr-QwtxoBjoXPorZ7nK9T_Im0&sa=U&uoh=3&ved=2ahUKEwjB7fyIo6WYAxUbnCYFHbkWH9IQxfQBegQIChAC&usg=AOvVaw3RMfTB9o4Y9m0uR0gj6KTS",
+      "fonte": "Folha do Estado da Bahia",
+      "data": "2026-11-26T04:01:42.588890-03:00",
       "resumo": "Incidente aconteceu na altura de Salvador, no sentido Feira de Santana. Via ficou totalmente fechada, segundo informou a PRF.",
       "hoje": true
     }
@@ -84,8 +36,8 @@
     "percentualAtencao": 16.7,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
-    "totalObras": 1,
-    "totalCongestionamento": 0,
+    "totalObras": 0,
+    "totalCongestionamento": 1,
     "causaPrincipalLentidao": "Acidente",
     "tempoMedioMinutos": 83.3
   }
