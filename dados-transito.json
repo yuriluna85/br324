@@ -1,7 +1,7 @@
 {
-  "statusGeral": "Atenção",
-  "ultimaAtualizacao": "2026-11-26T23:19:11.497350-03:00",
-  "tempoEstimadoMinutos": 85,
+  "statusGeral": "Fluido",
+  "ultimaAtualizacao": "2026-11-27T08:05:09.711731-03:00",
+  "tempoEstimadoMinutos": 75,
   "tempoNormalMinutos": 75,
   "alertas": [
     {
@@ -16,29 +16,28 @@
     },
     {
       "ponto": "Acesso a Feira de Santana (Km 518)",
-      "status": "Atenção",
-      "mensagem": "Aumento no fluxo habitual de veículos com retenção localizada."
+      "status": "Fluido",
+      "mensagem": "Fluxo normal."
     }
   ],
   "noticias": [
     {
-      "titulo": "Cabo de alta tensão provoca bloqueio na BR-324 e congestionamento de 14 km em Salvador",
-      "link": "https://mundoba.com.br/bahia/cabo-de-alta-tensao-provoca-bloqueio-na-br-324-e-congestionamento-de-14-km-em-salvador/",
-      "fonte": "MundoBA",
-      "data": "2026-11-26T07:19:16.970604-03:00",
-      "resumo": "Um cabo de alta tensão rebaixado sobre a pista provocou a interdição de um trecho da BR-324, em Salvador, na tarde desta quarta-feira (25).",
-      "hoje": true
+      "titulo": "Notícia de Teste: Sem ocorrências graves registradas nas últimas horas",
+      "link": "",
+      "fonte": "Mídias Locais",
+      "data": "2026-11-27T08:05:09.711731-03:00",
+      "resumo": "O tráfego na BR-324 opera sob condições normais nos principais trechos. Não há registros de acidentes severos ou interdições de faixas na rodovia."
     }
   ],
   "metricas": {
     "totalRegistros": 6,
-    "percentualFluido": 50.0,
-    "percentualAtencao": 16.7,
+    "percentualFluido": 66.7,
+    "percentualAtencao": 0.0,
     "percentualLento": 33.3,
     "totalAcidentes": 2,
     "totalObras": 0,
-    "totalCongestionamento": 1,
+    "totalCongestionamento": 0,
     "causaPrincipalLentidao": "Acidente",
-    "tempoMedioMinutos": 83.3
+    "tempoMedioMinutos": 81.7
   }
 }
